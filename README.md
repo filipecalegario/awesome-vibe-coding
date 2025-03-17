@@ -30,6 +30,10 @@
 - [HeyBoss](https://www.heyboss.xyz/) - "build app & sites in minutes".
 - [Creatr](https://getcreatr.com/) - "create and deploy web apps and landing pages in seconds".
 
+## Deploy and publish
+
+- [Yourware](https://yourware.so) - Deploy files/folders to the web. Share your code with the world.
+
 ## IDEs and Code Editors
 
 - [Windsurf Editor by Codeium](https://codeium.com/windsurf) - Agentic IDE, "where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic".
