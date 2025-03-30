@@ -73,6 +73,7 @@ English | [한국어](./README-KR.md)
 - [Vibe Coding - Where Everyone Can ‘Speak’ Computer Programming - The New Stack](https://thenewstack.io/vibe-coding-where-everyone-can-speak-computer-programming/)
 - [A.I. and Vibecoding Helped Me to Create My Own Software - The New York Times](https://www.nytimes.com/2025/02/27/technology/personaltech/vibecoding-ai-software-programming.html)
 - [/r/vibecoding](https://www.reddit.com/r/vibecoding/)
+- [VibeCodingList.com](https://VibeCodingList.com) – Curated directory of vibe coding examples and resources.
 
 ## Contribute
 
