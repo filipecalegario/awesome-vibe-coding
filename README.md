@@ -34,6 +34,10 @@ English | [한국어](./README-KR.md)
 - [Creatr](https://getcreatr.com/) - "Create and deploy web apps and landing pages in seconds".
 - [Rork](https://rork.app/) - "Build any mobile app, fast".
 
+## Deploy and publish
+
+- [Yourware](https://yourware.so) - Deploy files/folders to the web. Share your code with the world.
+
 ## IDEs and Code Editors
 
 - [Windsurf Editor by Codeium](https://codeium.com/windsurf) - Agentic IDE, "where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic".
