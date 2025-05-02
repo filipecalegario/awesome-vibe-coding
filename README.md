@@ -37,6 +37,10 @@ English | [한국어](./README-KR.md)
 - [Firebase Studio](https://studio.firebase.google.com/) - Google's agentic cloud-based development environment that helps build and ship production-quality full-stack AI apps.
 - [Napkins.dev](https://www.napkins.dev/) - Screenshot to code
 
+## Deploy and publish
+
+- [Yourware](https://yourware.so) - Deploy files/folders to the web. Share your code with the world.
+
 ## IDEs and Code Editors
 
 - [Windsurf Editor by Codeium](https://codeium.com/windsurf) - Agentic IDE, "where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic".
