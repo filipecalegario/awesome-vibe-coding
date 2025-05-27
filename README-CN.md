@@ -106,4 +106,4 @@
 
 ## 贡献
 
-欢迎贡献！请先阅读[贡献指南](CONTRIBUTING.md)。
+欢迎贡献！请先阅读[贡献指南](./contributing.md)。
