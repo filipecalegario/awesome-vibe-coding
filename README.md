@@ -39,6 +39,10 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Napkins.dev](https://www.napkins.dev/) - Screenshot to code
 - [HeroUI Chat](https://heroui.chat/) - Generate beautiful apps regardless of your design experience.
 
+## Deploy and publish
+
+- [Yourware](https://yourware.so) - Deploy files/folders to the web. Share your code with the world.
+
 ## IDEs and Code Editors
 
 - [Windsurf Editor by Codeium](https://codeium.com/windsurf) - Agentic IDE, "where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic".
