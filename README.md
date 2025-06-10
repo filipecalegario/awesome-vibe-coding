@@ -50,6 +50,10 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 
 - [VibeCode](https://www.vibecodeapp.com/) - The app that builds apps.
 
+## Backend
+
+- [Back4app](https://www.back4app.com/docs/mcp) - Back4App's MCP integration lets your AI assistant manage apps, deploy code, and handle data directly on Back4App. It can supercharge your workflow with automated platform interactions.
+
 ## Plugins and Extensions
 
 - [Cline](https://cline.bot/) - AI assistant that can use your CLI aNd Editor, for VS Code.
