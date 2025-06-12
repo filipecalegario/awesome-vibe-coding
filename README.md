@@ -44,6 +44,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 
 - [Windsurf Editor by Codeium](https://codeium.com/windsurf) - Agentic IDE, "where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic".
 - 🔥 [Cursor](https://www.cursor.com/) - AI Code Editor, "the best way to code with AI".
+- [Trae](https://www.trae.ai/) - Collaborate with Intelligence. "Collaborate with The Real AI Engineer".
 - [Zed](https://zed.dev/) - Code editor designed for high-performance collaboration with humans and AI.
 
 ## Mobile Apps
