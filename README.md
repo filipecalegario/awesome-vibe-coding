@@ -39,6 +39,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Firebase Studio](https://studio.firebase.google.com/) - Google's agentic cloud-based development environment that helps build and ship production-quality full-stack AI apps.
 - [Napkins.dev](https://www.napkins.dev/) - Screenshot to code
 - [HeroUI Chat](https://heroui.chat/) - Generate beautiful apps regardless of your design experience.
+- [spring.new](https://spring.new/) - "Create tailor-made business applications instantly with AI.".
 
 ## IDEs and Code Editors
 
