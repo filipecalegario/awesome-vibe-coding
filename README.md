@@ -2,7 +2,7 @@
 
 > A curated list of vibe coding references, collaborating with AI to write code.
 
-English | [한국어](./README-KR.md)
+English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](./README-CN.md) | [日本語](./README-JP.md)
 
 ## Contents <!-- omit in toc -->
 
@@ -25,6 +25,8 @@ English | [한국어](./README-KR.md)
 - 🔥 [Bolt.new](https://bolt.new/) - Prompt, run, edit, and deploy full-stack web and mobile apps.
 - 🔥 [Lovable](https://lovable.dev/) - "Idea to app in seconds. Lovable is your superhuman full stack engineer".
 - 🔥 [v0 by Vercel](https://v0.dev/chat) - Assistant to build NextJS frontend.
+- [Capacity](https://capacity.so/) - "Capacity lets you turn your ideas into fully functional web apps in minutes using AI.".
+- [CHAI.new by Langbase](https://chai.new) - Prompt to vibe code any AI agent and deploy (agent, app, api)
 - [Replit](https://replit.com/) - "Simply describe your idea above and let the Agent build it for you".
 - [Create](https://www.create.xyz/) - "Turn your words into sites, tools, apps, and products".
 - [Trickle AI](https://www.trickle.so/) - "Build stunning websites, AI apps, and forms with ease".
@@ -36,6 +38,8 @@ English | [한국어](./README-KR.md)
 - [Rork](https://rork.app/) - "Build any mobile app, fast".
 - [Firebase Studio](https://studio.firebase.google.com/) - Google's agentic cloud-based development environment that helps build and ship production-quality full-stack AI apps.
 - [Napkins.dev](https://www.napkins.dev/) - Screenshot to code
+- [HeroUI Chat](https://heroui.chat/) - Generate beautiful apps regardless of your design experience.
+- [Rocket.new](https://www.rocket.new/) - "Build Web & Mobile Apps 10x Faster Without Code".
 
 ## IDEs and Code Editors
 
@@ -56,6 +60,11 @@ English | [한국어](./README-KR.md)
 - [Augment Code](https://www.augmentcode.com/) - An AI coding assistant built for professional software engineers and large codebases.
 - [continuedev/continue](https://github.com/continuedev/continue): Build, share, and use custom AI code assistants with our open-source IDE extensions and library of models, prompts, rules, and docs.
 - [GitHub Copilot](https://github.com/features/copilot) - An AI designed to help you coding faster in Visual Studio Code. It offers code completion, chats with the AI models and an agent mode for agentic coding
+- [Amazon Q Developer – AWS](https://aws.amazon.com/q/developer) - Amazon's Generative AI Assistant for Software Development.
+- [Superdesign.dev](https://www.superdesign.dev/) - Open Source Design Agent.
+
+## Local Apps
+- [Dyad](https://www.dyad.sh/) - Free, local, open-source AI app builder
 
 ## Command Line Tools
 
@@ -67,6 +76,7 @@ English | [한국어](./README-KR.md)
 - [CodeSelect](https://github.com/maynetee/codeselect) - A Python-based command-line tool that efficiently communicates project source code to AIs.
 - [OpenAI Codex CLI](https://github.com/openai/codex) - OpenAI's lightweight coding agent that runs in the terminal
 - [VibeGit](https://github.com/kklemon/vibegit) - Automagically group and commit semantically related changes in a Git repository
+- [Gemini CLI](https://github.com/google-gemini/gemini-cli) - An open-source AI agent from Google that brings the power of Gemini directly into your terminal.
 
 ## Task Management for AI Coding
 
@@ -81,15 +91,20 @@ English | [한국어](./README-KR.md)
 
 > This section displays items in reverse chronological order, with the most recent entries at the top.
 
+- [The Prompt Engineering Playbook for Programmers](https://addyo.substack.com/p/the-prompt-engineering-playbook-for)
+- [What is vibe coding? A computer scientist explains what it means to have AI write computer code − and what risks that can entail](https://theconversation.com/what-is-vibe-coding-a-computer-scientist-explains-what-it-means-to-have-ai-write-computer-code-and-what-risks-that-can-entail-257172)
+- [Peer Programming with LLMs, For Senior+ Engineers](https://pmbanugo.me/blog/peer-programming-with-llms)
+- 🔥 [The Way of Code | Rick Rubin](https://www.thewayofcode.com/)
+- [The State of Vibe Coding Tools (May 2025) | LinkedIn](https://www.linkedin.com/pulse/state-vibe-coding-tools-may-2025-nufar-gaspar-x1znf/?trackingId=iJSsdxE4R9OECPT43FtBww%3D%3D)
 - [Vibe coding MenuGen | karpathy](https://karpathy.bearblog.dev/vibe-coding-menugen/)
-- [Two publishers and three authors fail to understand what “vibe coding” means](https://simonwillison.net/2025/May/1/not-vibe-coding/)
+- [Two publishers and three authors fail to understand what "vibe coding" means](https://simonwillison.net/2025/May/1/not-vibe-coding/)
 - [Not all AI-assisted programming is vibe coding (but vibe coding rocks)](https://simonwillison.net/2025/Mar/19/vibe-coding/)
 - [Vibe Coding 101 with Replit - DeepLearning.AI](https://www.deeplearning.ai/short-courses/vibe-coding-101-with-replit/)
 - [The "vibe coding" mind virus explained… by Fireship - YouTube](https://www.youtube.com/watch?v=Tw18-4U7mts)
 - [Not all AI-assisted programming is vibe coding (but vibe coding rocks)](https://simonwillison.net/2025/Mar/19/vibe-coding/)
 - [bolt.new on X - "Introducing Figma to Bolt Go from Figma to pixel-perfect full stack app - X](https://x.com/boltdotnew/status/1900197121829331158)
 - [Will the future of software development run on vibes? - Ars Technica](https://arstechnica.com/ai/2025/03/is-vibe-coding-with-ai-gnarly-or-reckless-maybe-some-of-both/)
-- [Vibe Coding - Where Everyone Can ‘Speak’ Computer Programming - The New Stack](https://thenewstack.io/vibe-coding-where-everyone-can-speak-computer-programming/)
+- [Vibe Coding - Where Everyone Can 'Speak' Computer Programming - The New Stack](https://thenewstack.io/vibe-coding-where-everyone-can-speak-computer-programming/)
 - [A.I. and Vibecoding Helped Me to Create My Own Software - The New York Times](https://www.nytimes.com/2025/02/27/technology/personaltech/vibecoding-ai-software-programming.html)
 - [/r/vibecoding](https://www.reddit.com/r/vibecoding/)
 - [/r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/)

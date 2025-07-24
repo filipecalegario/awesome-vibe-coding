@@ -2,7 +2,7 @@
 
 > AI와 협업하여 코드를 작성하는 '바이브 코딩' 참고자료 모음집입니다.
 
-[English](./README.md) | 한국어
+[English](./README.md) | [Português](./README-PT.md) | 한국어 | [中文](./README-CN.md) | [日本語](./README-JP.md)
 
 ## 목차
 - [컨셉 소개](#컨셉-소개)
@@ -33,6 +33,7 @@
 - [Rork](https://rork.app/) - "모바일 앱을 빠르게 제작할 수 있습니다."
 - [Firebase Studio](https://studio.firebase.google.com/) - Google이 만든 AI 기반 풀스택 앱 제작 환경.
 - [Napkins.dev](https://www.napkins.dev/) - 스크린샷을 코드로 변환합니다.
+- [HeroUI Chat](https://heroui.chat/) - 디자인 경험에 관계없이 아름다운 앱을 만들어 보세요.
 
 ## IDE 및 코드 에디터
 - [Windsurf Editor by Codeium](https://codeium.com/windsurf) - 개발자와 AI가 진정으로 함께하는 마법 같은 코딩 경험을 제공하는 IDE.
@@ -61,6 +62,7 @@
 - [CodeSelect](https://github.com/maynetee/codeselect) - 프로젝트 소스코드를 효율적으로 AI에 전달하는 Python 기반 CLI 도구.
 - [OpenAI Codex CLI](https://github.com/openai/codex) - OpenAI에서 제작한 경량 코딩 에이전트.
 - [VibeGit](https://github.com/kklemon/vibegit) - Git 리포지토리에서 의미상 관련된 변경 사항을 알아서 묶어 커밋합니다.
+- [Gemini CLI](https://github.com/google-gemini/gemini-cli) - 구글의 오픈소스 AI 에이전트로, Gemini의 강력한 기능을 터미널에서 바로 사용할 수 있게 해줍니다.
 
 ## AI 코딩 문서화
 - [CodeGuide](https://www.codeguide.dev/) - AI 코딩 프로젝트를 위한 상세 문서 생성 도구.
