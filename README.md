@@ -79,6 +79,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - An open-source AI agent from Google that brings the power of Gemini directly into your terminal.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - "qwen-code is a coding agent that lives in digital world".
 - [opencode](https://opencode.ai/) - "AI coding agent built for the terminal".
+- [Warp](https://warp.dev/) - A modern, AI-powered terminal built for teams and individuals, featuring AI command search and workflows.
 
 ## Task Management for AI Coding
 
