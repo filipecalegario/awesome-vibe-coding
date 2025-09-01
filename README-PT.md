@@ -41,6 +41,7 @@
 - [Firebase Studio](https://studio.firebase.google.com/) - Ambiente de desenvolvimento baseado na nuvem do Google que ajuda a construir e implantar aplicações de IA full-stack de qualidade de produção.
 - [Napkins.dev](https://www.napkins.dev/) - Do screenshot para código
 - [HeroUI Chat](https://heroui.chat/) - Gere aplicações bonitas independentemente da sua experiência em design.
+- [embedible.io](https://embedible.io/) - IA que transforma suas ideias em eletrônica em projetos reais.
 
 ## IDEs e Editores de Código
 
