@@ -66,7 +66,6 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Superdesign.dev](https://www.superdesign.dev/) - Open Source Design Agent.
 
 ## Local Apps
-
 - [Dyad](https://www.dyad.sh/) - Free, local, open-source AI app builder
 
 ## Command Line Tools
