@@ -41,6 +41,7 @@
 - [Firebase Studio](https://studio.firebase.google.com/) - 本格的なフルスタックAIアプリの構築と出荷を支援するGoogleのエージェンティッククラウド開発環境。
 - [Napkins.dev](https://www.napkins.dev/) - スクリーンショットからコードへ
 - [HeroUI Chat](https://heroui.chat/) - デザイン経験に関係なく美しいアプリを生成。
+- [embedible.io](https://embedible.io/) - 電子工作のアイデアを実際のプロジェクトに変えるAI。
 
 ## IDEとコードエディタ
 
