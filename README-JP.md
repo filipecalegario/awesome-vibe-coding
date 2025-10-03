@@ -47,7 +47,7 @@
 - [Windsurf Editor by Codeium](https://codeium.com/windsurf) - エージェンティックIDE、「開発者とAIが真に連携し、文字通り魔法のようなコーディング体験を可能にする場所」。
 - 🔥 [Cursor](https://www.cursor.com/) - AIコードエディタ、「AIでコーディングする最良の方法」。
 - [Zed](https://zed.dev/) - 人間とAIとの高性能コラボレーション用に設計されたコードエディタ。
-- [Amazon Kiro] (https://kiro.dev) - プロトタイプから本番運用まで対応するAI IDE (AI統合開発環境)
+- [Amazon Kiro](https://kiro.dev) - プロトタイプから本番運用まで対応するAI IDE (AI統合開発環境)
 
 ## モバイルアプリ
 

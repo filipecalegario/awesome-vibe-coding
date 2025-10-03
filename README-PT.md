@@ -47,7 +47,7 @@
 - [Windsurf Editor by Codeium](https://codeium.com/windsurf) - IDE Agêntico, "onde o trabalho de desenvolvedores e IA realmente fluem juntos, permitindo uma experiência de codificação que parece literalmente mágica".
 - 🔥 [Cursor](https://www.cursor.com/) - Editor de Código com IA, "a melhor maneira de codificar com IA".
 - [Zed](https://zed.dev/) - Editor de código projetado para colaboração de alta performance com humanos e IA.
-- [Amazon Kiro] (https://kiro.dev) - O IDE de IA para prototipagem à produção.
+- [Amazon Kiro](https://kiro.dev) - O IDE de IA para prototipagem à produção.
 
 ## Aplicativos Mobile
 
