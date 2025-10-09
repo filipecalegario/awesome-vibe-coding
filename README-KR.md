@@ -39,7 +39,7 @@
 - [Windsurf Editor by Codeium](https://codeium.com/windsurf) - 개발자와 AI가 진정으로 함께하는 마법 같은 코딩 경험을 제공하는 IDE.
 - 🔥 [Cursor](https://www.cursor.com/) - "AI와 함께하는 최고의 코드 에디터."
 - [Zed](https://zed.dev/) - 인간과 AI 간 고성능 협업을 위한 코드 에디터.
-- [Amazon Kiro] (https://kiro.dev) - 프로토타입부터 생산까지 아우르는 AI IDE (AI 통합 개발 환경)
+- [Amazon Kiro](https://kiro.dev) - 프로토타입부터 생산까지 아우르는 AI IDE (AI 통합 개발 환경)
 
 ## 모바일 앱
 - [VibeCode](https://www.vibecodeapp.com/) - 앱을 만들어주는 앱.

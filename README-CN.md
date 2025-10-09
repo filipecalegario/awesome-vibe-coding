@@ -47,7 +47,7 @@
 - [Windsurf Editor by Codeium](https://codeium.com/windsurf) - 代理IDE，"开发者和AI真正协同工作的地方，提供如魔法般的编程体验"。
 - 🔥 [Cursor](https://www.cursor.com/) - AI代码编辑器，"使用AI编程的最佳方式"。
 - [Zed](https://zed.dev/) - 专为与人类和AI高性能协作而设计的代码编辑器。
-- [Amazon Kiro] (https://kiro.dev) - 从原型到生产的AI集成开发环境
+- [Amazon Kiro](https://kiro.dev) - 从原型到生产的AI集成开发环境
 
 ## 移动应用
 
