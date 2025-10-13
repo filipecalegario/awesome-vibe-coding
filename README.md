@@ -40,6 +40,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Napkins.dev](https://www.napkins.dev/) - Screenshot to code
 - [HeroUI Chat](https://heroui.chat/) - Generate beautiful apps regardless of your design experience.
 - [Rocket.new](https://www.rocket.new/) - "Build Web & Mobile Apps 10x Faster Without Code".
+- [embedible.io](https://embedible.io/) - AI that transforms your electronics ideas into working projects.
 
 ## IDEs and Code Editors
 

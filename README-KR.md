@@ -34,6 +34,7 @@
 - [Firebase Studio](https://studio.firebase.google.com/) - Google이 만든 AI 기반 풀스택 앱 제작 환경.
 - [Napkins.dev](https://www.napkins.dev/) - 스크린샷을 코드로 변환합니다.
 - [HeroUI Chat](https://heroui.chat/) - 디자인 경험에 관계없이 아름다운 앱을 만들어 보세요.
+- [embedible.io](https://embedible.io/) - 전자 아이디어를 실제 프로젝트로 바꿔주는 AI.
 
 ## IDE 및 코드 에디터
 - [Windsurf Editor by Codeium](https://codeium.com/windsurf) - 개발자와 AI가 진정으로 함께하는 마법 같은 코딩 경험을 제공하는 IDE.
