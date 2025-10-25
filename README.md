@@ -66,6 +66,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 
 ## Local Apps
 - [Dyad](https://www.dyad.sh/) - Free, local, open-source AI app builder
+- [VaporVibe](https://github.com/gerkensm/vaporvibe) - Experience your app idea instantly: an LLM *pretends* to be the app you describe, improvising the UI on every click for rapid UX iteration before you build anything.
 
 ## Command Line Tools
 
