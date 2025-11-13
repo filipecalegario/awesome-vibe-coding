@@ -9,8 +9,11 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [About the concept](#about-the-concept)
 - [Browser-based Tools](#browser-based-tools)
 - [IDEs and Code Editors](#ides-and-code-editors)
+- [Mobile Apps](#mobile-apps)
 - [Plugins and Extensions](#plugins-and-extensions)
+- [Local Apps](#local-apps)
 - [Command Line Tools](#command-line-tools)
+- [Task Management for AI Coding](#task-management-for-ai-coding)
 - [Documentation for AI Coding](#documentation-for-ai-coding)
 - [News and Social Media](#news-and-social-media)
 - [Contribute](#contribute)
@@ -56,6 +59,8 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 
 - [Cline](https://cline.bot/) - AI assistant that can use your CLI aNd Editor, for VS Code.
 - [Roo Code](https://github.com/RooVetGit/Roo-Code) - Fork of cline with extra features/enhancements
+- [Kilo Code](https://kilocode.ai/) - Open-source AI coding agent extension for popular IDEs like VS Code and JetBrains.
+- [Amp](https://ampcode.com/) - Frontier coding agent for your terminal and editor, built by Sourcegraph.
 - [avante.nvim](https://github.com/yetone/avante.nvim) - Neovim plugin designed to emulate the behavior of the Cursor AI IDE. It provides AI-driven code suggestions and allows you to apply recommendations directly to your source files with minimal effort.
 - [backnotprop/prompt-tower](https://github.com/backnotprop/prompt-tower) - A tool that helps you build prompts with many code blocks.
 - [Augment Code](https://www.augmentcode.com/) - An AI coding assistant built for professional software engineers and large codebases.
@@ -65,6 +70,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Superdesign.dev](https://www.superdesign.dev/) - Open Source Design Agent.
 
 ## Local Apps
+
 - [Dyad](https://www.dyad.sh/) - Free, local, open-source AI app builder
 
 ## Command Line Tools
