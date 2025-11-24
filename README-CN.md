@@ -65,6 +65,7 @@
 
 ## 本地应用
 - [Dyad](https://www.dyad.sh/) - 免费、本地、开源的AI应用构建器
+- [VaporVibe](https://github.com/gerkensm/vaporvibe) - 立即体验你的应用创意：LLM *假装* 成你描述的应用，每次点击都会即兴生成 UI，让你在真正构建任何东西之前就能快速迭代 UX。
 
 ## 命令行工具
 
