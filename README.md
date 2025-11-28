@@ -87,6 +87,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - "qwen-code is a coding agent that lives in digital world".
 - [opencode](https://opencode.ai/) - "AI coding agent built for the terminal".
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - "The glamorous AI coding agent for your favourite terminal", generates command line interfaces.
+- [Warp](https://www.warp.dev/) - A Rust-based command line featuring native AI integration.
 
 ## Task Management for AI Coding
 
