@@ -50,6 +50,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - 🔥 [Cursor](https://www.cursor.com/) - AI Code Editor, "the best way to code with AI".
 - [Zed](https://zed.dev/) - Code editor designed for high-performance collaboration with humans and AI.
 - [Amazon Kiro](https://kiro.dev) - The AI IDE for prototype to production.
+- [Google Antigravity](https://antigravity.google/) - Google’s IDE built around an agent-first approach
 
 ## Mobile Apps
 
