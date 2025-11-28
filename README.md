@@ -43,6 +43,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Napkins.dev](https://www.napkins.dev/) - Screenshot to code
 - [HeroUI Chat](https://heroui.chat/) - Generate beautiful apps regardless of your design experience.
 - [Rocket.new](https://www.rocket.new/) - "Build Web & Mobile Apps 10x Faster Without Code".
+- [Nice Vibe Coding](https://github.com/felixszeto/nice-vibe-coding/) - Enables users to build and share web applications through a conversational chat interface.
 
 ## IDEs and Code Editors
 
