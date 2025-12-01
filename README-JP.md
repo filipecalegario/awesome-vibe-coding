@@ -41,6 +41,7 @@
 - [Firebase Studio](https://studio.firebase.google.com/) - 本格的なフルスタックAIアプリの構築と出荷を支援するGoogleのエージェンティッククラウド開発環境。
 - [Napkins.dev](https://www.napkins.dev/) - スクリーンショットからコードへ
 - [HeroUI Chat](https://heroui.chat/) - デザイン経験に関係なく美しいアプリを生成。
+- [Kliv.dev](https://kliv.dev/) - ブラウザ上で動くエージェントで、開発者のように要件を整理し、TODOを管理し、ファイルを確認しながら推論を説明して反復作業します。
 
 ## IDEとコードエディタ
 

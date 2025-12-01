@@ -43,6 +43,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Napkins.dev](https://www.napkins.dev/) - Screenshot to code
 - [HeroUI Chat](https://heroui.chat/) - Generate beautiful apps regardless of your design experience.
 - [Rocket.new](https://www.rocket.new/) - "Build Web & Mobile Apps 10x Faster Without Code".
+- [Kliv.dev](https://kliv.dev/) - Browser-based agent that works like a developer: plans requirements, keeps TODOs, inspects files, iterates, and narrates its reasoning.
 
 ## IDEs and Code Editors
 
