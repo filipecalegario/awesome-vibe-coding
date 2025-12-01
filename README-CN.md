@@ -41,6 +41,7 @@
 - [Firebase Studio](https://studio.firebase.google.com/) - Google的代理云开发环境，帮助构建和发布生产级全栈AI应用。
 - [Napkins.dev](https://www.napkins.dev/) - 截图转代码
 - [HeroUI Chat](https://heroui.chat/) - 无论你的设计经验如何，都能生成美丽的应用。
+- [Kliv.dev](https://kliv.dev/) - 浏览器内的编码代理，像开发者一样规划需求、维护待办、检查文件、迭代修改，并讲述其推理过程。
 
 ## IDE和代码编辑器
 
