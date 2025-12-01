@@ -65,6 +65,7 @@
 
 ## Aplicativos Locais
 - [Dyad](https://www.dyad.sh/) - Construtor de aplicações de IA gratuito, local e de código aberto.
+- [VaporVibe](https://github.com/gerkensm/vaporvibe) - Experimente sua ideia de app instantaneamente: um LLM *finge* ser o app que você descreve, improvisando a UI a cada clique para iterar rapidamente sobre a UX antes de construir qualquer coisa.
 
 ## Ferramentas de Linha de Comando
 
