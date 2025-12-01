@@ -124,3 +124,5 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+
+- [AgentsKB](https://agentskb.com) - Expert knowledge layer for AI assistants. Your AI searches, we research. That's the difference.
