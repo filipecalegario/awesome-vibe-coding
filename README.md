@@ -43,6 +43,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Napkins.dev](https://www.napkins.dev/) - Screenshot to code
 - [HeroUI Chat](https://heroui.chat/) - Generate beautiful apps regardless of your design experience.
 - [Rocket.new](https://www.rocket.new/) - "Build Web & Mobile Apps 10x Faster Without Code".
+- [AppWizzy](https://appwizzy.com/) - Professional vibe-coding platform to build scalable and reliable web apps and websites.
 
 ## IDEs and Code Editors
 
