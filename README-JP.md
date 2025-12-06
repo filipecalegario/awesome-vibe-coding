@@ -77,7 +77,7 @@
 - [OpenAI Codex CLI](https://github.com/openai/codex) - ターミナルで動作するOpenAIの軽量コーディングエージェント
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - Google製のオープンソースAIエージェントで、Geminiのパワーを直接ターミナルにもたらします。
 - [vibe-cli](https://github.com/Jinjos/vibe-cli) - バイブコーディングワークフロー用のコマンドラインインターフェース。
-- [zamalali/langchain-code](https://github.com/zamalali/langchain-code) - AI支援開発のためのLangChainベースのコーディングエージェント。
+- [langchain-code](https://github.com/zamalali/langchain-code) - AI支援開発のためのLangChainベースのコーディングエージェント。
 
 ## AIコーディングタスク管理
 
