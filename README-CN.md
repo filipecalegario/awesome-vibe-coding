@@ -76,6 +76,7 @@
 - [CodeSelect](https://github.com/maynetee/codeselect) - 基于Python的命令行工具，高效地将项目源代码传达给AI。
 - [OpenAI Codex CLI](https://github.com/openai/codex) - OpenAI的轻量级编程代理，在终端中运行
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - 谷歌开源的AI代理，将 Gemini 的强大功能直接带入您的终端。
+- [zamalali/langchain-code](https://github.com/zamalali/langchain-code) - 基于LangChain的编程代理，用于AI辅助开发。
 
 ## AI编程任务管理
 
