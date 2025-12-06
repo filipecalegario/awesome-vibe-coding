@@ -89,7 +89,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [opencode](https://opencode.ai/) - "AI coding agent built for the terminal".
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - "The glamorous AI coding agent for your favourite terminal", generates command line interfaces.
 - [Warp](https://www.warp.dev/) - A Rust-based command line featuring native AI integration.
-- [vibe-cli](https://github.com/Jinjos/vibe-cli) - Command line interface for vibe coding workflows.
+- [vibe-cli](https://github.com/Jinjos/vibe-cli) - An AI-powered CLI tool that enables collaborative coding sessions, code generation, and workflow automation directly from your terminal.
 - [zamalali/langchain-code](https://github.com/zamalali/langchain-code) - LangChain-based coding agent for AI-assisted development.
 
 ## Task Management for AI Coding
