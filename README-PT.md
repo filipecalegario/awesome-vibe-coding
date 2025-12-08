@@ -76,6 +76,9 @@
 - [CodeSelect](https://github.com/maynetee/codeselect) - Uma ferramenta de linha de comando baseada em Python que comunica eficientemente o código-fonte do projeto para IAs.
 - [OpenAI Codex CLI](https://github.com/openai/codex) - Agente de codificação leve da OpenAI que roda no terminal.
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - é um agente de IA de código aberto do Google que leva o poder do Gemini diretamente para o seu terminal.
+- [vibe-cli](https://github.com/Jinjos/vibe-cli) - Interface de linha de comando para fluxos de trabalho de vibe coding.
+- [langchain-code](https://github.com/zamalali/langchain-code) - Agente de codificação baseado em LangChain para desenvolvimento assistido por IA.
+- [kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Interface de linha de comando oficial do Kimi, um assistente de IA que ajuda com tarefas de codificação e fluxos de trabalho de desenvolvimento.
 
 ## Gerenciamento de Tarefas para Codificação com IA
 

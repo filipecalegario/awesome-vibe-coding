@@ -76,6 +76,9 @@
 - [CodeSelect](https://github.com/maynetee/codeselect) - プロジェクトソースコードをAIに効率的に伝達するPythonベースのコマンドラインツール。
 - [OpenAI Codex CLI](https://github.com/openai/codex) - ターミナルで動作するOpenAIの軽量コーディングエージェント
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - Google製のオープンソースAIエージェントで、Geminiのパワーを直接ターミナルにもたらします。
+- [vibe-cli](https://github.com/Jinjos/vibe-cli) - バイブコーディングワークフロー用のコマンドラインインターフェース。
+- [langchain-code](https://github.com/zamalali/langchain-code) - AI支援開発のためのLangChainベースのコーディングエージェント。
+- [kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimiの公式コマンドラインインターフェースで、コーディングタスクと開発ワークフローを支援するAIアシスタント。
 
 ## AIコーディングタスク管理
 
