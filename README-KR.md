@@ -10,6 +10,7 @@
 - [IDE 및 코드 에디터](#ide-및-코드-에디터)
 - [모바일 앱](#모바일-앱)
 - [플러그인 및 확장 기능](#플러그인-및-확장-기능)
+- [로컬 앱](#로컬-앱)
 - [명령행 도구](#명령행-도구)
 - [AI 코딩 문서화](#ai-코딩-문서화)
 - [뉴스 및 소셜미디어](#뉴스-및-소셜미디어)
@@ -53,6 +54,10 @@
 - [Augment Code](https://www.augmentcode.com/) - 대규모 코드베이스용 AI 코딩 어시스턴트.
 - [continuedev/continue](https://github.com/continuedev/continue) - 사용자 지정 AI 코딩 어시스턴트를 만들고 공유하며, 다양한 모델과 프롬프트 규칙을 사용할 수 있는 오픈소스 IDE 확장 도구.
 - [GitHub Copilot](https://github.com/features/copilot) - Visual Studio Code용 AI 코딩 어시스턴트. 코드 완성, AI와의 채팅, 에이전트 모드 등을 지원.
+
+## 로컬 앱
+- [Dyad](https://www.dyad.sh/) - 무료, 로컬, 오픈소스 AI 앱 빌더.
+- [VaporVibe](https://github.com/gerkensm/vaporvibe) - 앱 아이디어를 즉시 체험하세요: LLM이 당신이 묘사한 앱인 *척* 하며 클릭할 때마다 UI를 즉석에서 만들어, 코드를 작성하기 전에 빠르게 UX를 반복할 수 있게 합니다.
 
 ## 명령행 도구
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - 자연어를 통해 코드베이스 이해, 작업 자동화, 코드 설명 및 git 관리 가능.
