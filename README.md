@@ -52,6 +52,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Zed](https://zed.dev/) - Code editor designed for high-performance collaboration with humans and AI.
 - [Amazon Kiro](https://kiro.dev) - The AI IDE for prototype to production.
 - [Google Antigravity](https://antigravity.google/) - Google’s IDE built around an agent-first approach
+- [Orchids](https://www.orchids.app/) - The Vibe Coding IDE
 
 ## Mobile Apps
 
