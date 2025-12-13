@@ -85,6 +85,7 @@
 - [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) - Mistral AIのバイブコーディングツール。
 - [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - コード分析と生成のための深層学習。
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - バイブコーディングツールとフレームワーク。
+- [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - AIを使用したプロバイダーに依存しないコードレビュー。Claude、Gemini、Codex、Ollamaを使用してコーディング標準を適用します。
 
 ## AIコーディングタスク管理
 

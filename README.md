@@ -97,6 +97,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) - Mistral AI's vibe coding tool.
 - [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - Deep learning for code analysis and generation.
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - Vibe coding tool and framework.
+- [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - Provider-agnostic code review using AI. Use Claude, Gemini, Codex, Ollama to enforce your coding standards.
 
 ## Task Management for AI Coding
 

@@ -78,6 +78,7 @@
 - [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) - Mistral AI의 바이브 코딩 도구.
 - [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - 코드 분석 및 생성을 위한 딥러닝.
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - 바이브 코딩 도구 및 프레임워크.
+- [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - AI를 사용한 제공자 독립적인 코드 리뷰. Claude, Gemini, Codex, Ollama를 사용하여 코딩 표준을 적용하세요.
 
 ## AI 코딩 작업 관리
 
