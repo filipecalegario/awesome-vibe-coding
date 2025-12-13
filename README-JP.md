@@ -64,6 +64,7 @@
 - [GitHub Copilot](https://github.com/features/copilot) - Visual Studio Codeでより速くコーディングするのを支援するように設計されたAI。コード補完、AIモデルとのチャット、エージェンティックコーディング用のエージェントモードを提供
 
 ## ローカルアプリ
+
 - [Dyad](https://www.dyad.sh/) - 無料、ローカル、オープンソースのAIアプリビルダー
 
 ## コマンドラインツール
@@ -79,6 +80,11 @@
 - [vibe-cli](https://github.com/Jinjos/vibe-cli) - バイブコーディングワークフロー用のコマンドラインインターフェース。
 - [langchain-code](https://github.com/zamalali/langchain-code) - AI支援開発のためのLangChainベースのコーディングエージェント。
 - [kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimiの公式コマンドラインインターフェースで、コーディングタスクと開発ワークフローを支援するAIアシスタント。
+- [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) - CloudflareのバイブコーディングSDK。
+- [superagent-ai/vibekit](https://github.com/superagent-ai/vibekit) - バイブコーディングアプリケーションを構築するためのツールキット。
+- [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) - Mistral AIのバイブコーディングツール。
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - コード分析と生成のための深層学習。
+- [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - バイブコーディングツールとフレームワーク。
 
 ## AIコーディングタスク管理
 
@@ -88,6 +94,8 @@
 ## AIコーディングドキュメント
 
 - [CodeGuide](https://www.codeguide.dev/) - AIコーディングプロジェクト用の詳細ドキュメントを作成。
+- [AGENTS.md](https://agents.md/) - コーディングエージェントをガイドするためのシンプルでオープンなフォーマット。
+- [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) - バイブコーディング用のプロンプトテンプレート。
 
 ## ニュースとソーシャルメディア
 
