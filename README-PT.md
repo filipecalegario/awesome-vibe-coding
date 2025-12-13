@@ -86,6 +86,7 @@
 - [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - Aprendizado profundo para análise e geração de código.
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - Ferramenta e framework de vibe coding.
 - [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - Revisão de código agnóstica a provedores usando IA. Use Claude, Gemini, Codex, Ollama para impor seus padrões de codificação.
+- [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - Interface de linha de comando para assistência de codificação com IA.
 
 ## Gerenciamento de Tarefas para Codificação com IA
 

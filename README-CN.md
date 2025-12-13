@@ -86,6 +86,7 @@
 - [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - 用于代码分析和生成的深度学习。
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - 氛围编程工具和框架。
 - [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - 使用AI进行与提供商无关的代码审查。使用Claude、Gemini、Codex、Ollama来执行您的编码标准。
+- [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - AI驱动编程辅助的命令行界面。
 
 ## AI编程任务管理
 
