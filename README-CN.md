@@ -64,6 +64,7 @@
 - [GitHub Copilot](https://github.com/features/copilot) - 旨在帮助你在Visual Studio Code中更快编程的AI。它提供代码补全、与AI模型聊天和代理编程的代理模式
 
 ## 本地应用
+
 - [Dyad](https://www.dyad.sh/) - 免费、本地、开源的AI应用构建器
 
 ## 命令行工具
@@ -79,6 +80,13 @@
 - [vibe-cli](https://github.com/Jinjos/vibe-cli) - 氛围编程工作流的命令行界面。
 - [langchain-code](https://github.com/zamalali/langchain-code) - 基于LangChain的编程代理，用于AI辅助开发。
 - [kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi官方命令行界面，一个帮助编程任务和开发工作流的AI助手。
+- [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) - Cloudflare的氛围编程SDK。
+- [superagent-ai/vibekit](https://github.com/superagent-ai/vibekit) - 用于构建氛围编程应用的工具包。
+- [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) - Mistral AI的氛围编程工具。
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - 用于代码分析和生成的深度学习。
+- [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - 氛围编程工具和框架。
+- [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - 使用AI进行与提供商无关的代码审查。使用Claude、Gemini、Codex、Ollama来执行您的编码标准。
+- [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - AI驱动编程辅助的命令行界面。
 
 ## AI编程任务管理
 
@@ -88,6 +96,8 @@
 ## AI编程文档
 
 - [CodeGuide](https://www.codeguide.dev/) - 为你的AI编程项目创建详细文档。
+- [AGENTS.md](https://agents.md/) - 一种简单、开放的编程代理指导格式。
+- [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) - 氛围编程的提示词模板。
 
 ## 新闻和社交媒体
 

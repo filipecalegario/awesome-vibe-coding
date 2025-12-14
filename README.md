@@ -92,6 +92,13 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [vibe-cli](https://github.com/Jinjos/vibe-cli) - An AI-powered CLI tool that enables collaborative coding sessions, code generation, and workflow automation directly from your terminal.
 - [langchain-code](https://github.com/zamalali/langchain-code) - LangChain-based coding agent for AI-assisted development.
 - [kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Official command-line interface for Kimi, an AI assistant that helps with coding tasks and development workflows.
+- [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) - Cloudflare's SDK for vibe coding.
+- [superagent-ai/vibekit](https://github.com/superagent-ai/vibekit) - A toolkit for building vibe coding applications.
+- [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) - Mistral AI's vibe coding tool.
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - Deep learning for code analysis and generation.
+- [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - Vibe coding tool and framework.
+- [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - Provider-agnostic code review using AI. Use Claude, Gemini, Codex, Ollama to enforce your coding standards.
+- [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - Command-line interface for AI-powered coding assistance.
 
 ## Task Management for AI Coding
 
@@ -102,6 +109,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 
 - [CodeGuide](https://www.codeguide.dev/) - Creates detailed Documentation for your AI Coding Projects.
 - [AGENTS.md](https://agents.md/) - A simple, open format for guiding coding agents.
+- [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) - A prompt template for vibe coding.
 
 ## News and Social Media
 

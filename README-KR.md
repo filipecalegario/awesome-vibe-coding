@@ -10,7 +10,9 @@
 - [IDE 및 코드 에디터](#ide-및-코드-에디터)
 - [모바일 앱](#모바일-앱)
 - [플러그인 및 확장 기능](#플러그인-및-확장-기능)
+- [로컬 앱](#로컬-앱)
 - [명령행 도구](#명령행-도구)
+- [AI 코딩 작업 관리](#ai-코딩-작업-관리)
 - [AI 코딩 문서화](#ai-코딩-문서화)
 - [뉴스 및 소셜미디어](#뉴스-및-소셜미디어)
 - [기여하기](#기여하기)
@@ -54,7 +56,12 @@
 - [continuedev/continue](https://github.com/continuedev/continue) - 사용자 지정 AI 코딩 어시스턴트를 만들고 공유하며, 다양한 모델과 프롬프트 규칙을 사용할 수 있는 오픈소스 IDE 확장 도구.
 - [GitHub Copilot](https://github.com/features/copilot) - Visual Studio Code용 AI 코딩 어시스턴트. 코드 완성, AI와의 채팅, 에이전트 모드 등을 지원.
 
+## 로컬 앱
+
+- [Dyad](https://www.dyad.sh/) - 무료, 로컬, 오픈소스 AI 앱 빌더.
+
 ## 명령행 도구
+
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - 자연어를 통해 코드베이스 이해, 작업 자동화, 코드 설명 및 git 관리 가능.
 - [aider](https://aider.chat/) - 터미널에서 AI 페어 프로그래밍 지원.
 - [codename goose](https://block.github.io/goose/) - 로컬 AI 에이전트로, 다양한 LLM과 MCP 서버 확장 지원.
@@ -66,9 +73,24 @@
 - [vibe-cli](https://github.com/Jinjos/vibe-cli) - 바이브 코딩 워크플로우를 위한 커맨드 라인 인터페이스.
 - [langchain-code](https://github.com/zamalali/langchain-code) - AI 지원 개발을 위한 LangChain 기반 코딩 에이전트.
 - [kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi의 공식 커맨드 라인 인터페이스로, 코딩 작업 및 개발 워크플로우를 지원하는 AI 어시스턴트.
+- [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) - Cloudflare의 바이브 코딩 SDK.
+- [superagent-ai/vibekit](https://github.com/superagent-ai/vibekit) - 바이브 코딩 애플리케이션을 구축하기 위한 툴킷.
+- [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) - Mistral AI의 바이브 코딩 도구.
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - 코드 분석 및 생성을 위한 딥러닝.
+- [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - 바이브 코딩 도구 및 프레임워크.
+- [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - AI를 사용한 제공자 독립적인 코드 리뷰. Claude, Gemini, Codex, Ollama를 사용하여 코딩 표준을 적용하세요.
+- [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - AI 기반 코딩 지원을 위한 커맨드 라인 인터페이스.
+
+## AI 코딩 작업 관리
+
+- [Boomerang Tasks](https://docs.roocode.com/features/boomerang-tasks) - 복잡한 프로젝트를 자동으로 작고 관리 가능한 부분으로 분해합니다.
+- [Claude Task Master](https://github.com/eyaltoledano/claude-task-master) - Cursor, Lovable, Windsurf, Roo 등에 적용할 수 있는 AI 기반 작업 관리 시스템.
 
 ## AI 코딩 문서화
+
 - [CodeGuide](https://www.codeguide.dev/) - AI 코딩 프로젝트를 위한 상세 문서 생성 도구.
+- [AGENTS.md](https://agents.md/) - 코딩 에이전트를 안내하기 위한 간단하고 개방적인 형식.
+- [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) - 바이브 코딩을 위한 프롬프트 템플릿.
 
 ## 뉴스 및 소셜미디어
 
