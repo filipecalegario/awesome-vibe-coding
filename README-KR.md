@@ -80,6 +80,7 @@
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - 바이브 코딩 도구 및 프레임워크.
 - [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - AI를 사용한 제공자 독립적인 코드 리뷰. Claude, Gemini, Codex, Ollama를 사용하여 코딩 표준을 적용하세요.
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - AI 기반 코딩 지원을 위한 커맨드 라인 인터페이스.
+- [GitHub Copilot CLI](https://github.com/github/copilot-cli) - 에이전트 기능, GitHub 통합 및 MCP 기반 확장성을 갖춘 터미널에서 직접 사용할 수 있는 GitHub Copilot 코딩 에이전트.
 
 ## AI 코딩 작업 관리
 
