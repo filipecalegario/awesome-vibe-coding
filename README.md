@@ -100,6 +100,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - Vibe coding tool and framework.
 - [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - Provider-agnostic code review using AI. Use Claude, Gemini, Codex, Ollama to enforce your coding standards.
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - Command-line interface for AI-powered coding assistance.
+- [GitHub Copilot CLI](https://github.com/github/copilot-cli) - GitHub Copilot coding agent directly in your terminal with agentic capabilities, GitHub integration, and MCP-powered extensibility.
 
 ## Task Management for AI Coding
 
