@@ -134,6 +134,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [A.I. and Vibecoding Helped Me to Create My Own Software - The New York Times](https://www.nytimes.com/2025/02/27/technology/personaltech/vibecoding-ai-software-programming.html)
 - [/r/vibecoding](https://www.reddit.com/r/vibecoding/)
 - [/r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/)
+- [Vibe Engineering](https://www.manning.com/books/vibe-engineering)
 
 ## Contribute
 
