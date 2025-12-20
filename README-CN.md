@@ -41,6 +41,7 @@
 - [Firebase Studio](https://studio.firebase.google.com/) - Google的代理云开发环境，帮助构建和发布生产级全栈AI应用。
 - [Napkins.dev](https://www.napkins.dev/) - 截图转代码
 - [HeroUI Chat](https://heroui.chat/) - 无论你的设计经验如何，都能生成美丽的应用。
+- [Blank Space](https://www.blankspace.build/) - 开源AI应用构建器。v0、Lovable和Bolt的替代品。
 
 ## IDE和代码编辑器
 

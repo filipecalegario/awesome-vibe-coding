@@ -41,6 +41,7 @@
 - [Firebase Studio](https://studio.firebase.google.com/) - Ambiente de desenvolvimento baseado na nuvem do Google que ajuda a construir e implantar aplicações de IA full-stack de qualidade de produção.
 - [Napkins.dev](https://www.napkins.dev/) - Do screenshot para código
 - [HeroUI Chat](https://heroui.chat/) - Gere aplicações bonitas independentemente da sua experiência em design.
+- [Blank Space](https://www.blankspace.build/) - Construtor de aplicações de IA open-source. Alternativa ao v0, Lovable e Bolt.
 
 ## IDEs e Editores de Código
 

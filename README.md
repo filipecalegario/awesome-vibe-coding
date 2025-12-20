@@ -44,6 +44,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [HeroUI Chat](https://heroui.chat/) - Generate beautiful apps regardless of your design experience.
 - [Rocket.new](https://www.rocket.new/) - "Build Web & Mobile Apps 10x Faster Without Code".
 - [Google AI Studio](https://aistudio.google.com/) - "Another way to vibecode with Gemini. Great for experimenting".
+- [Blank Space](https://www.blankspace.build/) - Open-source AI app builder. Alternative to v0, Lovable, and Bolt.
 
 ## IDEs and Code Editors
 
