@@ -88,6 +88,7 @@
 - [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - 使用AI进行与提供商无关的代码审查。使用Claude、Gemini、Codex、Ollama来执行您的编码标准。
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - AI驱动编程辅助的命令行界面。
 - [GitHub Copilot CLI](https://github.com/github/copilot-cli) - 直接在终端中使用GitHub Copilot编程代理，具有代理功能、GitHub集成和MCP驱动的可扩展性。
+- [Amp](https://ampcode.com/) - 一个连接多种LLM以协助编程任务的AI编程代理。
 
 ## AI编程任务管理
 

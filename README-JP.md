@@ -88,6 +88,7 @@
 - [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - AIを使用したプロバイダーに依存しないコードレビュー。Claude、Gemini、Codex、Ollamaを使用してコーディング標準を適用します。
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - AI駆動コーディング支援のためのコマンドラインインターフェース。
 - [GitHub Copilot CLI](https://github.com/github/copilot-cli) - エージェンティック機能、GitHub統合、MCP駆動の拡張性を備えた、ターミナル内で直接使用できるGitHub Copilotコーディングエージェント。
+- [Amp](https://ampcode.com/) - さまざまなLLMに接続してプログラミングタスクを支援するAIコーディングエージェント。
 
 ## AIコーディングタスク管理
 

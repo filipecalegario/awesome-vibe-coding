@@ -88,6 +88,7 @@
 - [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - Revisão de código agnóstica a provedores usando IA. Use Claude, Gemini, Codex, Ollama para impor seus padrões de codificação.
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - Interface de linha de comando para assistência de codificação com IA.
 - [GitHub Copilot CLI](https://github.com/github/copilot-cli) - Agente de codificação GitHub Copilot diretamente no seu terminal com capacidades agênticas, integração com GitHub e extensibilidade alimentada por MCP.
+- [Amp](https://ampcode.com/) - Um agente de codificação com IA que se conecta a vários LLMs para auxiliar em tarefas de programação.
 
 ## Gerenciamento de Tarefas para Codificação com IA
 
