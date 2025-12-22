@@ -44,6 +44,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [HeroUI Chat](https://heroui.chat/) - Generate beautiful apps regardless of your design experience.
 - [Rocket.new](https://www.rocket.new/) - "Build Web & Mobile Apps 10x Faster Without Code".
 - [Google AI Studio](https://aistudio.google.com/) - "Another way to vibecode with Gemini. Great for experimenting".
+- [Pulse Editor](https://github.com/claypulse/pulse-editor) - "Pulse Editor is a modular, cross-platform, AI-powered productivity platform with federated app collaboration and extensible workflows. Enjoy vibe coding, image/video generation, and agentic automation on one single platform."
 
 ## IDEs and Code Editors
 
@@ -53,10 +54,12 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Amazon Kiro](https://kiro.dev) - The AI IDE for prototype to production.
 - [Google Antigravity](https://antigravity.google/) - Google’s IDE built around an agent-first approach
 - [Orchids](https://www.orchids.app/) - The Vibe Coding IDE
+- [Pulse Editor](https://github.com/claypulse/pulse-editor) - "Pulse Editor is a modular, cross-platform, AI-powered productivity platform with federated app collaboration and extensible workflows. Enjoy vibe coding, image/video generation, and agentic automation on one single platform."
 
 ## Mobile Apps
 
 - [VibeCode](https://www.vibecodeapp.com/) - The app that builds apps.
+- [Pulse Editor](https://github.com/claypulse/pulse-editor) - "Pulse Editor is a modular, cross-platform, AI-powered productivity platform with federated app collaboration and extensible workflows. Enjoy vibe coding, image/video generation, and agentic automation on one single platform."
 
 ## Plugins and Extensions
 
@@ -75,6 +78,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 ## Local Apps
 
 - [Dyad](https://www.dyad.sh/) - Free, local, open-source AI app builder
+- [Pulse Editor](https://github.com/claypulse/pulse-editor) - "Pulse Editor is a modular, cross-platform, AI-powered productivity platform with federated app collaboration and extensible workflows. Enjoy vibe coding, image/video generation, and agentic automation on one single platform."
 
 ## Command Line Tools
 
