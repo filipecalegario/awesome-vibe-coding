@@ -75,6 +75,8 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 ## Local Apps
 
 - [Dyad](https://www.dyad.sh/) - Free, local, open-source AI app builder
+- [CodinIT.dev](https://codinit.dev/) - Local opensource AI app builder 100% free no lock-ins no limits
+
 
 ## Command Line Tools
 
