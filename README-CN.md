@@ -41,6 +41,7 @@
 - [Firebase Studio](https://studio.firebase.google.com/) - Google的代理云开发环境，帮助构建和发布生产级全栈AI应用。
 - [Napkins.dev](https://www.napkins.dev/) - 截图转代码
 - [HeroUI Chat](https://heroui.chat/) - 无论你的设计经验如何，都能生成美丽的应用。
+- [Pulse Editor](https://github.com/claypulse/pulse-editor) - Pulse Editor 是一个模块化、跨平台、由 AI 驱动的生产力平台，支持模组联邦式应用协作和可扩展的工作流。在同一个平台上，尽享氛围式编程、图像/视频生成以及智能体自动化。
 
 ## IDE和代码编辑器
 
@@ -48,10 +49,12 @@
 - 🔥 [Cursor](https://www.cursor.com/) - AI代码编辑器，"使用AI编程的最佳方式"。
 - [Zed](https://zed.dev/) - 专为与人类和AI高性能协作而设计的代码编辑器。
 - [Amazon Kiro](https://kiro.dev) - 从原型到生产的AI集成开发环境
+- [Pulse Editor](https://github.com/claypulse/pulse-editor) - Pulse Editor 是一个模块化、跨平台、由 AI 驱动的生产力平台，支持模组联邦式应用协作和可扩展的工作流。在同一个平台上，尽享氛围式编程、图像/视频生成以及智能体自动化。
 
 ## 移动应用
 
 - [VibeCode](https://www.vibecodeapp.com/) - 构建应用的应用。
+- [Pulse Editor](https://github.com/claypulse/pulse-editor) - Pulse Editor 是一个模块化、跨平台、由 AI 驱动的生产力平台，支持模组联邦式应用协作和可扩展的工作流。在同一个平台上，尽享氛围式编程、图像/视频生成以及智能体自动化。
 
 ## 插件和扩展
 
@@ -66,6 +69,7 @@
 ## 本地应用
 
 - [Dyad](https://www.dyad.sh/) - 免费、本地、开源的AI应用构建器
+- [Pulse Editor](https://github.com/claypulse/pulse-editor) - Pulse Editor 是一个模块化、跨平台、由 AI 驱动的生产力平台，支持模组联邦式应用协作和可扩展的工作流。在同一个平台上，尽享氛围式编程、图像/视频生成以及智能体自动化。
 
 ## 命令行工具
 

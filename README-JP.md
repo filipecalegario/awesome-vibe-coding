@@ -41,6 +41,7 @@
 - [Firebase Studio](https://studio.firebase.google.com/) - 本格的なフルスタックAIアプリの構築と出荷を支援するGoogleのエージェンティッククラウド開発環境。
 - [Napkins.dev](https://www.napkins.dev/) - スクリーンショットからコードへ
 - [HeroUI Chat](https://heroui.chat/) - デザイン経験に関係なく美しいアプリを生成。
+- [Pulse Editor](https://github.com/claypulse/pulse-editor) - Pulse Editor は、モジュール型のクロスプラットフォーム AI 搭載生産性プラットフォームです。フェデレーション型アプリ連携と拡張可能なワークフローを備え、1つのプラットフォームでバイブコーディング、画像・動画生成、エージェント自動化を楽しめます。
 
 ## IDEとコードエディタ
 
@@ -48,10 +49,12 @@
 - 🔥 [Cursor](https://www.cursor.com/) - AIコードエディタ、「AIでコーディングする最良の方法」。
 - [Zed](https://zed.dev/) - 人間とAIとの高性能コラボレーション用に設計されたコードエディタ。
 - [Amazon Kiro](https://kiro.dev) - プロトタイプから本番運用まで対応するAI IDE (AI統合開発環境)
+- [Pulse Editor](https://github.com/claypulse/pulse-editor) - Pulse Editor は、モジュール型のクロスプラットフォーム AI 搭載生産性プラットフォームです。フェデレーション型アプリ連携と拡張可能なワークフローを備え、1つのプラットフォームでバイブコーディング、画像・動画生成、エージェント自動化を楽しめます。
 
 ## モバイルアプリ
 
 - [VibeCode](https://www.vibecodeapp.com/) - アプリを構築するアプリ。
+- [Pulse Editor](https://github.com/claypulse/pulse-editor) - Pulse Editor は、モジュール型のクロスプラットフォーム AI 搭載生産性プラットフォームです。フェデレーション型アプリ連携と拡張可能なワークフローを備え、1つのプラットフォームでバイブコーディング、画像・動画生成、エージェント自動化を楽しめます。
 
 ## プラグインと拡張機能
 
@@ -66,6 +69,7 @@
 ## ローカルアプリ
 
 - [Dyad](https://www.dyad.sh/) - 無料、ローカル、オープンソースのAIアプリビルダー
+- [Pulse Editor](https://github.com/claypulse/pulse-editor) - Pulse Editor は、モジュール型のクロスプラットフォーム AI 搭載生産性プラットフォームです。フェデレーション型アプリ連携と拡張可能なワークフローを備え、1つのプラットフォームでバイブコーディング、画像・動画生成、エージェント自動化を楽しめます。
 
 ## コマンドラインツール
 

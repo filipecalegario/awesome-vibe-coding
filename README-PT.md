@@ -41,6 +41,7 @@
 - [Firebase Studio](https://studio.firebase.google.com/) - Ambiente de desenvolvimento baseado na nuvem do Google que ajuda a construir e implantar aplicações de IA full-stack de qualidade de produção.
 - [Napkins.dev](https://www.napkins.dev/) - Do screenshot para código
 - [HeroUI Chat](https://heroui.chat/) - Gere aplicações bonitas independentemente da sua experiência em design.
+- [Pulse Editor](https://github.com/claypulse/pulse-editor) - "O Pulse Editor é uma plataforma de produtividade modular, multiplataforma e impulsionada por IA, com colaboração federada entre aplicativos e fluxos de trabalho extensíveis. Aproveite vibe coding, geração de imagens/vídeos e automação com agentes em uma única plataforma."
 
 ## IDEs e Editores de Código
 
@@ -48,10 +49,12 @@
 - 🔥 [Cursor](https://www.cursor.com/) - Editor de Código com IA, "a melhor maneira de codificar com IA".
 - [Zed](https://zed.dev/) - Editor de código projetado para colaboração de alta performance com humanos e IA.
 - [Amazon Kiro](https://kiro.dev) - O IDE de IA para prototipagem à produção.
+- [Pulse Editor](https://github.com/claypulse/pulse-editor) - "O Pulse Editor é uma plataforma de produtividade modular, multiplataforma e impulsionada por IA, com colaboração federada entre aplicativos e fluxos de trabalho extensíveis. Aproveite vibe coding, geração de imagens/vídeos e automação com agentes em uma única plataforma."
 
 ## Aplicativos Mobile
 
 - [VibeCode](https://www.vibecodeapp.com/) - O app que constrói apps.
+- [Pulse Editor](https://github.com/claypulse/pulse-editor) - "O Pulse Editor é uma plataforma de produtividade modular, multiplataforma e impulsionada por IA, com colaboração federada entre aplicativos e fluxos de trabalho extensíveis. Aproveite vibe coding, geração de imagens/vídeos e automação com agentes em uma única plataforma."
 
 ## Plugins e Extensões
 
@@ -66,6 +69,7 @@
 ## Aplicativos Locais
 
 - [Dyad](https://www.dyad.sh/) - Construtor de aplicações de IA gratuito, local e de código aberto.
+- [Pulse Editor](https://github.com/claypulse/pulse-editor) - "O Pulse Editor é uma plataforma de produtividade modular, multiplataforma e impulsionada por IA, com colaboração federada entre aplicativos e fluxos de trabalho extensíveis. Aproveite vibe coding, geração de imagens/vídeos e automação com agentes em uma única plataforma."
 
 ## Ferramentas de Linha de Comando
 

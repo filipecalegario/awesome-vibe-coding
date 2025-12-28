@@ -36,15 +36,18 @@
 - [Firebase Studio](https://studio.firebase.google.com/) - Google이 만든 AI 기반 풀스택 앱 제작 환경.
 - [Napkins.dev](https://www.napkins.dev/) - 스크린샷을 코드로 변환합니다.
 - [HeroUI Chat](https://heroui.chat/) - 디자인 경험에 관계없이 아름다운 앱을 만들어 보세요.
+- [Pulse Editor](https://github.com/claypulse/pulse-editor) - "Pulse Editor는 모듈형 구조의 크로스플랫폼 AI 기반 생산성 플랫폼으로, 연합형 앱 협업과 확장 가능한 워크플로를 제공합니다. 하나의 플랫폼에서 바이브 코딩, 이미지/비디오 생성, 에이전트 자동화를 모두 경험하세요."
 
 ## IDE 및 코드 에디터
 - [Windsurf Editor by Codeium](https://codeium.com/windsurf) - 개발자와 AI가 진정으로 함께하는 마법 같은 코딩 경험을 제공하는 IDE.
 - 🔥 [Cursor](https://www.cursor.com/) - "AI와 함께하는 최고의 코드 에디터."
 - [Zed](https://zed.dev/) - 인간과 AI 간 고성능 협업을 위한 코드 에디터.
 - [Amazon Kiro](https://kiro.dev) - 프로토타입부터 생산까지 아우르는 AI IDE (AI 통합 개발 환경)
+- [Pulse Editor](https://github.com/claypulse/pulse-editor) - "Pulse Editor는 모듈형 구조의 크로스플랫폼 AI 기반 생산성 플랫폼으로, 연합형 앱 협업과 확장 가능한 워크플로를 제공합니다. 하나의 플랫폼에서 바이브 코딩, 이미지/비디오 생성, 에이전트 자동화를 모두 경험하세요."
 
 ## 모바일 앱
 - [VibeCode](https://www.vibecodeapp.com/) - 앱을 만들어주는 앱.
+- [Pulse Editor](https://github.com/claypulse/pulse-editor) - "Pulse Editor는 모듈형 구조의 크로스플랫폼 AI 기반 생산성 플랫폼으로, 연합형 앱 협업과 확장 가능한 워크플로를 제공합니다. 하나의 플랫폼에서 바이브 코딩, 이미지/비디오 생성, 에이전트 자동화를 모두 경험하세요."
 
 ## 플러그인 및 확장 기능
 
@@ -59,6 +62,7 @@
 ## 로컬 앱
 
 - [Dyad](https://www.dyad.sh/) - 무료, 로컬, 오픈소스 AI 앱 빌더.
+- [Pulse Editor](https://github.com/claypulse/pulse-editor) - "Pulse Editor는 모듈형 구조의 크로스플랫폼 AI 기반 생산성 플랫폼으로, 연합형 앱 협업과 확장 가능한 워크플로를 제공합니다. 하나의 플랫폼에서 바이브 코딩, 이미지/비디오 생성, 에이전트 자동화를 모두 경험하세요."
 
 ## 명령행 도구
 
