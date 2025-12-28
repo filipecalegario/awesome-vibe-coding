@@ -15,6 +15,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Command Line Tools](#command-line-tools)
 - [Task Management for AI Coding](#task-management-for-ai-coding)
 - [Documentation for AI Coding](#documentation-for-ai-coding)
+- [Communities & Job Boards](#communities--job-boards)
 - [News and Social Media](#news-and-social-media)
 - [Contribute](#contribute)
 
@@ -118,6 +119,12 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [AGENTS.md](https://agents.md/) - A simple, open format for guiding coding agents.
 - [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) - A prompt template for vibe coding.
 
+## Communities & Job Boards
+
+- [Vibehackers](https://vibehackers.io) - Community gallery for vibe coded projects and curated job board.
+- [/r/vibecoding](https://www.reddit.com/r/vibecoding/)
+- [/r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/)
+
 ## News and Social Media
 
 > This section displays items in reverse chronological order, with the most recent entries at the top.
@@ -137,8 +144,6 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Will the future of software development run on vibes? - Ars Technica](https://arstechnica.com/ai/2025/03/is-vibe-coding-with-ai-gnarly-or-reckless-maybe-some-of-both/)
 - [Vibe Coding - Where Everyone Can 'Speak' Computer Programming - The New Stack](https://thenewstack.io/vibe-coding-where-everyone-can-speak-computer-programming/)
 - [A.I. and Vibecoding Helped Me to Create My Own Software - The New York Times](https://www.nytimes.com/2025/02/27/technology/personaltech/vibecoding-ai-software-programming.html)
-- [/r/vibecoding](https://www.reddit.com/r/vibecoding/)
-- [/r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/)
 - [Vibe Engineering](https://www.manning.com/books/vibe-engineering)
 
 ## Contribute
