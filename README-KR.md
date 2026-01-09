@@ -69,6 +69,7 @@
 - [ai-christianson/RA.Aid](https://github.com/ai-christianson/RA.Aid) - LangGraph 기반 에이전트형 작업 실행 프레임워크를 사용하는 독립형 코딩 에이전트.
 - [CodeSelect](https://github.com/maynetee/codeselect) - 프로젝트 소스코드를 효율적으로 AI에 전달하는 Python 기반 CLI 도구.
 - [OpenAI Codex CLI](https://github.com/openai/codex) - OpenAI에서 제작한 경량 코딩 에이전트.
+- [VibeGit](https://github.com/kklemon/vibegit) - Git 리포지토리에서 의미상 관련된 변경 사항을 알아서 묶어 커밋합니다.
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - 구글의 오픈소스 AI 에이전트로, Gemini의 강력한 기능을 터미널에서 바로 사용할 수 있게 해줍니다.
 - [vibe-cli](https://github.com/Jinjos/vibe-cli) - 바이브 코딩 워크플로우를 위한 커맨드 라인 인터페이스.
 - [langchain-code](https://github.com/zamalali/langchain-code) - AI 지원 개발을 위한 LangChain 기반 코딩 에이전트.
