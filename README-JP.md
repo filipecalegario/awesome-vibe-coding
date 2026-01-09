@@ -41,6 +41,7 @@
 - [Firebase Studio](https://studio.firebase.google.com/) - 本格的なフルスタックAIアプリの構築と出荷を支援するGoogleのエージェンティッククラウド開発環境。
 - [Napkins.dev](https://www.napkins.dev/) - スクリーンショットからコードへ
 - [HeroUI Chat](https://heroui.chat/) - デザイン経験に関係なく美しいアプリを生成。
+- [Zrcade](https://zrcade.ai) - ミニアプリを生成、デプロイ、共有できる、摩擦のないエンドツーエンドのバイブコーディングプラットフォーム。
 
 ## IDEとコードエディタ
 
