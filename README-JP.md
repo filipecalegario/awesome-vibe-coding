@@ -2,7 +2,7 @@
 
 > AIと協力してコードを書く、バイブコーディングリファレンスの厳選リスト。
 
-[English](./README.md) | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](./README-CN.md) | 日本語
+[English](./README.md) | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](./README-CN.md) | 日本語 | [ភាសាខ្មែរ](./README-KH.md)
 
 ## 目次 <!-- omit in toc -->
 
