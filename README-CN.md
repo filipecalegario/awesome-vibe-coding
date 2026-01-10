@@ -2,7 +2,7 @@
 
 > 精选的氛围编程参考资源列表，与AI协作编写代码。
 
-[English](./README.md) | [Português](./README-PT.md) | [한국어](./README-KR.md) | 中文 | [日本語](./README-JP.md)
+[English](./README.md) | [Português](./README-PT.md) | [한국어](./README-KR.md) | 中文 | [日本語](./README-JP.md) | [ភាសាខ្មែរ](./README-KH.md)
 
 ## 目录 <!-- omit in toc -->
 
