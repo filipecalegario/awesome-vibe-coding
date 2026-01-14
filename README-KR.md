@@ -109,4 +109,4 @@
 - [/r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/)
 
 ## 기여하기
-여러분의 기여를 환영합니다! 먼저 [기여 지침](CONTRIBUTING.md)을 확인해주세요.
+여러분의 기여를 환영합니다! 먼저 [기여 지침](./contributing.md)을 확인해주세요.
