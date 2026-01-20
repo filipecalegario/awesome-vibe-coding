@@ -26,9 +26,9 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 
 ## Browser-based Tools
 
-- 🔥 [Bolt.new](https://bolt.new/) - Prompt, run, edit, and deploy full-stack web and mobile apps.
+- [Bolt.new](https://bolt.new/) - Prompt, run, edit, and deploy full-stack web and mobile apps.
 - 🔥 [Lovable](https://lovable.dev/) - "Idea to app in seconds. Lovable is your superhuman full stack engineer".
-- 🔥 [v0 by Vercel](https://v0.dev/chat) - Assistant to build NextJS frontend.
+- [v0 by Vercel](https://v0.dev/chat) - Assistant to build NextJS frontend.
 - [Capacity](https://capacity.so/) - "Capacity lets you turn your ideas into fully functional web apps in minutes using AI.".
 - [CHAI.new by Langbase](https://chai.new) - Prompt to vibe code any AI agent and deploy (agent, app, api)
 - [Replit](https://replit.com/) - "Simply describe your idea above and let the Agent build it for you".
@@ -49,7 +49,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 ## IDEs and Code Editors
 
 - [Windsurf Editor by Codeium](https://codeium.com/windsurf) - Agentic IDE, "where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic".
-- 🔥 [Cursor](https://www.cursor.com/) - AI Code Editor, "the best way to code with AI".
+- [Cursor](https://www.cursor.com/) - AI Code Editor, "the best way to code with AI".
 - [Zed](https://zed.dev/) - Code editor designed for high-performance collaboration with humans and AI.
 - [Amazon Kiro](https://kiro.dev) - The AI IDE for prototype to production.
 - [Google Antigravity](https://antigravity.google/) - Google’s IDE built around an agent-first approach
