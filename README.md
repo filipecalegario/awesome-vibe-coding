@@ -15,7 +15,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Command Line Tools](#command-line-tools)
 - [Task Management for AI Coding](#task-management-for-ai-coding)
 - [Documentation for AI Coding](#documentation-for-ai-coding)
-- [Communities & Job Boards](#communities--job-boards)
+- [Communities \& Job Boards](#communities--job-boards)
 - [News and Social Media](#news-and-social-media)
 - [Contribute](#contribute)
 
