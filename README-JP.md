@@ -80,6 +80,7 @@
 ## コマンドラインツール
 
 - 🔥 [anthropics/claude-code](https://github.com/anthropics/claude-code) - コードベースを理解し、タスクを自動化し、コードを説明し、gitを管理するコーディングエージェント、すべて自然言語で。
+- [memovai/memov](https://github.com/memovai/memov) - Git ベースの Claude Coding 用トレース可能なメモリレイヤー。
 - [aider](https://aider.chat/) - ターミナルでのAIペアプログラミング。
 - [codename goose](https://block.github.io/goose/) - 任意のLLMを使用し、任意のMCPサーバーを拡張として追加できるローカルマシンAIエージェント
 - [MyCoder.ai](https://github.com/drivecore/mycoder) - GitとGitHub統合、並列実行と自己修正機能を備えたオープンソースAI駆動コーディングアシスタント。

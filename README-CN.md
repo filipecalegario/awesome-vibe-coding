@@ -80,6 +80,7 @@
 ## 命令行工具
 
 - 🔥 [anthropics/claude-code](https://github.com/anthropics/claude-code) - 理解你的代码库、自动化任务、解释代码和管理git的编程代理，全部通过自然语言。
+- [memovai/memov](https://github.com/memovai/memov) - 基于 Git 的 Claude Coding 可回溯记忆层。
 - [aider](https://aider.chat/) - 在终端中进行AI结对编程。
 - [codename goose](https://block.github.io/goose/) - 本地机器AI代理，允许你使用任何LLM并添加任何MCP服务器作为扩展
 - [MyCoder.ai](https://github.com/drivecore/mycoder) - 开源AI驱动的编程助手，具有Git和GitHub集成，支持并行执行和自修改功能。
