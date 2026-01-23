@@ -80,6 +80,7 @@
 ## Ferramentas de Linha de Comando
 
 - 🔥 [anthropics/claude-code](https://github.com/anthropics/claude-code) - Agente de codificação que entende sua base de código, automatiza tarefas, explica código e gerencia git, tudo via linguagem natural.
+- [memovai/memov](https://github.com/memovai/memov) - Camada de memória rastreável baseada em Git para Claude Coding.
 - [aider](https://aider.chat/) - Faça um pair programming com a IA no seu terminal.
 - [codename goose](https://block.github.io/goose/) - Agente de IA local, na máquina, que permite usar qualquer LLM e adicionar qualquer servidor MCP como extensões.
 - [MyCoder.ai](https://github.com/drivecore/mycoder) - Assistente de codificação com IA de código aberto com integração Git e GitHub, apresentando capacidades de execução paralela e auto-modificação.

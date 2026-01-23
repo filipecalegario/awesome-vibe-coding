@@ -80,6 +80,7 @@
 ## 명령행 도구
 
 - 🔥 [anthropics/claude-code](https://github.com/anthropics/claude-code) - 자연어를 통해 코드베이스 이해, 작업 자동화, 코드 설명 및 git 관리 가능.
+- [memovai/memov](https://github.com/memovai/memov) - Git 기반 Claude Coding 추적 가능한 메모리 레이어.
 - [aider](https://aider.chat/) - 터미널에서 AI 페어 프로그래밍 지원.
 - [codename goose](https://block.github.io/goose/) - 로컬 AI 에이전트로, 다양한 LLM과 MCP 서버 확장 지원.
 - [MyCoder.ai](https://github.com/drivecore/mycoder) - Git 및 GitHub 통합, 병렬 실행 및 자기 수정 기능을 갖춘 오픈소스 AI 기반 코딩 어시스턴트.
