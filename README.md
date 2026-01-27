@@ -14,6 +14,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Local Apps](#local-apps)
 - [Command Line Tools](#command-line-tools)
 - [Task Management for AI Coding](#task-management-for-ai-coding)
+- [Config Sync for AI Coding](#config-sync-for-ai-coding)
 - [Documentation for AI Coding](#documentation-for-ai-coding)
 - [Communities \& Job Boards](#communities--job-boards)
 - [News and Social Media](#news-and-social-media)
@@ -109,6 +110,10 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Boomerang Tasks](https://docs.roocode.com/features/boomerang-tasks) - Automatically break down complex projects into smaller, manageable pieces.
 - [Claude Task Master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - 🔥 [vibe-kanban](https://github.com/BloopAI/vibe-kanban) - A kanban board to manage and orchestrate AI coding agents.
+
+## Config Sync for AI Coding
+
+- [vsync](https://github.com/nicepkg/vsync) - Sync Skills, MCP servers, Agents & Commands across Claude Code, Cursor, OpenCode, and Codex. One command syncs everything with automatic format conversion.
 
 ## Documentation for AI Coding
 
