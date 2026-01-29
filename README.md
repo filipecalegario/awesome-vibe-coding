@@ -86,6 +86,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [ai-christianson/RA.Aid](https://github.com/ai-christianson/RA.Aid) - A standalone coding agent built on LangGraph's agent-based task execution framework
 - [CodeSelect](https://github.com/maynetee/codeselect) - A Python-based command-line tool that efficiently communicates project source code to AIs.
 - [OpenAI Codex CLI](https://github.com/openai/codex) - OpenAI's lightweight coding agent that runs in the terminal
+- [VibeGit](https://github.com/kklemon/vibegit) - Automagically group and commit semantically related changes in a Git repository
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - An open-source AI agent from Google that brings the power of Gemini directly into your terminal.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - "qwen-code is a coding agent that lives in digital world".
 - [opencode](https://opencode.ai/) - "AI coding agent built for the terminal".
