@@ -45,6 +45,7 @@
 - [HeroUI Chat](https://heroui.chat/) - デザイン経験に関係なく美しいアプリを生成。
 - [Rocket.new](https://www.rocket.new/) - 「コードなしでWebとモバイルアプリを10倍速く構築」。
 - [Google AI Studio](https://aistudio.google.com/) - 「Geminiでバイブコーディングするもう一つの方法。実験に最適」。
+- [Clean Clode](https://cleanclode.com) - 文字化けしたClaude Code/Codexのターミナル貼り付け出力を読みやすいテキストに整形。
 
 ## IDEとコードエディタ
 

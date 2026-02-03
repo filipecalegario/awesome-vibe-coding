@@ -45,6 +45,7 @@
 - [HeroUI Chat](https://heroui.chat/) - 디자인 경험에 관계없이 아름다운 앱을 만들어 보세요.
 - [Rocket.new](https://www.rocket.new/) - "코드 없이 웹 및 모바일 앱을 10배 빠르게 빌드합니다."
 - [Google AI Studio](https://aistudio.google.com/) - "Gemini로 바이브 코딩하는 또 다른 방법. 실험에 좋습니다."
+- [Clean Clode](https://cleanclode.com) - 깨진 Claude Code/Codex 터미널 붙여넣기 출력을 읽기 쉬운 텍스트로 정리.
 
 ## IDE 및 코드 에디터
 
