@@ -45,6 +45,7 @@
 - [HeroUI Chat](https://heroui.chat/) - 无论你的设计经验如何，都能生成美丽的应用。
 - [Rocket.new](https://www.rocket.new/) - "无需代码，构建Web和移动应用快10倍"。
 - [Google AI Studio](https://aistudio.google.com/) - "使用Gemini进行氛围编程的另一种方式。非常适合实验"。
+- [Clean Clode](https://cleanclode.com) - 将乱掉的 Claude Code/Codex 终端粘贴输出清理成可读文本。
 
 ## IDE和代码编辑器
 
