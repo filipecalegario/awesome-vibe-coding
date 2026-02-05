@@ -75,6 +75,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 
 ## Local Apps
 
+- [berrry-joyful](https://github.com/Strawberry-Computer/berrry-joyful) - Hands-free vibe coding with Nintendo Joy-Con controllers on macOS. Mouse control, keyboard shortcuts, scrolling, and voice dictation to use with Claude Code, Gemini CLI, or other coding agents.
 - [Dyad](https://www.dyad.sh/) - Free, local, open-source AI app builder
 
 ## Command Line Tools
