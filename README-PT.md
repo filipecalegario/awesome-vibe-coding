@@ -28,7 +28,7 @@
 
 - [Bolt.new](https://bolt.new/) - Crie prompts, execute, edite e implante aplicações web e mobile full-stack.
 - 🔥 [Lovable](https://lovable.dev/) - "Da ideia para o app em segundos. Lovable é seu engenheiro full stack super-humano".
-- [v0 by Vercel](https://v0.dev/chat) - Assistente para construir frontend NextJS.
+- [v0 by Vercel](https://v0.dev/chat) - Assistente para construir frontend Next.js.
 - [Capacity](https://capacity.so/) - "Capacity permite que você transforme suas ideias em aplicações web totalmente funcionais em minutos usando IA".
 - [CHAI.new by Langbase](https://chai.new) - Use vibe coding para construir e implantar qualquer agente de IA (agente, app, api).
 - [Replit](https://replit.com/) - "Simplesmente descreva sua ideia acima e deixe o agente construí-la para você".
@@ -68,7 +68,7 @@
 - [avante.nvim](https://github.com/yetone/avante.nvim) - Plugin do Neovim projetado para emular o comportamento do Cursor AI IDE. Fornece sugestões de código orientadas por IA e permite aplicar recomendações diretamente aos seus arquivos de origem com esforço mínimo.
 - [backnotprop/prompt-tower](https://github.com/backnotprop/prompt-tower) - Uma ferramenta que ajuda você a construir prompts com muitos blocos de código.
 - [Augment Code](https://www.augmentcode.com/) - Um assistente de codificação com IA construído para engenheiros de software profissionais e grandes bases de código.
-- [continuedev/continue](https://github.com/continuedev/continue): Construa, compartilhe e use assistentes de código de IA personalizados com as extensões de IDE de código aberto e biblioteca de modelos, prompts, regras e documentos.
+- [continuedev/continue](https://github.com/continuedev/continue) - Construa, compartilhe e use assistentes de código de IA personalizados com extensões de IDE de código aberto.
 - [GitHub Copilot](https://github.com/features/copilot) - Uma IA projetada para ajudar a codificar mais rápido no Visual Studio Code. Oferece preenchimento de código, chats com os modelos de IA e um modo agente para codificação agêntica.
 - [Amazon Q Developer – AWS](https://aws.amazon.com/q/developer) - Assistente de IA Generativa da Amazon para Desenvolvimento de Software.
 - [Superdesign.dev](https://www.superdesign.dev/) - Agente de Design de Código Aberto.
@@ -79,7 +79,7 @@
 
 ## Ferramentas de Linha de Comando
 
-- 🔥 [anthropics/claude-code](https://github.com/anthropics/claude-code) - Agente de codificação que entende sua base de código, automatiza tarefas, explica código e gerencia git, tudo via linguagem natural.
+- 🔥 [anthropics/claude-code](https://github.com/anthropics/claude-code) - Agente de codificação que entende sua base de código, automatiza tarefas, explica código e gerencia Git, tudo via linguagem natural.
 - [aider](https://aider.chat/) - Faça um pair programming com a IA no seu terminal.
 - [codename goose](https://block.github.io/goose/) - Agente de IA local, na máquina, que permite usar qualquer LLM e adicionar qualquer servidor MCP como extensões.
 - [MyCoder.ai](https://github.com/drivecore/mycoder) - Assistente de codificação com IA de código aberto com integração Git e GitHub, apresentando capacidades de execução paralela e auto-modificação.
@@ -94,7 +94,7 @@
 - [vibe-cli](https://github.com/Jinjos/vibe-cli) - Uma ferramenta CLI alimentada por IA que permite sessões de codificação colaborativas, geração de código e automação de fluxos de trabalho diretamente do seu terminal.
 - [langchain-code](https://github.com/zamalali/langchain-code) - Agente de codificação baseado em LangChain para desenvolvimento assistido por IA.
 - [kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Interface de linha de comando oficial do Kimi, um assistente de IA que ajuda com tarefas de codificação e fluxos de trabalho de desenvolvimento.
-- [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) - SDK da Cloudflare para vibe coding.
+- [Cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) - SDK da Cloudflare para vibe coding.
 - [superagent-ai/vibekit](https://github.com/superagent-ai/vibekit) - Um kit de ferramentas para construir aplicações de vibe coding.
 - [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) - Ferramenta de vibe coding da Mistral AI.
 - [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - Aprendizado profundo para análise e geração de código.
@@ -102,7 +102,6 @@
 - [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - Revisão de código agnóstica a provedores usando IA. Use Claude, Gemini, Codex, Ollama para impor seus padrões de codificação.
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - Interface de linha de comando para assistência de codificação com IA.
 - [GitHub Copilot CLI](https://github.com/github/copilot-cli) - Agente de codificação GitHub Copilot diretamente no seu terminal com capacidades agênticas, integração com GitHub e extensibilidade alimentada por MCP.
-- [Amp](https://ampcode.com/) - Um agente de codificação com IA que se conecta a vários LLMs para auxiliar em tarefas de programação.
 
 ## Gerenciamento de Tarefas para Codificação com IA
 
@@ -137,8 +136,7 @@
 - [Not all AI-assisted programming is vibe coding (but vibe coding rocks)](https://simonwillison.net/2025/Mar/19/vibe-coding/)
 - [Vibe Coding 101 with Replit - DeepLearning.AI](https://www.deeplearning.ai/short-courses/vibe-coding-101-with-replit/)
 - [The "vibe coding" mind virus explained… by Fireship - YouTube](https://www.youtube.com/watch?v=Tw18-4U7mts)
-- [Not all AI-assisted programming is vibe coding (but vibe coding rocks)](https://simonwillison.net/2025/Mar/19/vibe-coding/)
-- [bolt.new on X - "Introducing Figma to Bolt Go from Figma to pixel-perfect full stack app - X](https://x.com/boltdotnew/status/1900197121829331158)
+- [bolt.new on X - Introducing Figma to Bolt](https://x.com/boltdotnew/status/1900197121829331158)
 - [Will the future of software development run on vibes? - Ars Technica](https://arstechnica.com/ai/2025/03/is-vibe-coding-with-ai-gnarly-or-reckless-maybe-some-of-both/)
 - [Vibe Coding - Where Everyone Can 'Speak' Computer Programming - The New Stack](https://thenewstack.io/vibe-coding-where-everyone-can-speak-computer-programming/)
 - [A.I. and Vibecoding Helped Me to Create My Own Software - The New York Times](https://www.nytimes.com/2025/02/27/technology/personaltech/vibecoding-ai-software-programming.html)

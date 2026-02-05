@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:github.com)",
+      "Bash(npx awesome-lint:*)",
+      "Bash(gh repo view:*)"
+    ]
+  }
+}

@@ -28,9 +28,9 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 
 - [Bolt.new](https://bolt.new/) - Prompt, run, edit, and deploy full-stack web and mobile apps.
 - 🔥 [Lovable](https://lovable.dev/) - "Idea to app in seconds. Lovable is your superhuman full stack engineer".
-- [v0 by Vercel](https://v0.dev/chat) - Assistant to build NextJS frontend.
-- [Capacity](https://capacity.so/) - "Capacity lets you turn your ideas into fully functional web apps in minutes using AI.".
-- [CHAI.new by Langbase](https://chai.new) - Prompt to vibe code any AI agent and deploy (agent, app, api)
+- [v0 by Vercel](https://v0.dev/chat) - Assistant to build Next.js frontend.
+- [Capacity](https://capacity.so/) - Turn your ideas into fully functional web apps in minutes using AI.
+- [CHAI.new by Langbase](https://chai.new) - Prompt to vibe code any AI agent and deploy (agent, app, api).
 - [Replit](https://replit.com/) - "Simply describe your idea above and let the Agent build it for you".
 - [Create](https://www.create.xyz/) - "Turn your words into sites, tools, apps, and products".
 - [Trickle AI](https://www.trickle.so/) - "Build stunning websites, AI apps, and forms with ease".
@@ -41,7 +41,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Creatr](https://getcreatr.com/) - "Create and deploy web apps and landing pages in seconds".
 - [Rork](https://rork.app/) - "Build any mobile app, fast".
 - [Firebase Studio](https://studio.firebase.google.com/) - Google's agentic cloud-based development environment that helps build and ship production-quality full-stack AI apps.
-- [Napkins.dev](https://www.napkins.dev/) - Screenshot to code
+- [Napkins.dev](https://www.napkins.dev/) - Screenshot to code.
 - [HeroUI Chat](https://heroui.chat/) - Generate beautiful apps regardless of your design experience.
 - [Rocket.new](https://www.rocket.new/) - "Build Web & Mobile Apps 10x Faster Without Code".
 - [Google AI Studio](https://aistudio.google.com/) - "Another way to vibecode with Gemini. Great for experimenting".
@@ -52,8 +52,8 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Cursor](https://www.cursor.com/) - AI Code Editor, "the best way to code with AI".
 - [Zed](https://zed.dev/) - Code editor designed for high-performance collaboration with humans and AI.
 - [Amazon Kiro](https://kiro.dev) - The AI IDE for prototype to production.
-- [Google Antigravity](https://antigravity.google/) - Google’s IDE built around an agent-first approach
-- [Orchids](https://www.orchids.app/) - The Vibe Coding IDE
+- [Google Antigravity](https://antigravity.google/) - Google's IDE built around an agent-first approach.
+- [Orchids](https://www.orchids.app/) - The Vibe Coding IDE.
 
 ## Mobile Apps
 
@@ -62,30 +62,30 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 ## Plugins and Extensions
 
 - [Cline](https://cline.bot/) - AI assistant that can use your CLI aNd Editor, for VS Code.
-- [Roo Code](https://github.com/RooVetGit/Roo-Code) - Fork of cline with extra features/enhancements
+- [Roo Code](https://github.com/RooVetGit/Roo-Code) - Fork of Cline with extra features and enhancements.
 - [Kilo Code](https://kilocode.ai/) - Open-source AI coding agent extension for popular IDEs like VS Code and JetBrains.
 - [Amp](https://ampcode.com/) - Frontier coding agent for your terminal and editor, built by Sourcegraph.
-- [avante.nvim](https://github.com/yetone/avante.nvim) - Neovim plugin designed to emulate the behavior of the Cursor AI IDE. It provides AI-driven code suggestions and allows you to apply recommendations directly to your source files with minimal effort.
+- [avante.nvim](https://github.com/yetone/avante.nvim) - Neovim plugin designed to emulate the behavior of the Cursor AI IDE with AI-driven code suggestions.
 - [backnotprop/prompt-tower](https://github.com/backnotprop/prompt-tower) - A tool that helps you build prompts with many code blocks.
 - [Augment Code](https://www.augmentcode.com/) - An AI coding assistant built for professional software engineers and large codebases.
-- [continuedev/continue](https://github.com/continuedev/continue): Build, share, and use custom AI code assistants with our open-source IDE extensions and library of models, prompts, rules, and docs.
-- [GitHub Copilot](https://github.com/features/copilot) - An AI designed to help you coding faster in Visual Studio Code. It offers code completion, chats with the AI models and an agent mode for agentic coding
+- [continuedev/continue](https://github.com/continuedev/continue) - Build, share, and use custom AI code assistants with open-source IDE extensions.
+- [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer that offers code completion, chat, and agent mode for agentic coding.
 - [Amazon Q Developer – AWS](https://aws.amazon.com/q/developer) - Amazon's Generative AI Assistant for Software Development.
 - [Superdesign.dev](https://www.superdesign.dev/) - Open Source Design Agent.
 
 ## Local Apps
 
-- [Dyad](https://www.dyad.sh/) - Free, local, open-source AI app builder
+- [Dyad](https://www.dyad.sh/) - Free, local, open-source AI app builder.
 
 ## Command Line Tools
 
-- 🔥 [anthropics/claude-code](https://github.com/anthropics/claude-code) - Coding agent that understands your codebase, automates tasks, explains code, and manages git, all via natural language.
+- 🔥 [anthropics/claude-code](https://github.com/anthropics/claude-code) - Coding agent that understands your codebase, automates tasks, explains code, and manages Git, all via natural language.
 - [aider](https://aider.chat/) - AI pair programming in your terminal.
-- [codename goose](https://block.github.io/goose/) - Local, on-machine AI Agent that allows you to use any LLM and add any MCP servers as extensions
+- [codename goose](https://block.github.io/goose/) - Local, on-machine AI Agent that allows you to use any LLM and add any MCP servers as extensions.
 - [MyCoder.ai](https://github.com/drivecore/mycoder) - Open source AI-powered coding assistant with Git and GitHub integration, featuring parallel execution and self-modification capabilities.
-- [ai-christianson/RA.Aid](https://github.com/ai-christianson/RA.Aid) - A standalone coding agent built on LangGraph's agent-based task execution framework
+- [ai-christianson/RA.Aid](https://github.com/ai-christianson/RA.Aid) - A standalone coding agent built on LangGraph's agent-based task execution framework.
 - [CodeSelect](https://github.com/maynetee/codeselect) - A Python-based command-line tool that efficiently communicates project source code to AIs.
-- [OpenAI Codex CLI](https://github.com/openai/codex) - OpenAI's lightweight coding agent that runs in the terminal
+- [OpenAI Codex CLI](https://github.com/openai/codex) - OpenAI's lightweight coding agent that runs in the terminal.
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - An open-source AI agent from Google that brings the power of Gemini directly into your terminal.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - "qwen-code is a coding agent that lives in digital world".
 - [opencode](https://opencode.ai/) - "AI coding agent built for the terminal".
@@ -94,7 +94,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [vibe-cli](https://github.com/Jinjos/vibe-cli) - An AI-powered CLI tool that enables collaborative coding sessions, code generation, and workflow automation directly from your terminal.
 - [langchain-code](https://github.com/zamalali/langchain-code) - LangChain-based coding agent for AI-assisted development.
 - [kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Official command-line interface for Kimi, an AI assistant that helps with coding tasks and development workflows.
-- [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) - Cloudflare's SDK for vibe coding.
+- [Cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) - Cloudflare's SDK for vibe coding.
 - [superagent-ai/vibekit](https://github.com/superagent-ai/vibekit) - A toolkit for building vibe coding applications.
 - [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) - Mistral AI's vibe coding tool.
 - [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - Deep learning for code analysis and generation.
@@ -102,7 +102,6 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - Provider-agnostic code review using AI. Use Claude, Gemini, Codex, Ollama to enforce your coding standards.
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - Command-line interface for AI-powered coding assistance.
 - [GitHub Copilot CLI](https://github.com/github/copilot-cli) - GitHub Copilot coding agent directly in your terminal with agentic capabilities, GitHub integration, and MCP-powered extensibility.
-- [Amp](https://ampcode.com/) - An AI coding agent that connects to various LLMs to assist with programming tasks.
 
 ## Task Management for AI Coding
 
@@ -137,8 +136,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Not all AI-assisted programming is vibe coding (but vibe coding rocks)](https://simonwillison.net/2025/Mar/19/vibe-coding/)
 - [Vibe Coding 101 with Replit - DeepLearning.AI](https://www.deeplearning.ai/short-courses/vibe-coding-101-with-replit/)
 - [The "vibe coding" mind virus explained… by Fireship - YouTube](https://www.youtube.com/watch?v=Tw18-4U7mts)
-- [Not all AI-assisted programming is vibe coding (but vibe coding rocks)](https://simonwillison.net/2025/Mar/19/vibe-coding/)
-- [bolt.new on X - "Introducing Figma to Bolt Go from Figma to pixel-perfect full stack app - X](https://x.com/boltdotnew/status/1900197121829331158)
+- [bolt.new on X - Introducing Figma to Bolt](https://x.com/boltdotnew/status/1900197121829331158)
 - [Will the future of software development run on vibes? - Ars Technica](https://arstechnica.com/ai/2025/03/is-vibe-coding-with-ai-gnarly-or-reckless-maybe-some-of-both/)
 - [Vibe Coding - Where Everyone Can 'Speak' Computer Programming - The New Stack](https://thenewstack.io/vibe-coding-where-everyone-can-speak-computer-programming/)
 - [A.I. and Vibecoding Helped Me to Create My Own Software - The New York Times](https://www.nytimes.com/2025/02/27/technology/personaltech/vibecoding-ai-software-programming.html)

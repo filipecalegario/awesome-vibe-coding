@@ -28,7 +28,7 @@
 
 - [Bolt.new](https://bolt.new/) - 프롬프트를 이용해 풀스택 웹 및 모바일 앱을 작성하고 배포.
 - 🔥 [Lovable](https://lovable.dev/) - "아이디어를 몇 초 만에 앱으로 변환. 천상계 풀스택 엔지니어 같은 역할을 합니다."
-- [v0 by Vercel](https://v0.dev/chat) - NextJS 프론트엔드 빌드를 돕는 AI 어시스턴트.
+- [v0 by Vercel](https://v0.dev/chat) - Next.js 프론트엔드 빌드를 돕는 AI 어시스턴트.
 - [Capacity](https://capacity.so/) - "AI를 사용하여 아이디어를 몇 분 만에 완전히 작동하는 웹앱으로 변환합니다."
 - [CHAI.new by Langbase](https://chai.new) - 프롬프트로 AI 에이전트를 바이브 코딩하고 배포 (에이전트, 앱, API)
 - [Replit](https://replit.com/) - "아이디어를 설명만 하면 AI 에이전트가 제작해줍니다."
@@ -94,7 +94,7 @@
 - [vibe-cli](https://github.com/Jinjos/vibe-cli) - 터미널에서 직접 협업 코딩 세션, 코드 생성 및 워크플로우 자동화를 지원하는 AI 기반 CLI 도구.
 - [langchain-code](https://github.com/zamalali/langchain-code) - AI 지원 개발을 위한 LangChain 기반 코딩 에이전트.
 - [kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi의 공식 커맨드 라인 인터페이스로, 코딩 작업 및 개발 워크플로우를 지원하는 AI 어시스턴트.
-- [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) - Cloudflare의 바이브 코딩 SDK.
+- [Cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) - Cloudflare의 바이브 코딩 SDK.
 - [superagent-ai/vibekit](https://github.com/superagent-ai/vibekit) - 바이브 코딩 애플리케이션을 구축하기 위한 툴킷.
 - [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) - Mistral AI의 바이브 코딩 도구.
 - [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - 코드 분석 및 생성을 위한 딥러닝.
@@ -102,7 +102,6 @@
 - [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - AI를 사용한 제공자 독립적인 코드 리뷰. Claude, Gemini, Codex, Ollama를 사용하여 코딩 표준을 적용하세요.
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - AI 기반 코딩 지원을 위한 커맨드 라인 인터페이스.
 - [GitHub Copilot CLI](https://github.com/github/copilot-cli) - 에이전트 기능, GitHub 통합 및 MCP 기반 확장성을 갖춘 터미널에서 직접 사용할 수 있는 GitHub Copilot 코딩 에이전트.
-- [Amp](https://ampcode.com/) - 다양한 LLM에 연결하여 프로그래밍 작업을 지원하는 AI 코딩 에이전트.
 
 ## AI 코딩 작업 관리
 
@@ -137,8 +136,7 @@
 - [모든 AI 지원 프로그래밍이 바이브 코딩은 아닙니다 (하지만 바이브 코딩은 훌륭합니다)](https://simonwillison.net/2025/Mar/19/vibe-coding/)
 - [Vibe Coding 101 with Replit - DeepLearning.AI](https://www.deeplearning.ai/short-courses/vibe-coding-101-with-replit/)
 - [The "vibe coding" mind virus explained… by Fireship - YouTube](https://www.youtube.com/watch?v=Tw18-4U7mts)
-- [모든 AI 지원 프로그래밍이 바이브 코딩은 아닙니다 (하지만 바이브 코딩은 훌륭합니다)](https://simonwillison.net/2025/Mar/19/vibe-coding/)
-- [bolt.new on X - "Introducing Figma to Bolt Go from Figma to pixel-perfect full stack app - X](https://x.com/boltdotnew/status/1900197121829331158)
+- [bolt.new on X - Introducing Figma to Bolt](https://x.com/boltdotnew/status/1900197121829331158)
 - [소프트웨어 개발의 미래는 바이브 기반일까? - Ars Technica](https://arstechnica.com/ai/2025/03/is-vibe-coding-with-ai-gnarly-or-reckless-maybe-some-of-both/)
 - [Vibe Coding - 누구나 '컴퓨터 언어'를 말할 수 있는 곳 - The New Stack](https://thenewstack.io/vibe-coding-where-everyone-can-speak-computer-programming/)
 - [A.I.와 바이브 코딩으로 나만의 소프트웨어를 만들다 - 뉴욕 타임즈](https://www.nytimes.com/2025/02/27/technology/personaltech/vibecoding-ai-software-programming.html)

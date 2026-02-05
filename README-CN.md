@@ -28,7 +28,7 @@
 
 - [Bolt.new](https://bolt.new/) - 提示、运行、编辑和部署全栈Web和移动应用。
 - 🔥 [Lovable](https://lovable.dev/) - "几秒钟从想法到应用。Lovable是你的超人全栈工程师"。
-- [v0 by Vercel](https://v0.dev/chat) - 构建NextJS前端的助手。
+- [v0 by Vercel](https://v0.dev/chat) - 构建Next.js前端的助手。
 - [Capacity](https://capacity.so/) - "Capacity让你能在几分钟内使用AI将想法转化为功能完整的Web应用"。
 - [CHAI.new by Langbase](https://chai.new) - 提示氛围编程任何AI代理并部署（代理、应用、API）
 - [Replit](https://replit.com/) - "只需在上方描述你的想法，让代理为你构建"。
@@ -68,7 +68,7 @@
 - [avante.nvim](https://github.com/yetone/avante.nvim) - 旨在模拟Cursor AI IDE行为的Neovim插件。它提供AI驱动的代码建议，让你能够以最小的努力将推荐直接应用到源文件中。
 - [backnotprop/prompt-tower](https://github.com/backnotprop/prompt-tower) - 帮助你构建包含多个代码块的提示的工具。
 - [Augment Code](https://www.augmentcode.com/) - 为专业软件工程师和大型代码库构建的AI编程助手。
-- [continuedev/continue](https://github.com/continuedev/continue): 使用我们的开源IDE扩展和模型、提示、规则和文档库构建、共享和使用自定义AI代码助手。
+- [continuedev/continue](https://github.com/continuedev/continue) - 使用开源IDE扩展构建、共享和使用自定义AI代码助手。
 - [GitHub Copilot](https://github.com/features/copilot) - 旨在帮助你在Visual Studio Code中更快编程的AI。它提供代码补全、与AI模型聊天和代理编程的代理模式
 - [Amazon Q Developer – AWS](https://aws.amazon.com/q/developer) - 亚马逊的软件开发生成式AI助手。
 - [Superdesign.dev](https://www.superdesign.dev/) - 开源设计代理。
@@ -94,7 +94,7 @@
 - [vibe-cli](https://github.com/Jinjos/vibe-cli) - AI驱动的CLI工具，可直接从终端进行协作编程会话、代码生成和工作流自动化。
 - [langchain-code](https://github.com/zamalali/langchain-code) - 基于LangChain的编程代理，用于AI辅助开发。
 - [kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi官方命令行界面，一个帮助编程任务和开发工作流的AI助手。
-- [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) - Cloudflare的氛围编程SDK。
+- [Cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) - Cloudflare的氛围编程SDK。
 - [superagent-ai/vibekit](https://github.com/superagent-ai/vibekit) - 用于构建氛围编程应用的工具包。
 - [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) - Mistral AI的氛围编程工具。
 - [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - 用于代码分析和生成的深度学习。
@@ -102,7 +102,6 @@
 - [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - 使用AI进行与提供商无关的代码审查。使用Claude、Gemini、Codex、Ollama来执行您的编码标准。
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - AI驱动编程辅助的命令行界面。
 - [GitHub Copilot CLI](https://github.com/github/copilot-cli) - 直接在终端中使用GitHub Copilot编程代理，具有代理功能、GitHub集成和MCP驱动的可扩展性。
-- [Amp](https://ampcode.com/) - 一个连接多种LLM以协助编程任务的AI编程代理。
 
 ## AI编程任务管理
 
@@ -137,8 +136,7 @@
 - [Not all AI-assisted programming is vibe coding (but vibe coding rocks)](https://simonwillison.net/2025/Mar/19/vibe-coding/)
 - [Vibe Coding 101 with Replit - DeepLearning.AI](https://www.deeplearning.ai/short-courses/vibe-coding-101-with-replit/)
 - [The "vibe coding" mind virus explained… by Fireship - YouTube](https://www.youtube.com/watch?v=Tw18-4U7mts)
-- [Not all AI-assisted programming is vibe coding (but vibe coding rocks)](https://simonwillison.net/2025/Mar/19/vibe-coding/)
-- [bolt.new on X - "Introducing Figma to Bolt Go from Figma to pixel-perfect full stack app - X](https://x.com/boltdotnew/status/1900197121829331158)
+- [bolt.new on X - Introducing Figma to Bolt](https://x.com/boltdotnew/status/1900197121829331158)
 - [Will the future of software development run on vibes? - Ars Technica](https://arstechnica.com/ai/2025/03/is-vibe-coding-with-ai-gnarly-or-reckless-maybe-some-of-both/)
 - [Vibe Coding - Where Everyone Can 'Speak' Computer Programming - The New Stack](https://thenewstack.io/vibe-coding-where-everyone-can-speak-computer-programming/)
 - [A.I. and Vibecoding Helped Me to Create My Own Software - The New York Times](https://www.nytimes.com/2025/02/27/technology/personaltech/vibecoding-ai-software-programming.html)
