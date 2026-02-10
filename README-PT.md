@@ -45,6 +45,7 @@
 - [HeroUI Chat](https://heroui.chat/) - Gere aplicações bonitas independentemente da sua experiência em design.
 - [Rocket.new](https://www.rocket.new/) - "Construa Apps Web e Mobile 10x Mais Rápido Sem Código".
 - [Google AI Studio](https://aistudio.google.com/) - "Outra forma de fazer vibe coding com Gemini. Ótimo para experimentar".
+- [Clean Clode](https://cleanclode.com) - Limpa colagens de terminal do Claude Code/Codex corrompidas para texto legível.
 
 ## IDEs e Editores de Código
 
