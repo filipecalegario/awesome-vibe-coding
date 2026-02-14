@@ -76,6 +76,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 ## Local Apps
 
 - [Dyad](https://www.dyad.sh/) - Free, local, open-source AI app builder.
+- [Yume](https://github.com/aofp/yume) - Minimal desktop GUI for Claude Code with multi-tab sessions, background agents, context compaction, and token tracking.
 
 ## Command Line Tools
 
