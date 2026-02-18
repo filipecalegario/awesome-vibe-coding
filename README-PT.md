@@ -115,6 +115,7 @@
 - [AGENTS.md](https://agents.md/) - Um formato simples e aberto para orientar agentes de codificação.
 - [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) - Um template de prompt para vibe coding.
 - [awesome-ralph](https://github.com/snwfdhmp/awesome-ralph) - Uma lista selecionada de recursos sobre Ralph, a técnica de vibe coding que executa agentes de vibe coding em loops automatizados até que as especificações sejam cumpridas.
+- [nom](https://github.com/nom-social/nom) - Um feed social em tempo real das atividades do seu projeto GitHub com resumos gerados por IA, ajudando equipes a rastrear e compartilhar atualizações de issues, pull requests e releases.
 
 ## Comunidades e Vagas de Emprego
 

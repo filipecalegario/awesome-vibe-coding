@@ -115,6 +115,7 @@
 - [AGENTS.md](https://agents.md/) - 一种简单、开放的编程代理指导格式。
 - [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) - 氛围编程的提示词模板。
 - [awesome-ralph](https://github.com/snwfdhmp/awesome-ralph) - 关于Ralph的精选资源列表，Ralph是一种氛围编程技术，可以在自动循环中运行氛围编程代理，直到满足规格要求。
+- [nom](https://github.com/nom-social/nom) - 实时聚合你的GitHub项目活动的社交动态，附带AI生成摘要，帮助团队追踪和分享议题、拉取请求及发布版本的更新。
 
 ## 社区和招聘平台
 

@@ -115,6 +115,7 @@
 - [AGENTS.md](https://agents.md/) - コーディングエージェントをガイドするためのシンプルでオープンなフォーマット。
 - [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) - バイブコーディング用のプロンプトテンプレート。
 - [awesome-ralph](https://github.com/snwfdhmp/awesome-ralph) - 仕様が満たされるまで自動ループでバイブコーディングエージェントを実行するRalphというバイブコーディング技術に関するリソースの厳選リスト。
+- [nom](https://github.com/nom-social/nom) - AI要約付きでGitHubプロジェクトのアクティビティをリアルタイムに集約するソーシャルフィード。イシュー、プルリクエスト、リリースの更新をチームで追跡・共有できます。
 
 ## コミュニティと求人掲示板
 

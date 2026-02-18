@@ -115,6 +115,7 @@
 - [AGENTS.md](https://agents.md/) - 코딩 에이전트를 안내하기 위한 간단하고 개방적인 형식.
 - [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) - 바이브 코딩을 위한 프롬프트 템플릿.
 - [awesome-ralph](https://github.com/snwfdhmp/awesome-ralph) - 명세가 충족될 때까지 자동화된 루프에서 바이브 코딩 에이전트를 실행하는 기법인 Ralph에 대한 리소스 모음집.
+- [nom](https://github.com/nom-social/nom) - AI 요약 기능을 갖춘 GitHub 프로젝트 활동의 실시간 소셜 피드. 이슈, PR, 릴리즈 업데이트를 팀이 함께 추적하고 공유할 수 있습니다.
 
 ## 커뮤니티 및 구인 게시판
 
