@@ -45,6 +45,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [HeroUI Chat](https://heroui.chat/) - Generate beautiful apps regardless of your design experience.
 - [Rocket.new](https://www.rocket.new/) - "Build Web & Mobile Apps 10x Faster Without Code".
 - [Google AI Studio](https://aistudio.google.com/) - "Another way to vibecode with Gemini. Great for experimenting".
+- [Skiss](https://skiss.io) - "Design, Refine, Simulate — CAD from Your Words".
 
 ## IDEs and Code Editors
 
