@@ -72,6 +72,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer that offers code completion, chat, and agent mode for agentic coding.
 - [Amazon Q Developer – AWS](https://aws.amazon.com/q/developer) - Amazon's Generative AI Assistant for Software Development.
 - [Superdesign.dev](https://www.superdesign.dev/) - Open Source Design Agent.
+- [Perfect.Codes](https://perfect.codes) - Platform to fix your vibe coded bugs
 
 ## Local Apps
 
