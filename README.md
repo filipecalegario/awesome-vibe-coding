@@ -118,6 +118,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 
 ## Communities & Job Boards
 
+- [awesome-vibecoded-apps](https://github.com/levz0r/awesome-vibecoded-apps) - A curated list of apps and projects built with vibe coding.
 - [Vibehackers](https://vibehackers.io) - Community gallery for vibe coded projects and curated job board.
 - [/r/vibecoding](https://www.reddit.com/r/vibecoding/)
 - [/r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/)
