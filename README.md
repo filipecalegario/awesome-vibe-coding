@@ -79,6 +79,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 
 ## Command Line Tools
 
+- [cursor-lint](https://github.com/cursorrulespacks/cursor-lint) - Linter for Cursor AI rule files (.mdc and .cursorrules). Catches broken frontmatter, missing fields, and other issues that silently break AI code generation. Also available as a [GitHub Action](https://github.com/cursorrulespacks/cursor-lint-action).
 - 🔥 [anthropics/claude-code](https://github.com/anthropics/claude-code) - Coding agent that understands your codebase, automates tasks, explains code, and manages Git, all via natural language.
 - [aider](https://aider.chat/) - AI pair programming in your terminal.
 - [codename goose](https://block.github.io/goose/) - Local, on-machine AI Agent that allows you to use any LLM and add any MCP servers as extensions.
