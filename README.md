@@ -115,6 +115,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [AGENTS.md](https://agents.md/) - A simple, open format for guiding coding agents.
 - [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) - A prompt template for vibe coding.
 - [awesome-ralph](https://github.com/snwfdhmp/awesome-ralph) - A curated list of resources about Ralph, the vibe coding technique that runs vibe coding agents in automated loops until specifications are fulfilled.
+- * [SpecVibe](https://github.com/badideal-2046/SpecVibe ) - A structured, executable framework that guides AI agents to build production-ready apps using a spec-driven methodology.
 
 ## Communities & Job Boards
 
