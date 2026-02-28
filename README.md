@@ -14,6 +14,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Local Apps](#local-apps)
 - [Command Line Tools](#command-line-tools)
 - [Task Management for AI Coding](#task-management-for-ai-coding)
+- [Test Platform](#test-platform)
 - [Documentation for AI Coding](#documentation-for-ai-coding)
 - [Communities \& Job Boards](#communities--job-boards)
 - [News and Social Media](#news-and-social-media)
@@ -108,6 +109,10 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Boomerang Tasks](https://docs.roocode.com/features/boomerang-tasks) - Automatically break down complex projects into smaller, manageable pieces.
 - [Claude Task Master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - 🔥 [vibe-kanban](https://github.com/BloopAI/vibe-kanban) - A kanban board to manage and orchestrate AI coding agents.
+
+## Test Platform
+
+- [OpenTester](https://github.com/kznr02/OpenTester) - AI-Drived end-to-end test platform, achieving an automated "code-test-fix" workflow.
 
 ## Documentation for AI Coding
 
