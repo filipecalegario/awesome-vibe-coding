@@ -115,6 +115,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [AGENTS.md](https://agents.md/) - A simple, open format for guiding coding agents.
 - [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) - A prompt template for vibe coding.
 - [awesome-ralph](https://github.com/snwfdhmp/awesome-ralph) - A curated list of resources about Ralph, the vibe coding technique that runs vibe coding agents in automated loops until specifications are fulfilled.
+- [LynxPrompt](https://github.com/GeiserX/LynxPrompt) - Self-hostable platform for managing AI IDE configuration files. Generates, syncs, and shares configs (.cursorrules, CLAUDE.md, copilot-instructions.md, etc.) across 30+ AI coding assistants via web UI, REST API, CLI, and federated blueprint marketplace.
 
 ## Communities & Job Boards
 
