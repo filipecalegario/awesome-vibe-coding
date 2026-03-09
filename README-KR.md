@@ -43,6 +43,7 @@
 - [Firebase Studio](https://studio.firebase.google.com/) - Google이 만든 에이전트 기반 클라우드 개발 환경으로, 프로덕션 품질의 풀스택 AI 앱을 빌드하고 배포합니다.
 - [Napkins.dev](https://www.napkins.dev/) - 스크린샷을 코드로 변환합니다.
 - [HeroUI Chat](https://heroui.chat/) - 디자인 경험에 관계없이 아름다운 앱을 만들어 보세요.
+- [Pulse Editor](https://github.com/claypulse/pulse-editor) - "Pulse Editor는 모듈형 구조의 크로스플랫폼 AI 기반 생산성 플랫폼으로, 연합형 앱 협업과 확장 가능한 워크플로를 제공합니다. 하나의 플랫폼에서 바이브 코딩, 이미지/비디오 생성, 에이전트 자동화를 모두 경험하세요."
 - [Rocket.new](https://www.rocket.new/) - "코드 없이 웹 및 모바일 앱을 10배 빠르게 빌드합니다."
 - [Google AI Studio](https://aistudio.google.com/) - "Gemini로 바이브 코딩하는 또 다른 방법. 실험에 좋습니다."
 
@@ -54,10 +55,12 @@
 - [Amazon Kiro](https://kiro.dev) - 프로토타입부터 프로덕션까지 아우르는 AI IDE.
 - [Google Antigravity](https://antigravity.google/) - 에이전트 중심 접근 방식으로 구축된 Google의 IDE.
 - [Orchids](https://www.orchids.app/) - 바이브 코딩 IDE.
+- [Pulse Editor](https://github.com/claypulse/pulse-editor) - "Pulse Editor는 모듈형 구조의 크로스플랫폼 AI 기반 생산성 플랫폼으로, 연합형 앱 협업과 확장 가능한 워크플로를 제공합니다. 하나의 플랫폼에서 바이브 코딩, 이미지/비디오 생성, 에이전트 자동화를 모두 경험하세요."
 
 ## 모바일 앱
 
 - [VibeCode](https://www.vibecodeapp.com/) - 앱을 만들어주는 앱.
+- [Pulse Editor](https://github.com/claypulse/pulse-editor) - "Pulse Editor는 모듈형 구조의 크로스플랫폼 AI 기반 생산성 플랫폼으로, 연합형 앱 협업과 확장 가능한 워크플로를 제공합니다. 하나의 플랫폼에서 바이브 코딩, 이미지/비디오 생성, 에이전트 자동화를 모두 경험하세요."
 
 ## 플러그인 및 확장 기능
 
@@ -76,6 +79,7 @@
 ## 로컬 앱
 
 - [Dyad](https://www.dyad.sh/) - 무료, 로컬, 오픈소스 AI 앱 빌더.
+- [Pulse Editor](https://github.com/claypulse/pulse-editor) - "Pulse Editor는 모듈형 구조의 크로스플랫폼 AI 기반 생산성 플랫폼으로, 연합형 앱 협업과 확장 가능한 워크플로를 제공합니다. 하나의 플랫폼에서 바이브 코딩, 이미지/비디오 생성, 에이전트 자동화를 모두 경험하세요."
 
 ## 명령행 도구
 

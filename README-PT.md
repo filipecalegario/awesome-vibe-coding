@@ -43,6 +43,7 @@
 - [Firebase Studio](https://studio.firebase.google.com/) - Ambiente de desenvolvimento baseado na nuvem do Google que ajuda a construir e implantar aplicações de IA full-stack de qualidade de produção.
 - [Napkins.dev](https://www.napkins.dev/) - Do screenshot para código.
 - [HeroUI Chat](https://heroui.chat/) - Gere aplicações bonitas independentemente da sua experiência em design.
+- [Pulse Editor](https://github.com/claypulse/pulse-editor) - "O Pulse Editor é uma plataforma de produtividade modular, multiplataforma e impulsionada por IA, com colaboração federada entre aplicativos e fluxos de trabalho extensíveis. Aproveite vibe coding, geração de imagens/vídeos e automação com agentes em uma única plataforma."
 - [Rocket.new](https://www.rocket.new/) - "Construa Apps Web e Mobile 10x Mais Rápido Sem Código".
 - [Google AI Studio](https://aistudio.google.com/) - "Outra forma de fazer vibe coding com Gemini. Ótimo para experimentar".
 
@@ -52,12 +53,14 @@
 - [Cursor](https://www.cursor.com/) - Editor de Código com IA, "a melhor maneira de codificar com IA".
 - [Zed](https://zed.dev/) - Editor de código projetado para colaboração de alta performance com humanos e IA.
 - [Amazon Kiro](https://kiro.dev) - O IDE de IA para prototipagem à produção.
+- [Pulse Editor](https://github.com/claypulse/pulse-editor) - "O Pulse Editor é uma plataforma de produtividade modular, multiplataforma e impulsionada por IA, com colaboração federada entre aplicativos e fluxos de trabalho extensíveis. Aproveite vibe coding, geração de imagens/vídeos e automação com agentes em uma única plataforma."
 - [Google Antigravity](https://antigravity.google/) - IDE do Google construído em torno de uma abordagem centrada em agentes.
 - [Orchids](https://www.orchids.app/) - O IDE de Vibe Coding.
 
 ## Aplicativos Mobile
 
 - [VibeCode](https://www.vibecodeapp.com/) - O app que constrói apps.
+- [Pulse Editor](https://github.com/claypulse/pulse-editor) - "O Pulse Editor é uma plataforma de produtividade modular, multiplataforma e impulsionada por IA, com colaboração federada entre aplicativos e fluxos de trabalho extensíveis. Aproveite vibe coding, geração de imagens/vídeos e automação com agentes em uma única plataforma."
 
 ## Plugins e Extensões
 
@@ -76,6 +79,7 @@
 ## Aplicativos Locais
 
 - [Dyad](https://www.dyad.sh/) - Construtor de aplicações de IA gratuito, local e de código aberto.
+- [Pulse Editor](https://github.com/claypulse/pulse-editor) - "O Pulse Editor é uma plataforma de produtividade modular, multiplataforma e impulsionada por IA, com colaboração federada entre aplicativos e fluxos de trabalho extensíveis. Aproveite vibe coding, geração de imagens/vídeos e automação com agentes em uma única plataforma."
 
 ## Ferramentas de Linha de Comando
 
