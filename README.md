@@ -76,7 +76,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 ## Local Apps
 
 - [Dyad](https://www.dyad.sh/) - Free, local, open-source AI app builder.
-
+- [Mantra](https://mantra.gonewx.com) - Session replay for AI coding assistants. Records conversations, terminal I/O, and code changes from Claude Code, Cursor, Codex, and Gemini CLI, letting you search and replay past sessions. Desktop app for macOS, Windows, Linux.
 ## Command Line Tools
 
 - 🔥 [anthropics/claude-code](https://github.com/anthropics/claude-code) - Coding agent that understands your codebase, automates tasks, explains code, and manages Git, all via natural language.
