@@ -108,6 +108,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Boomerang Tasks](https://docs.roocode.com/features/boomerang-tasks) - Automatically break down complex projects into smaller, manageable pieces.
 - [Claude Task Master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - 🔥 [vibe-kanban](https://github.com/BloopAI/vibe-kanban) - A kanban board to manage and orchestrate AI coding agents.
+- [VibeGrid](https://github.com/jcanizalez/vibegrid) - Terminal manager for AI coding agents. Run Claude Code, Copilot, Codex, Gemini, and OpenCode side-by-side with task queues, workflow automation, and inline diff review.
 
 ## Documentation for AI Coding
 
