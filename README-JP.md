@@ -85,6 +85,7 @@
 - [copilot.vim](https://github.com/github/copilot.vim) - Vim/Neovim用の公式GitHub Copilotプラグイン。
 - [Cody](https://sourcegraph.com/cody) - Sourcegraph製の深いコードベース理解とコードインデックス機能を備えた無料AIコードアシスタント。
 - [Qodo Gen](https://www.qodo.ai/) - テスト、コードレビュー、エージェンティックツールを備えたVS Code用AI搭載コーディングプラットフォーム。
+- [Skills.sh](https://skills.sh/) - 18以上のプラットフォームで単一コマンドで再利用可能なAIエージェントスキルをインストールできるVercelのオープンエコシステム。
 
 ## ローカルアプリ
 

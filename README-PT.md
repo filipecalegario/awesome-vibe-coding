@@ -85,6 +85,7 @@
 - [copilot.vim](https://github.com/github/copilot.vim) - Plugin oficial do GitHub Copilot para Vim/Neovim.
 - [Cody](https://sourcegraph.com/cody) - Assistente de código com IA gratuito da Sourcegraph com compreensão profunda da base de código e indexação de código.
 - [Qodo Gen](https://www.qodo.ai/) - Plataforma de codificação com IA para VS Code com testes, revisão de código e ferramentas agênticas.
+- [Skills.sh](https://skills.sh/) - Ecossistema aberto da Vercel para instalar habilidades reutilizáveis de agentes de IA com um único comando em 18+ plataformas.
 
 ## Aplicativos Locais
 
