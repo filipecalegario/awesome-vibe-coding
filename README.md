@@ -134,6 +134,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [CodeGuide](https://www.codeguide.dev/) - Creates detailed Documentation for your AI Coding Projects.
 - [AGENTS.md](https://agents.md/) - A simple, open format for guiding coding agents, stewarded by the Linux Foundation.
 - [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) - A prompt template for vibe coding.
+- [survivorforge/cursor-rules](https://github.com/survivorforge/cursor-rules) - 35+ production-quality .cursorrules files for 16 frameworks (React, Next.js, Python, Go, Rust, SvelteKit, Django, and more). Ready-to-use AI coding conventions for Cursor and Claude Code. MIT licensed.
 - [awesome-ralph](https://github.com/snwfdhmp/awesome-ralph) - A curated list of resources about Ralph, the vibe coding technique that runs vibe coding agents in automated loops until specifications are fulfilled.
 - [Context7](https://github.com/upstash/context7) - Delivers up-to-date, version-specific documentation directly into LLM prompts. MCP server + CLI.
 - [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - Curated collection of `.cursorrules` configuration files for the Cursor AI editor.
