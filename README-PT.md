@@ -119,6 +119,7 @@
 - [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - Aprendizado profundo para análise e geração de código. Alcança SOTA no PaperBench.
 - [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - Revisão de código agnóstica a provedores usando IA. Use Claude, Gemini, Codex, Ollama para impor seus padrões de codificação.
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - Interface de linha de comando para assistência de codificação com IA.
+- [OpenCode](https://opencode.ai/) - Agente de codificação com IA de código aberto para o terminal com suporte a LSP, 75+ provedores de LLM e fluxos de trabalho multi-sessão.
 
 ## Gerenciamento de Tarefas para Codificação com IA
 

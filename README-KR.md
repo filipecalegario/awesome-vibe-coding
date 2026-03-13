@@ -119,6 +119,7 @@
 - [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - 코드 분석 및 생성을 위한 딥러닝. PaperBench에서 SOTA 달성.
 - [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - AI를 사용한 제공자 독립적인 코드 리뷰. Claude, Gemini, Codex, Ollama를 사용하여 코딩 표준을 적용하세요.
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - AI 기반 코딩 지원을 위한 커맨드 라인 인터페이스.
+- [OpenCode](https://opencode.ai/) - LSP 지원, 75개 이상의 LLM 제공업체 및 멀티세션 워크플로를 갖춘 오픈소스 터미널 AI 코딩 에이전트.
 
 ## AI 코딩 작업 관리
 

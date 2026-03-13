@@ -119,6 +119,7 @@
 - [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - コード分析と生成のための深層学習。PaperBenchでSOTAを達成。
 - [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - AIを使用したプロバイダーに依存しないコードレビュー。Claude、Gemini、Codex、Ollamaを使用してコーディング標準を適用。
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - AI駆動コーディング支援のためのコマンドラインインターフェース。
+- [OpenCode](https://opencode.ai/) - LSPサポート、75以上のLLMプロバイダー、マルチセッションワークフローを備えたオープンソースのターミナルAIコーディングエージェント。
 
 ## AIコーディングタスク管理
 

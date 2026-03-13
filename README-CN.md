@@ -119,6 +119,7 @@
 - [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - 用于代码分析和生成的深度学习。在PaperBench上达到SOTA。
 - [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - 使用AI进行与提供商无关的代码审查。使用Claude、Gemini、Codex、Ollama来执行你的编码标准。
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - AI驱动编程辅助的命令行界面。
+- [OpenCode](https://opencode.ai/) - 开源终端AI编程代理，支持LSP、75+个LLM提供商和多会话工作流。
 
 ## AI编程任务管理
 
