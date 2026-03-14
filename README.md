@@ -122,6 +122,8 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - Command-line interface for AI-powered coding assistance.
 - [OpenCode](https://opencode.ai/) - Open-source AI coding agent for the terminal with LSP support, 75+ LLM providers, and multi-session workflows.
 
+- [MUSE](https://github.com/myths-labs/muse) - Pure-Markdown memory OS for AI coding agents. Gives your AI cross-conversation memory, 48 reusable skills, 8 specialized roles with permission isolation, and workflow commands. Works with Claude Code, Cursor, Windsurf, OpenClaw, Gemini CLI, Codex CLI. Zero dependencies, MIT licensed.
+
 ## Task Management for AI Coding
 
 - [Boomerang Tasks](https://docs.roocode.com/features/boomerang-tasks) - Automatically break down complex projects into smaller, manageable pieces.
