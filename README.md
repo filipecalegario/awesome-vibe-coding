@@ -84,6 +84,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Junie](https://github.com/JetBrains/Junie) - LLM-agnostic coding agent by JetBrains for terminal, IDE, and CI/CD.
 - [copilot.vim](https://github.com/github/copilot.vim) - Official GitHub Copilot plugin for Vim/Neovim.
 - [Cody](https://sourcegraph.com/cody) - Free AI code assistant by Sourcegraph with deep codebase understanding and code indexing.
+- [onUI](https://github.com/onllm-dev/onUI) - Open-source browser extension and MCP server for annotation-first UI pair programming. Annotate any webpage and let AI coding agents (Claude Code, Cursor, Windsurf) understand UI context through 8 MCP tools.
 - [Qodo Gen](https://www.qodo.ai/) - AI-powered coding platform for VS Code with testing, code review, and agentic tools.
 - [Skills.sh](https://skills.sh/) - Open ecosystem by Vercel for installing reusable AI agent skills with a single command across 18+ platforms.
 
