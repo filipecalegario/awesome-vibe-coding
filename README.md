@@ -121,7 +121,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - Provider-agnostic code review using AI. Use Claude, Gemini, Codex, Ollama to enforce your coding standards.
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - Command-line interface for AI-powered coding assistance.
 - [OpenCode](https://opencode.ai/) - Open-source AI coding agent for the terminal with LSP support, 75+ LLM providers, and multi-session workflows.
-- [llm.log](https://github.com/lanesket/llm.log) - See exactly what Claude Code, Codex, Cursor and other agents are sending to LLM APIs — token usage, costs, full prompts and responses, latency. Local proxy, zero code changes, single binary.
+- [llm.log](https://github.com/lanesket/llm.log) - See exactly what Claude Code and other AI agents are sending to LLM APIs — token usage, costs, full prompts and responses, latency. Local proxy, zero code changes, single binary.
 
 ## Task Management for AI Coding
 
