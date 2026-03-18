@@ -92,6 +92,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - 🔥 [Dyad](https://www.dyad.sh/) - Free, local, open-source AI app builder. Model-agnostic, supports cloud models and local via Ollama.
 - [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Open-source version of Bolt.new with Electron desktop apps, 19+ AI providers, and local model support via Ollama.
 - [Superset](https://github.com/superset-sh/superset) - Desktop app to orchestrate multiple AI coding agents in parallel (Claude Code, Codex, etc.) with Git worktree isolation.
+- [Parallel Code](https://github.com/nicobailon/parallel-code) - Desktop app for running multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) simultaneously in isolated git worktrees.
 
 ## Command Line Tools
 
