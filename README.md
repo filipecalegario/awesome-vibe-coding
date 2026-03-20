@@ -15,6 +15,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Command Line Tools](#command-line-tools)
 - [Task Management for AI Coding](#task-management-for-ai-coding)
 - [Documentation for AI Coding](#documentation-for-ai-coding)
+- [Debugging \& Code Rescue](#debugging--code-rescue)
 - [Communities \& Job Boards](#communities--job-boards)
 - [News and Social Media](#news-and-social-media)
 - [Contribute](#contribute)
@@ -150,6 +151,10 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [/r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/)
 - [Vibe Coding Forem](https://vibe.forem.com/) - Community forum for AI-assisted development discussions.
 - [Vibe Coding Community](https://github.com/Vibe-Coding-Community) - A space for sharing tools, best practices, and projects created with vibe coding.
+
+## Debugging & Code Rescue
+
+- [Vibe Code Rescue](https://rmbell09-lang.github.io/tradesight/vibe-code-rescue.html) - Professional debugging and repair service for broken AI-generated projects. Diagnose and fix issues from Cursor, Copilot, or Claude-generated code. Tiers: Code Audit (9), Audit + Fix (49), Full Rescue (99).
 
 ## News and Social Media
 
