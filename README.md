@@ -126,6 +126,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 
 - [Boomerang Tasks](https://docs.roocode.com/features/boomerang-tasks) - Automatically break down complex projects into smaller, manageable pieces.
 - [Claude Task Master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
+- [agent-hub](https://github.com/Dominic789654/agent-hub) - Local-first multitask board for routing, sequencing, and observing repo-local coding agents across projects.
 - 🔥 [vibe-kanban](https://github.com/BloopAI/vibe-kanban) - A kanban board to manage and orchestrate AI coding agents. Supports 10+ coding agents.
 - [CCPM (Claude Code PM)](https://github.com/automazeio/ccpm) - Project management for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
 - [Archon](https://github.com/coleam00/Archon) - Knowledge and task management backbone for AI coding assistants via MCP.
