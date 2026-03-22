@@ -86,6 +86,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Cody](https://sourcegraph.com/cody) - Free AI code assistant by Sourcegraph with deep codebase understanding and code indexing.
 - [Qodo Gen](https://www.qodo.ai/) - AI-powered coding platform for VS Code with testing, code review, and agentic tools.
 - [Skills.sh](https://skills.sh/) - Open ecosystem by Vercel for installing reusable AI agent skills with a single command across 18+ platforms.
+- [UI Annotator MCP](https://github.com/mcpware/ui-annotator-mcp) - MCP server that annotates web pages with hover labels so vibe coders can tell AI which element to change without knowing CSS selectors.
 
 ## Local Apps
 
@@ -121,6 +122,8 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - Provider-agnostic code review using AI. Use Claude, Gemini, Codex, Ollama to enforce your coding standards.
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - Command-line interface for AI-powered coding assistance.
 - [OpenCode](https://opencode.ai/) - Open-source AI coding agent for the terminal with LSP support, 75+ LLM providers, and multi-session workflows.
+- [Pagecast](https://github.com/mcpware/pagecast) - MCP server that records browser sessions as GIF or video for demoing vibe-coded apps without manual screen recording.
+- [LogoLoom](https://github.com/mcpware/logoloom) - MCP server for AI logo design that exports SVG and full brand kits directly from your coding agent.
 
 ## Task Management for AI Coding
 
@@ -142,6 +145,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [llms.txt](https://github.com/AnswerDotAI/llms-txt) - Standardized markdown file specification for making website documentation LLM-friendly.
 - [claude-reflect](https://github.com/BayramAnnakov/claude-reflect) - Self-learning system for Claude Code that captures corrections and syncs approved learnings to CLAUDE.md files.
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - The Ultimate Guide to Vibe Coding with best practices and tips.
+- [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) - Visual dashboard and MCP server to organize Claude Code memories, skills, MCP servers, and hooks with scope hierarchy and drag-and-drop.
 
 ## Communities & Job Boards
 
