@@ -130,6 +130,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [CCPM (Claude Code PM)](https://github.com/automazeio/ccpm) - Project management for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
 - [Archon](https://github.com/coleam00/Archon) - Knowledge and task management backbone for AI coding assistants via MCP.
 - [AI-DLC Workflows (AWS Labs)](https://github.com/awslabs/aidlc-workflows) - AI-Driven Development Life Cycle workflow rules for coding agents. Supports Kiro, Q Developer, Cursor, Cline, Claude Code.
+- [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) - Claude Code skill for public SEC EDGAR + market data with `/analyze`, `/score`, `/compare` and Python helpers. MIT.
 
 ## Documentation for AI Coding
 
