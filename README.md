@@ -93,6 +93,8 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Open-source version of Bolt.new with Electron desktop apps, 19+ AI providers, and local model support via Ollama.
 - [Superset](https://github.com/superset-sh/superset) - Desktop app to orchestrate multiple AI coding agents in parallel (Claude Code, Codex, etc.) with Git worktree isolation.
 
+- [CCHub](https://github.com/Moresl/cchub) - Claude Code ecosystem management platform with visual GUI for MCP servers, skills, multi-config switching, and custom slash commands. Built with Tauri v2.
+
 ## Command Line Tools
 
 - 🔥 [anthropics/claude-code](https://github.com/anthropics/claude-code) - Coding agent that understands your codebase, automates tasks, explains code, and manages Git, all via natural language.
