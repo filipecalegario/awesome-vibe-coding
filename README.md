@@ -97,6 +97,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 
 - 🔥 [anthropics/claude-code](https://github.com/anthropics/claude-code) - Coding agent that understands your codebase, automates tasks, explains code, and manages Git, all via natural language.
 - [aider](https://aider.chat/) - AI pair programming in your terminal. Git-first with multi-file coordinated changes across 100+ languages.
+- [Bernstein](https://github.com/chernistry/bernstein) - Multi-agent orchestrator that spawns parallel coding agents (Claude Code, Codex CLI, Gemini CLI) from a single goal, verifies with tests, auto-commits. Zero LLM tokens on coordination.
 - [goose](https://block.github.io/goose/) - Open-source, on-machine AI agent by Block that connects to systems via MCP for extensible automation.
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - Open-source AI-driven development agent with CLI, GUI, and cloud modes, supporting Claude, GPT, and other models.
 - [Plandex](https://github.com/plandex-ai/plandex) - Terminal-based AI coding agent with REPL mode for planning and executing complex tasks across multiple files, 2M token context.
