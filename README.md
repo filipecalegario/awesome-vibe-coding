@@ -14,6 +14,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Local Apps](#local-apps)
 - [Command Line Tools](#command-line-tools)
 - [Task Management for AI Coding](#task-management-for-ai-coding)
+- [Monitoring & Cost Tracking](#monitoring--cost-tracking)
 - [Documentation for AI Coding](#documentation-for-ai-coding)
 - [Communities \& Job Boards](#communities--job-boards)
 - [News and Social Media](#news-and-social-media)
@@ -130,6 +131,10 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [CCPM (Claude Code PM)](https://github.com/automazeio/ccpm) - Project management for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
 - [Archon](https://github.com/coleam00/Archon) - Knowledge and task management backbone for AI coding assistants via MCP.
 - [AI-DLC Workflows (AWS Labs)](https://github.com/awslabs/aidlc-workflows) - AI-Driven Development Life Cycle workflow rules for coding agents. Supports Kiro, Q Developer, Cursor, Cline, Claude Code.
+
+## Monitoring & Cost Tracking
+
+- [Budi](https://github.com/siropkin/budi) - Local-first cost analytics for AI coding agents. Tracks token usage and spend across Claude Code and Cursor.
 
 ## Documentation for AI Coding
 
