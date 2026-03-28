@@ -96,6 +96,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 ## Command Line Tools
 
 - 🔥 [anthropics/claude-code](https://github.com/anthropics/claude-code) - Coding agent that understands your codebase, automates tasks, explains code, and manages Git, all via natural language.
+- [Bernstein](https://github.com/chernistry/bernstein) - Orchestrates parallel AI coding agents (Claude Code, Codex CLI, Gemini CLI) from a single goal. Deterministic coordination with test-driven verification.
 - [aider](https://aider.chat/) - AI pair programming in your terminal. Git-first with multi-file coordinated changes across 100+ languages.
 - [goose](https://block.github.io/goose/) - Open-source, on-machine AI agent by Block that connects to systems via MCP for extensible automation.
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - Open-source AI-driven development agent with CLI, GUI, and cloud modes, supporting Claude, GPT, and other models.
