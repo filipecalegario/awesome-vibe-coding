@@ -141,6 +141,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - Curated collection of `.cursorrules` configuration files for the Cursor AI editor.
 - [llms.txt](https://github.com/AnswerDotAI/llms-txt) - Standardized markdown file specification for making website documentation LLM-friendly.
 - [claude-reflect](https://github.com/BayramAnnakov/claude-reflect) - Self-learning system for Claude Code that captures corrections and syncs approved learnings to CLAUDE.md files.
+- [ShipWithAI/claude-code-mastery](https://github.com/ShipWithAI/claude-code-mastery) - Free structured course for mastering Claude Code, covering workflows, security, automation, multi-agent patterns, and team adoption.
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - The Ultimate Guide to Vibe Coding with best practices and tips.
 
 ## Communities & Job Boards
