@@ -15,6 +15,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Command Line Tools](#command-line-tools)
 - [Task Management for AI Coding](#task-management-for-ai-coding)
 - [Documentation for AI Coding](#documentation-for-ai-coding)
+- [Use Cases \& Verticals](#use-cases--verticals)
 - [Communities \& Job Boards](#communities--job-boards)
 - [News and Social Media](#news-and-social-media)
 - [Contribute](#contribute)
@@ -142,6 +143,11 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [llms.txt](https://github.com/AnswerDotAI/llms-txt) - Standardized markdown file specification for making website documentation LLM-friendly.
 - [claude-reflect](https://github.com/BayramAnnakov/claude-reflect) - Self-learning system for Claude Code that captures corrections and syncs approved learnings to CLAUDE.md files.
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - The Ultimate Guide to Vibe Coding with best practices and tips.
+
+## Use Cases & Verticals
+
+- [Hi-Commerce Vibe Coding E-commerce](https://www.hi-commerce.fr/vibe-coding-ecommerce/) - Building e-commerce features with AI-assisted vibe coding: product catalogs, checkout flows, and SEO optimization for online stores. (French)
+- [Vibe Coding for E-commerce (EN)](https://www.hi-commerce.fr/vibe-coding-ecommerce-en/) - English guide to using vibe coding for e-commerce development, from product pages to conversion optimization.
 
 ## Communities & Job Boards
 
