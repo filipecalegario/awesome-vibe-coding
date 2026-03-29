@@ -86,7 +86,6 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Cody](https://sourcegraph.com/cody) - Free AI code assistant by Sourcegraph with deep codebase understanding and code indexing.
 - [Qodo Gen](https://www.qodo.ai/) - AI-powered coding platform for VS Code with testing, code review, and agentic tools.
 - [Skills.sh](https://skills.sh/) - Open ecosystem by Vercel for installing reusable AI agent skills with a single command across 18+ platforms.
-- [UI Annotator MCP](https://github.com/mcpware/ui-annotator-mcp) - MCP server that annotates web pages with hover labels so vibe coders can tell AI which element to change without knowing CSS selectors.
 
 ## Local Apps
 
@@ -123,8 +122,6 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - Command-line interface for AI-powered coding assistance.
 - [OpenCode](https://opencode.ai/) - Open-source AI coding agent for the terminal with LSP support, 75+ LLM providers, and multi-session workflows.
 - [pyscn](https://github.com/ludo-technologies/pyscn) - Code quality analyzer for vibe-coded Python. Detects dead code, clones, complexity issues, and coupling problems with MCP integration for AI assistants.
-- [Pagecast](https://github.com/mcpware/pagecast) - MCP server that records browser sessions as GIF or video for demoing vibe-coded apps without manual screen recording.
-- [LogoLoom](https://github.com/mcpware/logoloom) - MCP server for AI logo design that exports SVG and full brand kits directly from your coding agent.
 
 ## Task Management for AI Coding
 
