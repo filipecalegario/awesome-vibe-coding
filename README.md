@@ -122,6 +122,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - Command-line interface for AI-powered coding assistance.
 - [OpenCode](https://opencode.ai/) - Open-source AI coding agent for the terminal with LSP support, 75+ LLM providers, and multi-session workflows.
 - [pyscn](https://github.com/ludo-technologies/pyscn) - Code quality analyzer for vibe-coded Python. Detects dead code, clones, complexity issues, and coupling problems with MCP integration for AI assistants.
+- [ToolRouter](https://toolrouter.com) - All your AI tools in one place — 150+ tools on demand with one account. No code needed to access competitor research, video production, web search, image generation, security scanning, and more. `npx -y toolrouter-mcp`
 
 ## Task Management for AI Coding
 
