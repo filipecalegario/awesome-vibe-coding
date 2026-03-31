@@ -13,6 +13,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Plugins and Extensions](#plugins-and-extensions)
 - [Local Apps](#local-apps)
 - [Command Line Tools](#command-line-tools)
+- [Security for Vibe Coding](#security-for-vibe-coding)
 - [Task Management for AI Coding](#task-management-for-ai-coding)
 - [Documentation for AI Coding](#documentation-for-ai-coding)
 - [Communities \& Job Boards](#communities--job-boards)
@@ -122,6 +123,10 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - Command-line interface for AI-powered coding assistance.
 - [OpenCode](https://opencode.ai/) - Open-source AI coding agent for the terminal with LSP support, 75+ LLM providers, and multi-session workflows.
 - [pyscn](https://github.com/ludo-technologies/pyscn) - Code quality analyzer for vibe-coded Python. Detects dead code, clones, complexity issues, and coupling problems with MCP integration for AI assistants.
+
+## Security for Vibe Coding
+
+- [infynon](https://github.com/d4rkNinja/infynon-cli) - Security layer for vibe-coded projects: pre-install CVE firewall across 14 package ecosystems (npm, pip, cargo, go, gem and more), reverse proxy WAF with real-time TUI dashboard, and API flow tester with built-in security probes. Blocks vulnerable packages before AI agents install them.
 
 ## Task Management for AI Coding
 
