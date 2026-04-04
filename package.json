@@ -1,0 +1,25 @@
+{
+  "name": "awesome-vibe-coding",
+  "version": "1.0.0",
+  "description": "A curated list of vibe coding references, collaborating with AI to write code",
+  "scripts": {
+    "build": "node .github/scripts/build.js",
+    "serve": "npm run build && npx http-server dist -p 8080 -o",
+    "lint": "awesome-lint"
+  },
+  "keywords": [
+    "awesome",
+    "vibe-coding",
+    "ai",
+    "coding",
+    "tools"
+  ],
+  "author": "Filipe Calegario",
+  "license": "MIT",
+  "dependencies": {
+    "markdown-it": "^14.1.1"
+  },
+  "devDependencies": {
+    "awesome-lint": "^2.2.3"
+  }
+}
