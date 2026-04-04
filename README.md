@@ -43,7 +43,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Creatr](https://getcreatr.com/) - "Create and deploy web apps and landing pages in seconds".
 - [Rork](https://rork.com/) - "Build any mobile app, fast" with React Native and Expo.
 - [Firebase Studio](https://studio.firebase.google.com/) - Google's agentic cloud-based development environment that helps build and ship production-quality full-stack AI apps.
-- [Napkins.dev](https://www.napkins.dev/) - Screenshot to code using Llama vision models.
+- [Napkins.dev](https://www.napkins.dev/) - Screenshot to code using LLaMA vision models.
 - [HeroUI Chat](https://heroui.chat/) - Generate beautiful apps regardless of your design experience.
 - [Rocket.new](https://www.rocket.new/) - "Build Web & Mobile Apps 10x Faster Without Code".
 - [Google AI Studio](https://aistudio.google.com/) - "Another way to vibecode with Gemini. Great for experimenting".
