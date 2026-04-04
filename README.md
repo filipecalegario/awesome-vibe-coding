@@ -144,6 +144,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [claude-reflect](https://github.com/BayramAnnakov/claude-reflect) - Self-learning system for Claude Code that captures corrections and syncs approved learnings to CLAUDE.md files.
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - The Ultimate Guide to Vibe Coding with best practices and tips.
 - [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) - Visual dashboard and MCP server to organize Claude Code memories, skills, MCP servers, and hooks with scope hierarchy and drag-and-drop.
+- [Agentify](https://github.com/koriyoshi2041/agentify) - CLI tool that transforms OpenAPI specs into 9 agent interface formats (MCP servers, CLAUDE.md, AGENTS.md, .cursorrules, Skills, and more), making any API instantly accessible to AI coding tools.
 
 ## Communities & Job Boards
 
