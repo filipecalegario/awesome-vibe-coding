@@ -122,6 +122,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - Command-line interface for AI-powered coding assistance.
 - [OpenCode](https://opencode.ai/) - Open-source AI coding agent for the terminal with LSP support, 75+ LLM providers, and multi-session workflows.
 - [pyscn](https://github.com/ludo-technologies/pyscn) - Code quality analyzer for vibe-coded Python. Detects dead code, clones, complexity issues, and coupling problems with MCP integration for AI assistants.
+- [sober-coding](https://github.com/voidborne-d/sober-coding) - The hangover cure for vibe coding. Language-agnostic CLI that scans for 27 AI-code smells across 7 dimensions (security, architecture, duplication, error handling, dependencies, testing, dead code) with fix suggestions and CI mode.
 
 ## Task Management for AI Coding
 
