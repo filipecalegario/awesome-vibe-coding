@@ -111,6 +111,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [CodeSelect](https://github.com/maynetee/codeselect) - A Python-based command-line tool that efficiently communicates project source code to AIs.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - "qwen-code is a coding agent that lives in digital world".
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - "The glamorous AI coding agent for your favourite terminal", multi-model with beautiful TUI.
+- [Hashgraph Online](https://hol.org) - Trust engine for the agentic internet. Verifiable agent identity (Universal Agent IDs), trustless P2P communication, and a registry of 187K+ verified AI agents.
 - [Warp](https://www.warp.dev/) - Agentic development environment with Oz orchestration platform for running unlimited parallel coding agents.
 - [langchain-code](https://github.com/zamalali/langchain-code) - LangChain-based coding agent for AI-assisted development. Supports Gemini, Anthropic, OpenAI, and Ollama.
 - [kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Official command-line interface for Kimi, an AI assistant that helps with coding tasks and development workflows.
