@@ -141,6 +141,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Context7](https://github.com/upstash/context7) - Delivers up-to-date, version-specific documentation directly into LLM prompts. MCP server + CLI.
 - [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - Curated collection of `.cursorrules` configuration files for the Cursor AI editor.
 - [llms.txt](https://github.com/AnswerDotAI/llms-txt) - Standardized markdown file specification for making website documentation LLM-friendly.
+- [ctxlint](https://github.com/YawLabs/ctxlint) - Lints AI context files against the actual codebase. Catches broken paths, wrong commands, stale context, and token waste.
 - [claude-reflect](https://github.com/BayramAnnakov/claude-reflect) - Self-learning system for Claude Code that captures corrections and syncs approved learnings to CLAUDE.md files.
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - The Ultimate Guide to Vibe Coding with best practices and tips.
 - [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) - Visual dashboard and MCP server to organize Claude Code memories, skills, MCP servers, and hooks with scope hierarchy and drag-and-drop.
