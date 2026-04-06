@@ -65,6 +65,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 ## Mobile Apps
 
 - [VibeCode](https://www.vibecodeapp.com/) - The app that builds apps. Available on iOS and Android.
+- [Onepilot](https://onepilotapp.com/) - SSH into remote servers and run AI coding agents (Claude Code, Codex) from your iPhone. Vibe code on mobile.
 
 ## Plugins and Extensions
 
