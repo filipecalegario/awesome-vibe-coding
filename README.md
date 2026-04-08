@@ -122,6 +122,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - Command-line interface for AI-powered coding assistance.
 - [OpenCode](https://opencode.ai/) - Open-source AI coding agent for the terminal with LSP support, 75+ LLM providers, and multi-session workflows.
 - [pyscn](https://github.com/ludo-technologies/pyscn) - Code quality analyzer for vibe-coded Python. Detects dead code, clones, complexity issues, and coupling problems with MCP integration for AI assistants.
+- [Wiggum CLI](https://github.com/federiconeri/wiggum-cli) - Open-source AI agent that scans codebases, generates specs through AI interviews, and runs autonomous coding loops via Claude Code or Codex. Agent mode ships GitHub issues end-to-end.
 
 ## Task Management for AI Coding
 
