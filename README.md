@@ -145,7 +145,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [claude-reflect](https://github.com/BayramAnnakov/claude-reflect) - Self-learning system for Claude Code that captures corrections and syncs approved learnings to CLAUDE.md files.
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - The Ultimate Guide to Vibe Coding with best practices and tips.
 - [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) - Visual dashboard and MCP server to organize Claude Code memories, skills, MCP servers, and hooks with scope hierarchy and drag-and-drop.
-- [Coolreadme](https://coolreadme.xyz) - Generate GitHub profile and project READMEs with AI-powered templates and live customization preview.
+- [Coolreadme](https://coolreadme.xyz) - 29+ embeddable GitHub profile cards — Netflix, YouTube, Steam, Twitch, X/Twitter, Now Listening, animated streak pet cards, and AI identity badges. Paste a URL into your README and it just works.
 
 ## Communities & Job Boards
 
