@@ -108,6 +108,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [GitHub Copilot CLI](https://github.com/github/copilot-cli) - Full agentic development environment in the terminal with Autopilot mode, multi-model support, and GitHub integration. GA since Feb 2026.
 - [MyCoder.ai](https://github.com/drivecore/mycoder) - Open source AI-powered coding assistant with Git and GitHub integration, featuring parallel execution and self-modification capabilities.
 - [ai-christianson/RA.Aid](https://github.com/ai-christianson/RA.Aid) - A standalone coding agent built on LangGraph's agent-based task execution framework.
+- [teleping](https://github.com/yerdaulet-damir/teleping) - Production observability for solo builders: structured Telegram alerts with batching, quiet hours, progress bars, tables, and checklists — 1 import, zero deps.
 - [CodeSelect](https://github.com/maynetee/codeselect) - A Python-based command-line tool that efficiently communicates project source code to AIs.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - "qwen-code is a coding agent that lives in digital world".
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - "The glamorous AI coding agent for your favourite terminal", multi-model with beautiful TUI.
@@ -144,6 +145,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [claude-reflect](https://github.com/BayramAnnakov/claude-reflect) - Self-learning system for Claude Code that captures corrections and syncs approved learnings to CLAUDE.md files.
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - The Ultimate Guide to Vibe Coding with best practices and tips.
 - [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) - Visual dashboard and MCP server to organize Claude Code memories, skills, MCP servers, and hooks with scope hierarchy and drag-and-drop.
+- [Coolreadme](https://coolreadme.xyz) - Generate GitHub profile and project READMEs with AI-powered templates and live customization preview.
 
 ## Communities & Job Boards
 
