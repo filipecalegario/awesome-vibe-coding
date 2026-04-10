@@ -50,6 +50,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Emergent](https://emergent.sh/) - Multi-agent AI app builder that plans, codes, tests, and deploys full-stack web and mobile apps autonomously.
 - [Manus](https://manus.im/) - Autonomous AI agent for end-to-end project automation, from research to deployment.
 - [Same.new](https://same.new/) - AI web builder for cloning and creating websites from descriptions.
+- [LIIVO](https://www.liivo.ai) - Deploy apps your AI built. Connect Claude or ChatGPT, describe what you want, and LIIVO runs it on open-source infrastructure you can take anywhere. Flat EUR 15/month, zero vendor lock-in.
 
 ## IDEs and Code Editors
 
