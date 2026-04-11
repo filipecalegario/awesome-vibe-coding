@@ -112,6 +112,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [ai-christianson/RA.Aid](https://github.com/ai-christianson/RA.Aid) - A standalone coding agent built on LangGraph's agent-based task execution framework.
 - [CodeSelect](https://github.com/maynetee/codeselect) - A Python-based command-line tool that efficiently communicates project source code to AIs.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - "qwen-code is a coding agent that lives in digital world".
+- [Warp](https://warp.dev/) - A modern, AI-powered terminal built for teams and individuals, featuring AI command search and workflows.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - "The glamorous AI coding agent for your favourite terminal", multi-model with beautiful TUI.
 - [Warp](https://www.warp.dev/) - Agentic development environment with Oz orchestration platform for running unlimited parallel coding agents.
 - [langchain-code](https://github.com/zamalali/langchain-code) - LangChain-based coding agent for AI-assisted development. Supports Gemini, Anthropic, OpenAI, and Ollama.
