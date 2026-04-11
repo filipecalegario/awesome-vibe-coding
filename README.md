@@ -124,6 +124,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - Provider-agnostic code review using AI. Use Claude, Gemini, Codex, Ollama to enforce your coding standards.
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - Command-line interface for AI-powered coding assistance.
 - [OpenCode](https://opencode.ai/) - Open-source AI coding agent for the terminal with LSP support, 75+ LLM providers, and multi-session workflows.
+- [onWatch](https://github.com/onllm-dev/onwatch) - Open-source Go CLI that tracks AI API quota usage across 7 providers (Anthropic, OpenAI, GitHub Copilot, MiniMax, and more). Works with Claude Code, Codex CLI, Cursor, Cline, and other vibe coding tools. Background daemon, <50MB RAM, zero telemetry.
 - [pyscn](https://github.com/ludo-technologies/pyscn) - Code quality analyzer for vibe-coded Python. Detects dead code, clones, complexity issues, and coupling problems with MCP integration for AI assistants.
 
 ## Task Management for AI Coding
