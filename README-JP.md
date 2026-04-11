@@ -89,9 +89,12 @@
 
 ## ローカルアプリ
 
+- [CCHub](https://github.com/Moresl/cchub) - Claude Codeエコシステム管理用デスクトップアプリ — MCPサーバーマーケットプレイス、設定プロファイル切替、ワークフローテンプレート、セキュリティ監査、オートパイロット。Tauri + React + Rustで構築。
+
 - 🔥 [Dyad](https://www.dyad.sh/) - 無料、ローカル、オープンソースのAIアプリビルダー。モデルに依存せず、クラウドモデルとOllama経由のローカルモデルをサポート。
 - [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Electronデスクトップアプリ、19以上のAIプロバイダー、Ollama経由のローカルモデルサポートを備えたBolt.newのオープンソース版。
 - [Superset](https://github.com/superset-sh/superset) - Git worktree分離により複数のAIコーディングエージェント（Claude Code、Codexなど）を並列でオーケストレーションするデスクトップアプリ。
+- [Parallel Code](https://github.com/johannesjo/parallel-code) - 分離されたgit worktreeで複数のAIコーディングエージェント（Claude Code、Codex CLI、Gemini CLI）を同時に実行するデスクトップアプリ。
 
 ## コマンドラインツール
 
@@ -110,6 +113,7 @@
 - [ai-christianson/RA.Aid](https://github.com/ai-christianson/RA.Aid) - LangGraphのエージェントベースタスク実行フレームワーク上に構築されたスタンドアロンコーディングエージェント。
 - [CodeSelect](https://github.com/maynetee/codeselect) - プロジェクトソースコードをAIに効率的に伝達するPythonベースのコマンドラインツール。
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - 「qwen-codeはデジタル世界に住むコーディングエージェントです」。
+- [Warp](https://warp.dev/) - チームと個人のために構築された、AIコマンド検索とワークフローを備えた最新のAI搭載ターミナル。
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - 「お気に入りのターミナル用の華麗なAIコーディングエージェント」、美しいTUI付きマルチモデル対応。
 - [Warp](https://www.warp.dev/) - 無制限の並列コーディングエージェントを実行するOzオーケストレーションプラットフォームを備えたエージェンティック開発環境。
 - [langchain-code](https://github.com/zamalali/langchain-code) - AI支援開発のためのLangChainベースのコーディングエージェント。Gemini、Anthropic、OpenAI、Ollamaをサポート。
@@ -121,6 +125,8 @@
 - [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - AIを使用したプロバイダーに依存しないコードレビュー。Claude、Gemini、Codex、Ollamaを使用してコーディング標準を適用。
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - AI駆動コーディング支援のためのコマンドラインインターフェース。
 - [OpenCode](https://opencode.ai/) - LSPサポート、75以上のLLMプロバイダー、マルチセッションワークフローを備えたオープンソースのターミナルAIコーディングエージェント。
+- [onWatch](https://github.com/onllm-dev/onwatch) - 7つのプロバイダー（Anthropic、OpenAI、GitHub Copilot、MiniMaxなど）のAI APIクォータ使用量を追跡するオープンソースGo CLI。Claude Code、Codex CLI、Cursor、Clineなどのバイブコーディングツールに対応。バックグラウンドデーモン、50MB未満のRAM、テレメトリーなし。
+- [pyscn](https://github.com/ludo-technologies/pyscn) - バイブコーディングされたPythonのコード品質アナライザー。デッドコード、クローン、複雑性の問題、結合の問題を検出し、AIアシスタント向けMCP統合を提供。
 
 ## AIコーディングタスク管理
 
@@ -142,6 +148,7 @@
 - [llms.txt](https://github.com/AnswerDotAI/llms-txt) - WebサイトドキュメントをLLMフレンドリーにするための標準化マークダウンファイル仕様。
 - [claude-reflect](https://github.com/BayramAnnakov/claude-reflect) - 修正をキャプチャし、承認された学習をCLAUDE.mdファイルに同期するClaude Code用の自己学習システム。
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - ベストプラクティスとヒントを含むバイブコーディングの究極ガイド。
+- [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) - Claude Codeのメモリ、スキル、MCPサーバー、フックをスコープ階層とドラッグ＆ドロップで整理するビジュアルダッシュボードとMCPサーバー。
 
 ## コミュニティと求人掲示板
 
@@ -155,7 +162,7 @@
 
 > このセクションは時系列逆順で項目を表示し、最新のエントリが上部に表示されます。
 
-- [Vibe-Coding Triggered Major Outages at Amazon](https://belitsoft.com/news/vibe-coding-amazon-outage-20261003)
+- [Vibe-Coding Triggered Major Outages at Amazon](https://belitsoft.com/news/vibe-coding-amazon-outage-20261003) - GenAI支援の変更が本番環境の障害を引き起こした事例。
 - [The State of Vibe Coding: A 2026 Strategic Blueprint | Keywords Studios](https://www.keywordsstudios.com/en/about-us/news-events/news/the-state-of-vibe-coding-a-2026-strategic-blueprint/)
 - [How Vibe Coding Is Killing Open Source | Hackaday](https://hackaday.com/2026/02/02/how-vibe-coding-is-killing-open-source/)
 - [The uncomfortable truth about vibe coding | Red Hat Developer](https://developers.redhat.com/articles/2026/02/17/uncomfortable-truth-about-vibe-coding)
@@ -176,6 +183,7 @@
 - [Vibe Coding - Where Everyone Can 'Speak' Computer Programming - The New Stack](https://thenewstack.io/vibe-coding-where-everyone-can-speak-computer-programming/)
 - [A.I. and Vibecoding Helped Me to Create My Own Software - The New York Times](https://www.nytimes.com/2025/02/27/technology/personaltech/vibecoding-ai-software-programming.html)
 - [Vibe Engineering](https://www.manning.com/books/vibe-engineering)
+- [Mysti](https://github.com/DeepMyst/Mysti) - VS Code用マルチエージェントAIコーディングアシスタント。Claude Code、Codex、Gemini、GitHub Copilotが共にブレインストーミングし、協調ソリューションを提供。
 
 ## 貢献
 

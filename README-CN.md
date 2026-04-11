@@ -89,9 +89,12 @@
 
 ## 本地应用
 
+- [CCHub](https://github.com/Moresl/cchub) - 管理Claude Code生态系统的桌面应用——MCP服务器市场、配置文件切换、工作流模板、安全审计和自动驾驶。基于Tauri + React + Rust构建。
+
 - 🔥 [Dyad](https://www.dyad.sh/) - 免费、本地、开源的AI应用构建器。模型无关，支持云模型和通过Ollama的本地模型。
 - [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Bolt.new的开源版本，具有Electron桌面应用、19+个AI提供商和通过Ollama的本地模型支持。
 - [Superset](https://github.com/superset-sh/superset) - 桌面应用，可并行编排多个AI编程代理（Claude Code、Codex等），具有Git worktree隔离。
+- [Parallel Code](https://github.com/johannesjo/parallel-code) - 在隔离的git worktree中同时运行多个AI编程代理（Claude Code、Codex CLI、Gemini CLI）的桌面应用。
 
 ## 命令行工具
 
@@ -110,6 +113,7 @@
 - [ai-christianson/RA.Aid](https://github.com/ai-christianson/RA.Aid) - 基于LangGraph代理任务执行框架构建的独立编程代理。
 - [CodeSelect](https://github.com/maynetee/codeselect) - 基于Python的命令行工具，高效地将项目源代码传达给AI。
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - "qwen-code是一个生活在数字世界的编程代理"。
+- [Warp](https://warp.dev/) - 为团队和个人打造的现代AI终端，具有AI命令搜索和工作流功能。
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - "为你最爱的终端打造的迷人AI编程代理"，多模型支持，具有精美的TUI。
 - [Warp](https://www.warp.dev/) - 代理开发环境，具有Oz编排平台，可运行无限并行编程代理。
 - [langchain-code](https://github.com/zamalali/langchain-code) - 基于LangChain的编程代理，用于AI辅助开发。支持Gemini、Anthropic、OpenAI和Ollama。
@@ -121,6 +125,8 @@
 - [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - 使用AI进行与提供商无关的代码审查。使用Claude、Gemini、Codex、Ollama来执行你的编码标准。
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - AI驱动编程辅助的命令行界面。
 - [OpenCode](https://opencode.ai/) - 开源终端AI编程代理，支持LSP、75+个LLM提供商和多会话工作流。
+- [onWatch](https://github.com/onllm-dev/onwatch) - 开源Go CLI，跟踪7个提供商（Anthropic、OpenAI、GitHub Copilot、MiniMax等）的AI API配额使用情况。支持Claude Code、Codex CLI、Cursor、Cline等氛围编程工具。后台守护进程，<50MB内存，零遥测。
+- [pyscn](https://github.com/ludo-technologies/pyscn) - 氛围编程Python代码质量分析器。检测死代码、克隆、复杂性问题和耦合问题，具有MCP集成以支持AI助手。
 
 ## AI编程任务管理
 
@@ -142,6 +148,7 @@
 - [llms.txt](https://github.com/AnswerDotAI/llms-txt) - 标准化的markdown文件规范，使网站文档对LLM友好。
 - [claude-reflect](https://github.com/BayramAnnakov/claude-reflect) - Claude Code的自学习系统，捕获修正并将已批准的学习内容同步到CLAUDE.md文件。
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - 氛围编程终极指南，包含最佳实践和技巧。
+- [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) - 可视化仪表板和MCP服务器，用于组织Claude Code的记忆、技能、MCP服务器和钩子，支持范围层次结构和拖放操作。
 
 ## 社区和招聘平台
 
@@ -176,6 +183,7 @@
 - [Vibe Coding - Where Everyone Can 'Speak' Computer Programming - The New Stack](https://thenewstack.io/vibe-coding-where-everyone-can-speak-computer-programming/)
 - [A.I. and Vibecoding Helped Me to Create My Own Software - The New York Times](https://www.nytimes.com/2025/02/27/technology/personaltech/vibecoding-ai-software-programming.html)
 - [Vibe Engineering](https://www.manning.com/books/vibe-engineering)
+- [Mysti](https://github.com/DeepMyst/Mysti) - VS Code多代理AI编程助手。Claude Code、Codex、Gemini和GitHub Copilot协同头脑风暴并提供协作解决方案。
 
 ## 贡献
 

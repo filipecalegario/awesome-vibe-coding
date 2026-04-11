@@ -89,9 +89,12 @@
 
 ## Aplicativos Locais
 
+- [CCHub](https://github.com/Moresl/cchub) - App desktop para gerenciar o ecossistema Claude Code — marketplace de servidores MCP, troca de perfis de configuração, templates de workflow, auditoria de segurança e autopilot. Construído com Tauri + React + Rust.
+
 - 🔥 [Dyad](https://www.dyad.sh/) - Construtor de aplicações de IA gratuito, local e de código aberto. Agnóstico de modelo, suporta modelos na nuvem e local via Ollama.
 - [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Versão de código aberto do Bolt.new com apps desktop Electron, mais de 19 provedores de IA e suporte a modelos locais via Ollama.
 - [Superset](https://github.com/superset-sh/superset) - App desktop para orquestrar múltiplos agentes de codificação com IA em paralelo (Claude Code, Codex, etc.) com isolamento via Git worktree.
+- [Parallel Code](https://github.com/johannesjo/parallel-code) - App desktop para executar múltiplos agentes de codificação com IA (Claude Code, Codex CLI, Gemini CLI) simultaneamente em git worktrees isolados.
 
 ## Ferramentas de Linha de Comando
 
@@ -110,6 +113,7 @@
 - [ai-christianson/RA.Aid](https://github.com/ai-christianson/RA.Aid) - Um agente de codificação independente construído no framework de execução de tarefas baseado em agentes do LangGraph.
 - [CodeSelect](https://github.com/maynetee/codeselect) - Uma ferramenta de linha de comando baseada em Python que comunica eficientemente o código-fonte do projeto para IAs.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - "qwen-code é um agente de codificação que vive no mundo digital".
+- [Warp](https://warp.dev/) - Terminal moderno com IA, construído para equipes e indivíduos, com busca de comandos por IA e workflows.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - "O glamouroso agente de codificação com IA para seu terminal favorito", multi-modelo com bela TUI.
 - [Warp](https://www.warp.dev/) - Ambiente de desenvolvimento agêntico com plataforma de orquestração Oz para executar agentes de codificação paralelos ilimitados.
 - [langchain-code](https://github.com/zamalali/langchain-code) - Agente de codificação baseado em LangChain para desenvolvimento assistido por IA. Suporta Gemini, Anthropic, OpenAI e Ollama.
@@ -121,6 +125,8 @@
 - [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - Revisão de código agnóstica a provedores usando IA. Use Claude, Gemini, Codex, Ollama para impor seus padrões de codificação.
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - Interface de linha de comando para assistência de codificação com IA.
 - [OpenCode](https://opencode.ai/) - Agente de codificação com IA de código aberto para o terminal com suporte a LSP, 75+ provedores de LLM e fluxos de trabalho multi-sessão.
+- [onWatch](https://github.com/onllm-dev/onwatch) - CLI Go de código aberto que rastreia o uso de cota de API de IA em 7 provedores (Anthropic, OpenAI, GitHub Copilot, MiniMax e mais). Funciona com Claude Code, Codex CLI, Cursor, Cline e outras ferramentas de vibe coding. Daemon em background, <50MB RAM, zero telemetria.
+- [pyscn](https://github.com/ludo-technologies/pyscn) - Analisador de qualidade de código para Python vibe-coded. Detecta código morto, clones, problemas de complexidade e acoplamento com integração MCP para assistentes de IA.
 
 ## Gerenciamento de Tarefas para Codificação com IA
 
@@ -142,6 +148,7 @@
 - [llms.txt](https://github.com/AnswerDotAI/llms-txt) - Especificação de arquivo markdown padronizado para tornar a documentação de sites amigável para LLMs.
 - [claude-reflect](https://github.com/BayramAnnakov/claude-reflect) - Sistema de auto-aprendizado para Claude Code que captura correções e sincroniza aprendizados aprovados em arquivos CLAUDE.md.
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - O Guia Definitivo para Vibe Coding com melhores práticas e dicas.
+- [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) - Dashboard visual e servidor MCP para organizar memórias, habilidades, servidores MCP e hooks do Claude Code com hierarquia de escopo e arrastar e soltar.
 
 ## Comunidades e Vagas de Emprego
 
@@ -176,6 +183,7 @@
 - [Vibe Coding - Where Everyone Can 'Speak' Computer Programming - The New Stack](https://thenewstack.io/vibe-coding-where-everyone-can-speak-computer-programming/)
 - [A.I. and Vibecoding Helped Me to Create My Own Software - The New York Times](https://www.nytimes.com/2025/02/27/technology/personaltech/vibecoding-ai-software-programming.html)
 - [Vibe Engineering](https://www.manning.com/books/vibe-engineering)
+- [Mysti](https://github.com/DeepMyst/Mysti) - Assistente de codificação com IA multi-agente para VS Code. Claude Code, Codex, Gemini e GitHub Copilot fazem brainstorm juntos e entregam soluções colaborativas.
 
 ## Contribuir
 

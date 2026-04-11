@@ -89,9 +89,12 @@
 
 ## 로컬 앱
 
+- [CCHub](https://github.com/Moresl/cchub) - Claude Code 생태계 관리용 데스크톱 앱 — MCP 서버 마켓플레이스, 설정 프로필 전환, 워크플로우 템플릿, 보안 감사, 오토파일럿. Tauri + React + Rust로 제작.
+
 - 🔥 [Dyad](https://www.dyad.sh/) - 무료, 로컬, 오픈소스 AI 앱 빌더. 모델 독립적으로 클라우드 모델 및 Ollama를 통한 로컬 모델을 지원.
 - [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Electron 데스크톱 앱, 19개 이상의 AI 제공자, Ollama를 통한 로컬 모델 지원을 갖춘 Bolt.new의 오픈소스 버전.
 - [Superset](https://github.com/superset-sh/superset) - Git worktree 격리를 통해 여러 AI 코딩 에이전트(Claude Code, Codex 등)를 병렬로 오케스트레이션하는 데스크톱 앱.
+- [Parallel Code](https://github.com/johannesjo/parallel-code) - 격리된 git worktree에서 여러 AI 코딩 에이전트(Claude Code, Codex CLI, Gemini CLI)를 동시에 실행하는 데스크톱 앱.
 
 ## 명령행 도구
 
@@ -110,6 +113,7 @@
 - [ai-christianson/RA.Aid](https://github.com/ai-christianson/RA.Aid) - LangGraph 기반 에이전트형 작업 실행 프레임워크를 사용하는 독립형 코딩 에이전트.
 - [CodeSelect](https://github.com/maynetee/codeselect) - 프로젝트 소스코드를 효율적으로 AI에 전달하는 Python 기반 CLI 도구.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - "qwen-code는 디지털 세계에 사는 코딩 에이전트입니다."
+- [Warp](https://warp.dev/) - 팀과 개인을 위한 현대적인 AI 기반 터미널로, AI 명령 검색 및 워크플로우를 지원.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - "당신이 좋아하는 터미널을 위한 화려한 AI 코딩 에이전트", 아름다운 TUI를 갖춘 멀티 모델 지원.
 - [Warp](https://www.warp.dev/) - 무제한 병렬 코딩 에이전트를 실행하는 Oz 오케스트레이션 플랫폼을 갖춘 에이전트 개발 환경.
 - [langchain-code](https://github.com/zamalali/langchain-code) - AI 지원 개발을 위한 LangChain 기반 코딩 에이전트. Gemini, Anthropic, OpenAI, Ollama를 지원.
@@ -121,6 +125,8 @@
 - [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - AI를 사용한 제공자 독립적인 코드 리뷰. Claude, Gemini, Codex, Ollama를 사용하여 코딩 표준을 적용하세요.
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - AI 기반 코딩 지원을 위한 커맨드 라인 인터페이스.
 - [OpenCode](https://opencode.ai/) - LSP 지원, 75개 이상의 LLM 제공업체 및 멀티세션 워크플로를 갖춘 오픈소스 터미널 AI 코딩 에이전트.
+- [onWatch](https://github.com/onllm-dev/onwatch) - 7개 제공자(Anthropic, OpenAI, GitHub Copilot, MiniMax 등)의 AI API 쿼터 사용량을 추적하는 오픈소스 Go CLI. Claude Code, Codex CLI, Cursor, Cline 등 바이브 코딩 도구와 호환. 백그라운드 데몬, <50MB RAM, 텔레메트리 없음.
+- [pyscn](https://github.com/ludo-technologies/pyscn) - 바이브 코딩된 Python 코드 품질 분석기. 데드 코드, 클론, 복잡성 문제, 결합도 문제를 감지하며 AI 어시스턴트를 위한 MCP 통합을 지원.
 
 ## AI 코딩 작업 관리
 
@@ -142,6 +148,7 @@
 - [llms.txt](https://github.com/AnswerDotAI/llms-txt) - 웹사이트 문서를 LLM 친화적으로 만들기 위한 표준화된 마크다운 파일 사양.
 - [claude-reflect](https://github.com/BayramAnnakov/claude-reflect) - Claude Code의 자기 학습 시스템으로, 수정 사항을 캡처하고 승인된 학습을 CLAUDE.md 파일에 동기화.
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - 모범 사례와 팁을 담은 바이브 코딩 궁극 가이드.
+- [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) - Claude Code의 메모리, 스킬, MCP 서버, 훅을 스코프 계층 구조와 드래그 앤 드롭으로 정리하는 비주얼 대시보드 및 MCP 서버.
 
 ## 커뮤니티 및 구인 게시판
 
@@ -176,6 +183,7 @@
 - [Vibe Coding - 누구나 '컴퓨터 언어'를 말할 수 있는 곳 - The New Stack](https://thenewstack.io/vibe-coding-where-everyone-can-speak-computer-programming/)
 - [A.I.와 바이브 코딩으로 나만의 소프트웨어를 만들다 - 뉴욕 타임즈](https://www.nytimes.com/2025/02/27/technology/personaltech/vibecoding-ai-software-programming.html)
 - [Vibe Engineering](https://www.manning.com/books/vibe-engineering)
+- [Mysti](https://github.com/DeepMyst/Mysti) - VS Code용 멀티 에이전트 AI 코딩 어시스턴트. Claude Code, Codex, Gemini, GitHub Copilot이 함께 브레인스토밍하고 협업 솔루션을 제공.
 
 ## 기여하기
 
