@@ -86,6 +86,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Cody](https://sourcegraph.com/cody) - Free AI code assistant by Sourcegraph with deep codebase understanding and code indexing.
 - [Qodo Gen](https://www.qodo.ai/) - AI-powered coding platform for VS Code with testing, code review, and agentic tools.
 - [Skills.sh](https://skills.sh/) - Open ecosystem by Vercel for installing reusable AI agent skills with a single command across 18+ platforms.
+- [Toprank](https://github.com/nowork-studio/toprank) - Open-source MIT Claude Code plugin with 9 SEO and Google Ads skills that connects Google Search Console, PageSpeed Insights, and the Google Ads API to ship fixes like meta tag rewrites, JSON-LD schema generation, keyword bid adjustments, and CMS content pushes.
 
 ## Local Apps
 
