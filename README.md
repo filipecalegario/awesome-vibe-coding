@@ -89,6 +89,8 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 
 ## Local Apps
 
+- [CCHub](https://github.com/Moresl/cchub) - Desktop app for managing the Claude Code ecosystem — MCP server marketplace, config profile switching, workflow templates, security audit, and autopilot. Built with Tauri + React + Rust.
+
 - 🔥 [Dyad](https://www.dyad.sh/) - Free, local, open-source AI app builder. Model-agnostic, supports cloud models and local via Ollama.
 - [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Open-source version of Bolt.new with Electron desktop apps, 19+ AI providers, and local model support via Ollama.
 - [Superset](https://github.com/superset-sh/superset) - Desktop app to orchestrate multiple AI coding agents in parallel (Claude Code, Codex, etc.) with Git worktree isolation.
@@ -110,6 +112,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [ai-christianson/RA.Aid](https://github.com/ai-christianson/RA.Aid) - A standalone coding agent built on LangGraph's agent-based task execution framework.
 - [CodeSelect](https://github.com/maynetee/codeselect) - A Python-based command-line tool that efficiently communicates project source code to AIs.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - "qwen-code is a coding agent that lives in digital world".
+- [Warp](https://warp.dev/) - A modern, AI-powered terminal built for teams and individuals, featuring AI command search and workflows.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - "The glamorous AI coding agent for your favourite terminal", multi-model with beautiful TUI.
 - [Warp](https://www.warp.dev/) - Agentic development environment with Oz orchestration platform for running unlimited parallel coding agents.
 - [langchain-code](https://github.com/zamalali/langchain-code) - LangChain-based coding agent for AI-assisted development. Supports Gemini, Anthropic, OpenAI, and Ollama.
@@ -122,6 +125,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - Command-line interface for AI-powered coding assistance.
 - [OpenCode](https://opencode.ai/) - Open-source AI coding agent for the terminal with LSP support, 75+ LLM providers, and multi-session workflows.
 - [onWatch](https://github.com/onllm-dev/onwatch) - Open-source Go CLI that tracks AI API quota usage across 7 providers (Anthropic, OpenAI, GitHub Copilot, MiniMax, and more). Works with Claude Code, Codex CLI, Cursor, Cline, and other vibe coding tools. Background daemon, <50MB RAM, zero telemetry.
+- [pyscn](https://github.com/ludo-technologies/pyscn) - Code quality analyzer for vibe-coded Python. Detects dead code, clones, complexity issues, and coupling problems with MCP integration for AI assistants.
 
 ## Task Management for AI Coding
 
@@ -143,6 +147,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [llms.txt](https://github.com/AnswerDotAI/llms-txt) - Standardized markdown file specification for making website documentation LLM-friendly.
 - [claude-reflect](https://github.com/BayramAnnakov/claude-reflect) - Self-learning system for Claude Code that captures corrections and syncs approved learnings to CLAUDE.md files.
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - The Ultimate Guide to Vibe Coding with best practices and tips.
+- [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) - Visual dashboard and MCP server to organize Claude Code memories, skills, MCP servers, and hooks with scope hierarchy and drag-and-drop.
 
 ## Communities & Job Boards
 
@@ -177,6 +182,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Vibe Coding - Where Everyone Can 'Speak' Computer Programming - The New Stack](https://thenewstack.io/vibe-coding-where-everyone-can-speak-computer-programming/)
 - [A.I. and Vibecoding Helped Me to Create My Own Software - The New York Times](https://www.nytimes.com/2025/02/27/technology/personaltech/vibecoding-ai-software-programming.html)
 - [Vibe Engineering](https://www.manning.com/books/vibe-engineering)
+- [Mysti](https://github.com/DeepMyst/Mysti) - Multi-agent AI coding assistant for VS Code. Claude Code, Codex, Gemini, and GitHub Copilot brainstorm together and deliver collaborative solutions.
 
 ## Contribute
 
