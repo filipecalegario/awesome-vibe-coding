@@ -104,6 +104,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - Open-source AI-driven development agent with CLI, GUI, and cloud modes, supporting Claude, GPT, and other models.
 - [Plandex](https://github.com/plandex-ai/plandex) - Terminal-based AI coding agent with REPL mode for planning and executing complex tasks across multiple files, 2M token context.
 - [claude-engineer](https://github.com/Doriandarko/claude-engineer) - A self-improving AI coding assistant CLI built on Claude that can generate and manage its own tools.
+- [codachi](https://github.com/vincent-k2026/codachi) - Statusline companion for Claude Code that tracks context burn rate and estimates time left before the window fills up. Shows an ASCII pet that reacts to what you're doing.
 - [aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring shell assistant, REPL mode, RAG, AI tools and agents, supporting 20+ providers.
 - [gptme](https://github.com/ErikBjare/gptme) - A personal AI agent in your terminal, equipped with local tools for coding, shell commands, file editing, and web browsing.
 - [OpenAI Codex CLI](https://github.com/openai/codex) - OpenAI's coding agent in the terminal with Codex Cloud, IDE extension, and multi-model support.
