@@ -149,6 +149,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [claude-reflect](https://github.com/BayramAnnakov/claude-reflect) - Self-learning system for Claude Code that captures corrections and syncs approved learnings to CLAUDE.md files.
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - The Ultimate Guide to Vibe Coding with best practices and tips.
 - [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) - Visual dashboard and MCP server to organize Claude Code memories, skills, MCP servers, and hooks with scope hierarchy and drag-and-drop.
+- [Helium MCP](https://github.com/connerlambden/helium-mcp) - Remote MCP server for real-time news intelligence (3.2M+ articles, 5000+ sources, bias scoring), live market data (stocks, ETFs, crypto) with AI bull/bear cases, ML options pricing and strategies, and balanced multi-perspective news synthesis. Configure with `{"url": "https://heliumtrades.com/mcp"}`. Documentation: https://heliumtrades.com/mcp-page/.
 
 ## Communities & Job Boards
 
