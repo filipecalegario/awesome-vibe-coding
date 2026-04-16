@@ -95,6 +95,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Open-source version of Bolt.new with Electron desktop apps, 19+ AI providers, and local model support via Ollama.
 - [Superset](https://github.com/superset-sh/superset) - Desktop app to orchestrate multiple AI coding agents in parallel (Claude Code, Codex, etc.) with Git worktree isolation.
 - [Parallel Code](https://github.com/johannesjo/parallel-code) - Desktop app for running multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) simultaneously in isolated git worktrees.
+- [SwarmClaw](https://github.com/swarmclawai/swarmclaw) - Self-hosted multi-agent runtime with MCP client and server support, 23+ LLM providers, persistent memory, skills, schedules, sub-agent spawning, and messaging connectors. Electron desktop app, CLI, and Docker.
 
 ## Command Line Tools
 
@@ -150,6 +151,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - The Ultimate Guide to Vibe Coding with best practices and tips.
 - [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) - Visual dashboard and MCP server to organize Claude Code memories, skills, MCP servers, and hooks with scope hierarchy and drag-and-drop.
 - 🔥 [getdesign.md](https://getdesign.md/) - Browsable library of DESIGN.md files curated from real websites.
+- [SwarmVault](https://github.com/swarmclawai/swarmvault) - Local-first RAG knowledge vault. Compiles raw sources (books, notes, transcripts, files, URLs, code) into a durable markdown wiki with a knowledge graph and hybrid SQLite FTS plus embeddings. Built-in MCP server for Claude Code, Codex, and OpenCode.
 
 ## Communities & Job Boards
 
