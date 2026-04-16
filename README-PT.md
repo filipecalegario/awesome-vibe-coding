@@ -149,6 +149,7 @@
 - [claude-reflect](https://github.com/BayramAnnakov/claude-reflect) - Sistema de auto-aprendizado para Claude Code que captura correções e sincroniza aprendizados aprovados em arquivos CLAUDE.md.
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - O Guia Definitivo para Vibe Coding com melhores práticas e dicas.
 - [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) - Dashboard visual e servidor MCP para organizar memórias, habilidades, servidores MCP e hooks do Claude Code com hierarquia de escopo e arrastar e soltar.
+- 🔥 [getdesign.md](https://getdesign.md/) - Biblioteca navegável de arquivos DESIGN.md curados de sites reais.
 
 ## Comunidades e Vagas de Emprego
 

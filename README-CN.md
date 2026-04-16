@@ -149,6 +149,7 @@
 - [claude-reflect](https://github.com/BayramAnnakov/claude-reflect) - Claude Code的自学习系统，捕获修正并将已批准的学习内容同步到CLAUDE.md文件。
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - 氛围编程终极指南，包含最佳实践和技巧。
 - [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) - 可视化仪表板和MCP服务器，用于组织Claude Code的记忆、技能、MCP服务器和钩子，支持范围层次结构和拖放操作。
+- 🔥 [getdesign.md](https://getdesign.md/) - 从真实网站精选的DESIGN.md文件的可浏览库。
 
 ## 社区和招聘平台
 

@@ -149,6 +149,7 @@
 - [claude-reflect](https://github.com/BayramAnnakov/claude-reflect) - Claude Code의 자기 학습 시스템으로, 수정 사항을 캡처하고 승인된 학습을 CLAUDE.md 파일에 동기화.
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - 모범 사례와 팁을 담은 바이브 코딩 궁극 가이드.
 - [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) - Claude Code의 메모리, 스킬, MCP 서버, 훅을 스코프 계층 구조와 드래그 앤 드롭으로 정리하는 비주얼 대시보드 및 MCP 서버.
+- 🔥 [getdesign.md](https://getdesign.md/) - 실제 웹사이트에서 엄선한 DESIGN.md 파일의 탐색 가능한 라이브러리.
 
 ## 커뮤니티 및 구인 게시판
 
