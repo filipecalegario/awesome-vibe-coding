@@ -158,6 +158,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [/r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/)
 - [Vibe Coding Forem](https://vibe.forem.com/) - Community forum for AI-assisted development discussions.
 - [Vibe Coding Community](https://github.com/Vibe-Coding-Community) - A space for sharing tools, best practices, and projects created with vibe coding.
+- [VibeX](https://vibexforge.com) - Launch platform and gallery for vibe-coded AI-native projects. Each project evolves through six RPG stages (Seed → Myth) based on real traction, with a Claude-powered 0–100 score on originality, craft, market fit, and growth.
 
 ## News and Social Media
 
