@@ -128,6 +128,10 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [onWatch](https://github.com/onllm-dev/onwatch) - Open-source Go CLI that tracks AI API quota usage across 7 providers (Anthropic, OpenAI, GitHub Copilot, MiniMax, and more). Works with Claude Code, Codex CLI, Cursor, Cline, and other vibe coding tools. Background daemon, <50MB RAM, zero telemetry.
 - [pyscn](https://github.com/ludo-technologies/pyscn) - Code quality analyzer for vibe-coded Python. Detects dead code, clones, complexity issues, and coupling problems with MCP integration for AI assistants.
 
+## Deployment for AI Coding
+
+- [Qovery Deploy Skill](https://github.com/Qovery/qovery-skills) - Deploy vibe-coded apps to Kubernetes with a single prompt. Works with Claude Code, Cursor, OpenCode, VS Code Copilot, Gemini CLI, and 30+ vibe coding tools. Analyzes codebases, creates Dockerfiles, provisions databases, deploys via CLI+API or Terraform. Install: `curl -fsSL https://skill.qovery.com/install.sh | bash`.
+
 ## Task Management for AI Coding
 
 - [Boomerang Tasks](https://docs.roocode.com/features/boomerang-tasks) - Automatically break down complex projects into smaller, manageable pieces.
