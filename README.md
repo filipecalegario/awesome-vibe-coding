@@ -6,6 +6,8 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 
 ## Contents <!-- omit in toc -->
 
+- **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- **[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)** - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 - [About the concept](#about-the-concept)
 - [Browser-based Tools](#browser-based-tools)
 - [IDEs and Code Editors](#ides-and-code-editors)
