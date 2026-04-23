@@ -95,6 +95,7 @@
 - [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Electronデスクトップアプリ、19以上のAIプロバイダー、Ollama経由のローカルモデルサポートを備えたBolt.newのオープンソース版。
 - [Superset](https://github.com/superset-sh/superset) - Git worktree分離により複数のAIコーディングエージェント（Claude Code、Codexなど）を並列でオーケストレーションするデスクトップアプリ。
 - [Parallel Code](https://github.com/johannesjo/parallel-code) - 分離されたgit worktreeで複数のAIコーディングエージェント（Claude Code、Codex CLI、Gemini CLI）を同時に実行するデスクトップアプリ。
+- [WhereMyTokens](https://github.com/jeongwookie/WhereMyTokens) - Claude Code と Codex のトークン、コスト、セッション、レート制限をローカルで監視する Windows トレイアプリ。
 
 ## コマンドラインツール
 

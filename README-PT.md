@@ -95,6 +95,7 @@
 - [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Versão de código aberto do Bolt.new com apps desktop Electron, mais de 19 provedores de IA e suporte a modelos locais via Ollama.
 - [Superset](https://github.com/superset-sh/superset) - App desktop para orquestrar múltiplos agentes de codificação com IA em paralelo (Claude Code, Codex, etc.) com isolamento via Git worktree.
 - [Parallel Code](https://github.com/johannesjo/parallel-code) - App desktop para executar múltiplos agentes de codificação com IA (Claude Code, Codex CLI, Gemini CLI) simultaneamente em git worktrees isolados.
+- [WhereMyTokens](https://github.com/jeongwookie/WhereMyTokens) - Aplicativo de bandeja do Windows, local-first, para monitorar tokens, custos, sessões e limites do Claude Code e Codex.
 
 ## Ferramentas de Linha de Comando
 

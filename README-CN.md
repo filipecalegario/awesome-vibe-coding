@@ -95,6 +95,7 @@
 - [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Bolt.new的开源版本，具有Electron桌面应用、19+个AI提供商和通过Ollama的本地模型支持。
 - [Superset](https://github.com/superset-sh/superset) - 桌面应用，可并行编排多个AI编程代理（Claude Code、Codex等），具有Git worktree隔离。
 - [Parallel Code](https://github.com/johannesjo/parallel-code) - 在隔离的git worktree中同时运行多个AI编程代理（Claude Code、Codex CLI、Gemini CLI）的桌面应用。
+- [WhereMyTokens](https://github.com/jeongwookie/WhereMyTokens) - 本地优先的 Windows 托盘应用，用于监控 Claude Code 和 Codex 的 token、成本、会话和速率限制。
 
 ## 命令行工具
 
