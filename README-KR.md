@@ -95,6 +95,7 @@
 - [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Electron 데스크톱 앱, 19개 이상의 AI 제공자, Ollama를 통한 로컬 모델 지원을 갖춘 Bolt.new의 오픈소스 버전.
 - [Superset](https://github.com/superset-sh/superset) - Git worktree 격리를 통해 여러 AI 코딩 에이전트(Claude Code, Codex 등)를 병렬로 오케스트레이션하는 데스크톱 앱.
 - [Parallel Code](https://github.com/johannesjo/parallel-code) - 격리된 git worktree에서 여러 AI 코딩 에이전트(Claude Code, Codex CLI, Gemini CLI)를 동시에 실행하는 데스크톱 앱.
+- [WhereMyTokens](https://github.com/jeongwookie/WhereMyTokens) - Claude Code와 Codex의 토큰, 비용, 세션, 레이트리밋을 로컬에서 모니터링하는 Windows 트레이 앱.
 
 ## 명령행 도구
 
