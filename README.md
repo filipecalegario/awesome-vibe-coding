@@ -127,6 +127,8 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [OpenCode](https://opencode.ai/) - Open-source AI coding agent for the terminal with LSP support, 75+ LLM providers, and multi-session workflows.
 - [onWatch](https://github.com/onllm-dev/onwatch) - Open-source Go CLI that tracks AI API quota usage across 7 providers (Anthropic, OpenAI, GitHub Copilot, MiniMax, and more). Works with Claude Code, Codex CLI, Cursor, Cline, and other vibe coding tools. Background daemon, <50MB RAM, zero telemetry.
 - [pyscn](https://github.com/ludo-technologies/pyscn) - Code quality analyzer for vibe-coded Python. Detects dead code, clones, complexity issues, and coupling problems with MCP integration for AI assistants.
+- [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - MCP server that routes image generation prompts across 30+ models (Flux, DALL-E, Stable Diffusion, Ideogram). Generate app icons, OG images, and visual assets without switching providers. `npm install -g prompt-to-asset`.
+- [unslop](https://github.com/MohamedAbdallah-14/unslop) - CLI that strips AI writing patterns (sycophantic openers, filler vocabulary, em-dash overuse) from vibe-coded READMEs, docs, and release notes before publishing. `npm install -g unslop`.
 
 ## Task Management for AI Coding
 
