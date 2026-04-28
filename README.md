@@ -144,6 +144,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [claude-reflect](https://github.com/BayramAnnakov/claude-reflect) - Self-learning system for Claude Code that captures corrections and syncs approved learnings to CLAUDE.md files.
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - The Ultimate Guide to Vibe Coding with best practices and tips.
 - [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) - Visual dashboard and MCP server to organize Claude Code memories, skills, MCP servers, and hooks with scope hierarchy and drag-and-drop.
+- [vibecodex](https://github.com/yerdaulet-damir/vibecodex) - Production architecture bible for vibe-coders: 54 principles for FastAPI, Next.js 15 & Go 1.22+, with CLAUDE.md templates, Claude Code skills, and cursor rules.
 
 ## Communities & Job Boards
 
