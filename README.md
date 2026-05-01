@@ -49,6 +49,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Google AI Studio](https://aistudio.google.com/) - "Another way to vibecode with Gemini. Great for experimenting".
 - [Emergent](https://emergent.sh/) - Multi-agent AI app builder that plans, codes, tests, and deploys full-stack web and mobile apps autonomously.
 - [Manus](https://manus.im/) - Autonomous AI agent for end-to-end project automation, from research to deployment.
+- [SureThing](https://surething.io/) - Proactive AI digital twin for work that monitors email, calendar, and tasks 24/7, drafts replies, runs research, and executes multi-step workflows across 800+ apps autonomously.
 - [Same.new](https://same.new/) - AI web builder for cloning and creating websites from descriptions.
 
 ## IDEs and Code Editors
