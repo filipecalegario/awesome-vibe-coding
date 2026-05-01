@@ -126,6 +126,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - Command-line interface for AI-powered coding assistance.
 - [OpenCode](https://opencode.ai/) - Open-source AI coding agent for the terminal with LSP support, 75+ LLM providers, and multi-session workflows.
 - [onWatch](https://github.com/onllm-dev/onwatch) - Open-source Go CLI that tracks AI API quota usage across 7 providers (Anthropic, OpenAI, GitHub Copilot, MiniMax, and more). Works with Claude Code, Codex CLI, Cursor, Cline, and other vibe coding tools. Background daemon, <50MB RAM, zero telemetry.
+- [SoxAI](https://www.soxai.io) - AI API gateway that works with Claude Code, Codex CLI, Gemini CLI, and OpenCode. One API key for 200+ models, automatic failover, team spending limits. Set `ANTHROPIC_BASE_URL` to use with any vibe coding tool. ([Setup Guide](https://github.com/onedotnet/soxai-examples/tree/main/cli))
 - [pyscn](https://github.com/ludo-technologies/pyscn) - Code quality analyzer for vibe-coded Python. Detects dead code, clones, complexity issues, and coupling problems with MCP integration for AI assistants.
 
 ## Task Management for AI Coding
