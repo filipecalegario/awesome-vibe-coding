@@ -185,6 +185,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [A.I. and Vibecoding Helped Me to Create My Own Software - The New York Times](https://www.nytimes.com/2025/02/27/technology/personaltech/vibecoding-ai-software-programming.html)
 - [Vibe Engineering](https://www.manning.com/books/vibe-engineering)
 - [Mysti](https://github.com/DeepMyst/Mysti) - Multi-agent AI coding assistant for VS Code. Claude Code, Codex, Gemini, and GitHub Copilot brainstorm together and deliver collaborative solutions.
+- [CodeRocket](https://www.coderocket.app/) - Open-source vibe coding tool and AI website builder for generating Tailwind websites and UI components, with a self-hostable stack and managed cloud version.
 
 ## Contribute
 
