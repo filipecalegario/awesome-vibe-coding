@@ -50,6 +50,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Emergent](https://emergent.sh/) - Multi-agent AI app builder that plans, codes, tests, and deploys full-stack web and mobile apps autonomously.
 - [Manus](https://manus.im/) - Autonomous AI agent for end-to-end project automation, from research to deployment.
 - [Same.new](https://same.new/) - AI web builder for cloning and creating websites from descriptions.
+- [VULK](https://vulk.dev/) - Full-stack AI app builder generating React + PostgreSQL apps, real Flutter mobile builds, Three.js/WebGL games and Shopify themes from prompts. BYOM with 16+ models, Firecracker microVM live preview, EU-hosted, full code export.
 
 ## IDEs and Code Editors
 
