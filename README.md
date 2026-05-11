@@ -128,6 +128,8 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [onWatch](https://github.com/onllm-dev/onwatch) - Open-source Go CLI that tracks AI API quota usage across 7 providers (Anthropic, OpenAI, GitHub Copilot, MiniMax, and more). Works with Claude Code, Codex CLI, Cursor, Cline, and other vibe coding tools. Background daemon, <50MB RAM, zero telemetry.
 - [pyscn](https://github.com/ludo-technologies/pyscn) - Code quality analyzer for vibe-coded Python. Detects dead code, clones, complexity issues, and coupling problems with MCP integration for AI assistants.
 
+- [prpack](https://github.com/Lucas2944/prpack) - Zero-dependency Node CLI that packs a pull request (diff plus the full post-change content of every touched file) into a single markdown file optimized for LLM code review.
+
 ## Task Management for AI Coding
 
 - [Boomerang Tasks](https://docs.roocode.com/features/boomerang-tasks) - Automatically break down complex projects into smaller, manageable pieces.
