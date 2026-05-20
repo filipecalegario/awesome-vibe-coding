@@ -140,7 +140,6 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 ## Documentation for AI Coding
 
 - [CodeGuide](https://www.codeguide.dev/) - Creates detailed Documentation for your AI Coding Projects.
-- [CodeSee](https://github.com/Kaka-cheaper/codeSee) - AI maintains `features.json` describing what your project does at three levels (Epics → Features → Steps); a separate web viewer renders it as an interactive canvas.
 - [AGENTS.md](https://agents.md/) - A simple, open format for guiding coding agents, stewarded by the Linux Foundation.
 - [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) - A prompt template for vibe coding.
 - [awesome-ralph](https://github.com/snwfdhmp/awesome-ralph) - A curated list of resources about Ralph, the vibe coding technique that runs vibe coding agents in automated loops until specifications are fulfilled.
@@ -151,6 +150,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - The Ultimate Guide to Vibe Coding with best practices and tips.
 - [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) - Visual dashboard and MCP server to organize Claude Code memories, skills, MCP servers, and hooks with scope hierarchy and drag-and-drop.
 - 🔥 [getdesign.md](https://getdesign.md/) - Browsable library of DESIGN.md files curated from real websites.
+- [CodeSee](https://github.com/Kaka-cheaper/codeSee) - AI maintains `features.json` describing what your project does at three levels (Epics → Features → Steps); a separate web viewer renders it as an interactive canvas.
 
 ## Communities & Job Boards
 
