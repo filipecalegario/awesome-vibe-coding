@@ -148,6 +148,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [llms.txt](https://github.com/AnswerDotAI/llms-txt) - Standardized markdown file specification for making website documentation LLM-friendly.
 - [claude-reflect](https://github.com/BayramAnnakov/claude-reflect) - Self-learning system for Claude Code that captures corrections and syncs approved learnings to CLAUDE.md files.
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - The Ultimate Guide to Vibe Coding with best practices and tips.
+- [vibeprompt](https://vibeprompt.tech) - Free 10-step vibe coding workflow with 56 prompts, 17 deep-dive articles, 46 field-tested fixes, and an interactive AGENTS.md + PRD generator. Open source, MIT licensed.
 - [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) - Visual dashboard and MCP server to organize Claude Code memories, skills, MCP servers, and hooks with scope hierarchy and drag-and-drop.
 - 🔥 [getdesign.md](https://getdesign.md/) - Browsable library of DESIGN.md files curated from real websites.
 
