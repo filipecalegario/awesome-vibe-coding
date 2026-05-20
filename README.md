@@ -140,6 +140,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 ## Documentation for AI Coding
 
 - [CodeGuide](https://www.codeguide.dev/) - Creates detailed Documentation for your AI Coding Projects.
+- [CodeSee](https://github.com/Kaka-cheaper/codeSee) - AI maintains `features.json` describing what your project does at three levels (Epics → Features → Steps); a separate web viewer renders it as an interactive canvas.
 - [AGENTS.md](https://agents.md/) - A simple, open format for guiding coding agents, stewarded by the Linux Foundation.
 - [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) - A prompt template for vibe coding.
 - [awesome-ralph](https://github.com/snwfdhmp/awesome-ralph) - A curated list of resources about Ralph, the vibe coding technique that runs vibe coding agents in automated loops until specifications are fulfilled.
