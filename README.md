@@ -144,6 +144,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) - A prompt template for vibe coding.
 - [awesome-ralph](https://github.com/snwfdhmp/awesome-ralph) - A curated list of resources about Ralph, the vibe coding technique that runs vibe coding agents in automated loops until specifications are fulfilled.
 - [Context7](https://github.com/upstash/context7) - Delivers up-to-date, version-specific documentation directly into LLM prompts. MCP server + CLI.
+- [LegacyDoc AI](https://www.romanticode.com/legacydoc-ai/) - A VS Code extension that generates AI code audit reports, documentation, and Mermaid architecture maps from local workspaces.
 - [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - Curated collection of `.cursorrules` configuration files for the Cursor AI editor.
 - [llms.txt](https://github.com/AnswerDotAI/llms-txt) - Standardized markdown file specification for making website documentation LLM-friendly.
 - [claude-reflect](https://github.com/BayramAnnakov/claude-reflect) - Self-learning system for Claude Code that captures corrections and syncs approved learnings to CLAUDE.md files.
