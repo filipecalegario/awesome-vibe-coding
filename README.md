@@ -189,3 +189,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+
+
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Real-time monitoring dashboard for OpenClaw AI agents with token tracking, session management, and 7-day trend charts.
+
