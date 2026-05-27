@@ -65,6 +65,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 ## Mobile Apps
 
 - [VibeCode](https://www.vibecodeapp.com/) - The app that builds apps. Available on iOS and Android.
+- [IM.codes](https://github.com/im4codes/imcodes) - Self-hosted IM/control layer for AI coding agents. Drive Claude Code, Codex, Gemini CLI, Qwen, and shell sessions from phone, Apple Watch, or browser — shared memory with cross-language recall, cross-provider team audit, managed MCP tools, scheduled tasks, file browser, git diffs, and localhost HTML preview.
 
 ## Plugins and Extensions
 
