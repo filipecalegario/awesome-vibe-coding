@@ -128,6 +128,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [onWatch](https://github.com/onllm-dev/onwatch) - Open-source Go CLI that tracks AI API quota usage across 7 providers (Anthropic, OpenAI, GitHub Copilot, MiniMax, and more). Works with Claude Code, Codex CLI, Cursor, Cline, and other vibe coding tools. Background daemon, <50MB RAM, zero telemetry.
 - [pyscn](https://github.com/ludo-technologies/pyscn) - Code quality analyzer for vibe-coded Python. Detects dead code, clones, complexity issues, and coupling problems with MCP integration for AI assistants.
 - [awesome-vibe-skills](https://github.com/gtskevin/awesome-vibe-skills) - Curated collection of 10 high-quality, ready-to-install AI coding agent skills for Codex and Claude Code. Bilingual (中文/English) with one-click installer.
+- [vibe-check](https://github.com/gtskevin/vibe-check) - Quality gate for AI-generated code. Single SKILL.md file that checks security, correctness, performance, and more before shipping.
 
 ## Task Management for AI Coding
 
