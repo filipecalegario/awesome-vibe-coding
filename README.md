@@ -127,6 +127,9 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [OpenCode](https://opencode.ai/) - Open-source AI coding agent for the terminal with LSP support, 75+ LLM providers, and multi-session workflows.
 - [onWatch](https://github.com/onllm-dev/onwatch) - Open-source Go CLI that tracks AI API quota usage across 7 providers (Anthropic, OpenAI, GitHub Copilot, MiniMax, and more). Works with Claude Code, Codex CLI, Cursor, Cline, and other vibe coding tools. Background daemon, <50MB RAM, zero telemetry.
 - [pyscn](https://github.com/ludo-technologies/pyscn) - Code quality analyzer for vibe-coded Python. Detects dead code, clones, complexity issues, and coupling problems with MCP integration for AI assistants.
+- [awesome-vibe-skills](https://github.com/gtskevin/awesome-vibe-skills) - Curated collection of 10 high-quality, ready-to-install AI coding agent skills for Codex and Claude Code. Bilingual (中文/English) with one-click installer.
+- [vibe-check](https://github.com/gtskevin/vibe-check) - Quality gate for AI-generated code. Single SKILL.md file that checks security, correctness, performance, and more before shipping.
+- [vibe-toolkit](https://github.com/gtskevin/vibe-toolkit) - The missing CLI for AI coding assistants. Install skills, validate quality, scaffold new skills. One Python file, zero dependencies.
 
 ## Task Management for AI Coding
 
@@ -140,6 +143,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 ## Documentation for AI Coding
 
 - [CodeGuide](https://www.codeguide.dev/) - Creates detailed Documentation for your AI Coding Projects.
+- [Vibe Coding 2026 指南](https://github.com/gtskevin/vibe-coding-2026) - Comprehensive Chinese-language guide to vibe coding. Covers Codex, Claude Code, Cursor, Windsurf, Gemini CLI, and GitHub Copilot with practical tips, skills, and workflows.
 - [AGENTS.md](https://agents.md/) - A simple, open format for guiding coding agents, stewarded by the Linux Foundation.
 - [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) - A prompt template for vibe coding.
 - [awesome-ralph](https://github.com/snwfdhmp/awesome-ralph) - A curated list of resources about Ralph, the vibe coding technique that runs vibe coding agents in automated loops until specifications are fulfilled.
