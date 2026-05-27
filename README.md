@@ -129,6 +129,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [pyscn](https://github.com/ludo-technologies/pyscn) - Code quality analyzer for vibe-coded Python. Detects dead code, clones, complexity issues, and coupling problems with MCP integration for AI assistants.
 - [awesome-vibe-skills](https://github.com/gtskevin/awesome-vibe-skills) - Curated collection of 10 high-quality, ready-to-install AI coding agent skills for Codex and Claude Code. Bilingual (中文/English) with one-click installer.
 - [vibe-check](https://github.com/gtskevin/vibe-check) - Quality gate for AI-generated code. Single SKILL.md file that checks security, correctness, performance, and more before shipping.
+- [vibe-toolkit](https://github.com/gtskevin/vibe-toolkit) - The missing CLI for AI coding assistants. Install skills, validate quality, scaffold new skills. One Python file, zero dependencies.
 
 ## Task Management for AI Coding
 
