@@ -163,6 +163,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 
 > This section displays items in reverse chronological order, with the most recent entries at the top.
 
+- [Context Engineering: The Skill That Separates AI-Native Engineers](https://lab.aidevos.ai/context-engineering) - A practitioner framework for engineering the information context that shapes AI output — covering structural, intent, state, and constraint context at three levels (per-prompt, session, and system). The realist alternative to vibe coding for production engineers.
 - [Vibe-Coding Triggered Major Outages at Amazon](https://belitsoft.com/news/vibe-coding-amazon-outage-20261003) - How GenAI-assisted changes triggered production outages.
 - [The State of Vibe Coding: A 2026 Strategic Blueprint | Keywords Studios](https://www.keywordsstudios.com/en/about-us/news-events/news/the-state-of-vibe-coding-a-2026-strategic-blueprint/)
 - [How Vibe Coding Is Killing Open Source | Hackaday](https://hackaday.com/2026/02/02/how-vibe-coding-is-killing-open-source/)
