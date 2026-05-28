@@ -50,6 +50,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Emergent](https://emergent.sh/) - Multi-agent AI app builder that plans, codes, tests, and deploys full-stack web and mobile apps autonomously.
 - [Manus](https://manus.im/) - Autonomous AI agent for end-to-end project automation, from research to deployment.
 - [Same.new](https://same.new/) - AI web builder for cloning and creating websites from descriptions.
+- [RapidNative](https://rapidnative.com/) - AI-native mobile app builder. Turns ideas, sketches, or screenshots into working React Native and Expo apps with production-ready code you can view, edit, and extend.
 
 ## IDEs and Code Editors
 
