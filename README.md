@@ -86,6 +86,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Cody](https://sourcegraph.com/cody) - Free AI code assistant by Sourcegraph with deep codebase understanding and code indexing.
 - [Qodo Gen](https://www.qodo.ai/) - AI-powered coding platform for VS Code with testing, code review, and agentic tools.
 - [Skills.sh](https://skills.sh/) - Open ecosystem by Vercel for installing reusable AI agent skills with a single command across 18+ platforms.
+- [StyleSeed](https://github.com/bitjaru/styleseed) - Design engine that teaches Claude Code & Cursor how designers think — 33 components, 69 design rules, 8 brand skins, and a named motion system, via slash-command skills.
 
 ## Local Apps
 
