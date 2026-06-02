@@ -28,6 +28,9 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 
 ## Browser-based Tools
 
+* [BuilderStudio](https://builderstudio.dev) - Native macOS agentic coding workspace from WunderCorp for secure local/cloud AI development, reusable Skills and Pathways, MCP integrations, Hermes-powered container-only execution, Agentic Swarms for parallel specialized agents, app previews, terminal workflows, packaging/deployment, and flexible routing across 380+ AI models.
+
+
 - [Bolt.new](https://bolt.new/) - Prompt, run, edit, and deploy full-stack web and mobile apps.
 - 🔥 [Lovable](https://lovable.dev/) - "Idea to app in seconds. Lovable is your superhuman full stack engineer".
 - [v0 by Vercel](https://v0.dev/chat) - Vibe coding platform for building production apps and agents with Next.js.
