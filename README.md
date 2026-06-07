@@ -95,6 +95,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Open-source version of Bolt.new with Electron desktop apps, 19+ AI providers, and local model support via Ollama.
 - [Superset](https://github.com/superset-sh/superset) - Desktop app to orchestrate multiple AI coding agents in parallel (Claude Code, Codex, etc.) with Git worktree isolation.
 - [Parallel Code](https://github.com/johannesjo/parallel-code) - Desktop app for running multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) simultaneously in isolated git worktrees.
+- [WithVibe](https://github.com/withvibe/withvibe) - Self-hostable shared AI workspace for teams. Anyone vibe-codes in an isolated env, the team reviews it live, and an automated agent gate (security, code review, tests, policy) runs before merge.
 
 ## Command Line Tools
 
