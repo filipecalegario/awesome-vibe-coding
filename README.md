@@ -61,6 +61,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Orchids](https://www.orchids.app/) - The Vibe Coding IDE that can build, watch, and listen on par with a human developer.
 - [Trae IDE](https://www.trae.ai/) - Free AI IDE by ByteDance with Builder Mode, free access to GPT-4o, Claude Sonnet, and DeepSeek R1.
 - [Devin](https://devin.ai/) - Autonomous AI software engineer by Cognition with its own IDE, shell, browser, and cloud sandbox.
+- [Cate](https://github.com/0-AI-UG/cate) - Open source IDE on an infinite zoomable canvas. Arrange editors, terminals, browsers, and Claude Code agent panels in spatial workspaces instead of tabs. Cross-platform desktop app for macOS, Windows, and Linux.
 
 ## Mobile Apps
 
