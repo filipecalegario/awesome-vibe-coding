@@ -107,6 +107,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring shell assistant, REPL mode, RAG, AI tools and agents, supporting 20+ providers.
 - [gptme](https://github.com/ErikBjare/gptme) - A personal AI agent in your terminal, equipped with local tools for coding, shell commands, file editing, and web browsing.
 - [OpenAI Codex CLI](https://github.com/openai/codex) - OpenAI's coding agent in the terminal with Codex Cloud, IDE extension, and multi-model support.
+- [Yardlet](https://github.com/zzunkie/yardlet) - Local AI workbench that plans, queues, routes, validates, and hands off long-running work across Codex and Claude Code CLIs.
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - An open-source AI agent from Google that brings the power of Gemini directly into your terminal. Generous free tier (60 req/min, 1000/day).
 - [GitHub Copilot CLI](https://github.com/github/copilot-cli) - Full agentic development environment in the terminal with Autopilot mode, multi-model support, and GitHub integration. GA since Feb 2026.
 - [MyCoder.ai](https://github.com/drivecore/mycoder) - Open source AI-powered coding assistant with Git and GitHub integration, featuring parallel execution and self-modification capabilities.
