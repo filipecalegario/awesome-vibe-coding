@@ -186,6 +186,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Vibe Engineering](https://www.manning.com/books/vibe-engineering)
 - [Mysti](https://github.com/DeepMyst/Mysti) - Multi-agent AI coding assistant for VS Code. Claude Code, Codex, Gemini, and GitHub Copilot brainstorm together and deliver collaborative solutions.
 
+- [Pixal3D](https://pixal3d.ai) - AI-powered 3D model generator. Create stunning 3D models from text and images using AI.
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
