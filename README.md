@@ -13,6 +13,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Plugins and Extensions](#plugins-and-extensions)
 - [Local Apps](#local-apps)
 - [Command Line Tools](#command-line-tools)
+- [Security \& Pre-Deploy Checks](#security--pre-deploy-checks)
 - [Task Management for AI Coding](#task-management-for-ai-coding)
 - [Documentation for AI Coding](#documentation-for-ai-coding)
 - [Communities \& Job Boards](#communities--job-boards)
@@ -127,6 +128,14 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [OpenCode](https://opencode.ai/) - Open-source AI coding agent for the terminal with LSP support, 75+ LLM providers, and multi-session workflows.
 - [onWatch](https://github.com/onllm-dev/onwatch) - Open-source Go CLI that tracks AI API quota usage across 7 providers (Anthropic, OpenAI, GitHub Copilot, MiniMax, and more). Works with Claude Code, Codex CLI, Cursor, Cline, and other vibe coding tools. Background daemon, <50MB RAM, zero telemetry.
 - [pyscn](https://github.com/ludo-technologies/pyscn) - Code quality analyzer for vibe-coded Python. Detects dead code, clones, complexity issues, and coupling problems with MCP integration for AI assistants.
+
+## Security & Pre-Deploy Checks
+
+AI-generated apps often ship with exposed secrets, open databases, or missing security headers. These tools help you catch issues before going live.
+
+- [Vibeproof](https://vibeproof.sh/) - Instant security scan for vibe-coded apps (Lovable, Bolt, v0, Cursor). Paste a URL or a public GitHub repo to find exposed secrets, open Supabase/Firebase databases, leaked files, vulnerable libraries, and GDPR gaps. Free scan, no signup.
+- [Snyk](https://snyk.io/) - Free-tier developer security platform that scans your code, dependencies, and infrastructure-as-code for known vulnerabilities.
+- [Mozilla HTTP Observatory](https://developer.mozilla.org/en-US/observatory) - Free website scan that grades your security headers (CSP, HSTS, and more) and explains how to fix them.
 
 ## Task Management for AI Coding
 
