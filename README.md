@@ -95,6 +95,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Open-source version of Bolt.new with Electron desktop apps, 19+ AI providers, and local model support via Ollama.
 - [Superset](https://github.com/superset-sh/superset) - Desktop app to orchestrate multiple AI coding agents in parallel (Claude Code, Codex, etc.) with Git worktree isolation.
 - [Parallel Code](https://github.com/johannesjo/parallel-code) - Desktop app for running multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) simultaneously in isolated git worktrees.
+- [LoopTroop](https://github.com/looptroop-ai/LoopTroop) - Local, open-source GUI that takes a coding ticket from plan to PR. An LLM council plans, work runs in isolated git worktrees, and a Ralph loop resets the worktree and retries on failure to fight context rot. Built on OpenCode.
 
 ## Command Line Tools
 
