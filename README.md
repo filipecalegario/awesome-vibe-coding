@@ -65,6 +65,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 ## Mobile Apps
 
 - [VibeCode](https://www.vibecodeapp.com/) - The app that builds apps. Available on iOS and Android.
+- [VibeKit](https://apps.apple.com/us/app/vibekit-agent-devops/id6760206636) - Build, host, and continuously improve full apps from your phone — each app gets its own persistent AI coding agent with a GitHub repo, database, and live domain. Native iOS, Telegram, or CLI.
 
 ## Plugins and Extensions
 
