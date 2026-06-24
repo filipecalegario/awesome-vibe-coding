@@ -150,6 +150,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - The Ultimate Guide to Vibe Coding with best practices and tips.
 - [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) - Visual dashboard and MCP server to organize Claude Code memories, skills, MCP servers, and hooks with scope hierarchy and drag-and-drop.
 - 🔥 [getdesign.md](https://getdesign.md/) - Browsable library of DESIGN.md files curated from real websites.
+- [Vibe Coding Essentials](https://github.com/ashp15205/vibe-coding-essentials) - Anti-hallucination guardrails for 9 frameworks + a 4-mode workflow system (Economy / Builder / Maintainer / Architect) for AI-assisted development.
 
 ## Communities & Job Boards
 
