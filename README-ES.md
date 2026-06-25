@@ -2,7 +2,7 @@
 
 > Una lista seleccionada de referencias sobre vibe coding, colaborando con IA para escribir código.
 
-[English](https://github.com) | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](./README-CN.md) | [日本語](./README-JP.md) | Español
+[English](./README.md) | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](./README-CN.md) | [日本語](./README-JP.md) | Español
 
 ## Contenidos <!-- omit in toc -->
 
@@ -147,3 +147,43 @@
 - [claude-reflect](https://github.com/BayramAnnakov/claude-reflect) - Sistema de autoaprendizaje para Claude Code que captura correcciones y sincroniza los aprendizajes aprobados en archivos `CLAUDE.md`.
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - La guía definitiva para el Vibe Coding con mejores prácticas y consejos.
 - [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) - Panel visual y servidor MCP para organizar
+- 🔥 [getdesign.md](https://getdesign.md/) - Biblioteca navegable de archivos DESIGN.md seleccionados de sitios web reales.
+
+## Comunidades y Bolsas de trabajo
+
+- [Vibehackers](https://vibehackers.io) - Galería comunitaria para proyectos desarrollados mediante vibe coding y bolsa de trabajo seleccionada.
+- [/r/vibecoding](https://www.reddit.com/r/vibecoding/)
+- [/r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/)
+- [Vibe Coding Forem](https://vibe.forem.com/) - Foro comunitario para debates sobre desarrollo asistido por IA.
+- [Vibe Coding Community](https://github.com/Vibe-Coding-Community) - Un espacio para compartir herramientas, mejores prácticas y proyectos creados con vibe coding.
+
+## Noticias y Redes sociales
+
+> Esta sección muestra los elementos en orden cronológico inverso, con las entradas más recientes al principio.
+
+- [Vibe-Coding Triggered Major Outages at Amazon](https://belitsoft.com/news/vibe-coding-amazon-outage-20261003) - Cómo los cambios asistidos por IA generativa provocaron cortes en producción.
+- [The State of Vibe Coding: A 2026 Strategic Blueprint | Keywords Studios](https://www.keywordsstudios.com/en/about-us/news-events/news/the-state-of-vibe-coding-a-2026-strategic-blueprint/)
+- [How Vibe Coding Is Killing Open Source | Hackaday](https://hackaday.com/2026/02/02/how-vibe-coding-is-killing-open-source/)
+- [The uncomfortable truth about vibe coding | Red Hat Developer](https://developers.redhat.com/articles/2026/02/17/uncomfortable-truth-about-vibe-coding)
+- [Vibe coding could cause catastrophic 'explosions' in 2026 - The New Stack](https://thenewstack.io/vibe-coding-could-cause-catastrophic-explosions-in-2026/)
+- [Vibe coding will become mainstream in 2026 - Verdict](https://www.verdict.co.uk/vibe-coding-mainstream-in-2026/)
+- [The Prompt Engineering Playbook for Programmers](https://addyo.substack.com/p/the-prompt-engineering-playbook-for)
+- [What is vibe coding? A computer scientist explains what it means to have AI write computer code − and what risks that can entail](https://theconversation.com/what-is-vibe-coding-a-computer-scientist-explains-what-it-means-to-have-ai-write-computer-code-and-what-risks-that-can-entail-257172)
+- [Peer Programming with LLMs, For Senior+ Engineers](https://pmbanugo.me/blog/peer-programming-with-llms)
+- 🔥 [The Way of Code | Rick Rubin](https://www.thewayofcode.com/)
+- [The State of Vibe Coding Tools (May 2025) | LinkedIn](https://www.linkedin.com/pulse/state-vibe-coding-tools-may-2025-nufar-gaspar-x1znf/?trackingId=iJSsdxE4R9OECPT43FtBww%3D%3D)
+- [Vibe coding MenuGen | karpathy](https://karpathy.bearblog.dev/vibe-coding-menugen/)
+- [Two publishers and three authors fail to understand what "vibe coding" means](https://simonwillison.net/2025/May/1/not-vibe-coding/)
+- [Not all AI-assisted programming is vibe coding (but vibe coding rocks)](https://simonwillison.net/2025/Mar/19/vibe-coding/)
+- [Vibe Coding 101 with Replit - DeepLearning.AI](https://www.deeplearning.ai/short-courses/vibe-coding-101-with-replit/)
+- [The "vibe coding" mind virus explained… by Fireship - YouTube](https://www.youtube.com/watch?v=Tw18-4U7mts)
+- [bolt.new on X - Introducing Figma to Bolt](https://x.com/boltdotnew/status/1900197121829331158)
+- [Will the future of software development run on vibes? - Ars Technica](https://arstechnica.com/ai/2025/03/is-vibe-coding-with-ai-gnarly-or-reckless-maybe-some-of-both/)
+- [Vibe Coding - Where Everyone Can 'Speak' Computer Programming - The New Stack](https://thenewstack.io/vibe-coding-where-everyone-can-speak-computer-programming/)
+- [A.I. and Vibecoding Helped Me to Create My Own Software - The New York Times](https://www.nytimes.com/2025/02/27/technology/personaltech/vibecoding-ai-software-programming.html)
+- [Vibe Engineering](https://www.manning.com/books/vibe-engineering)
+- [Mysti](https://github.com/DeepMyst/Mysti) - Asistente de codificación de IA multi-agente para VS Code. Claude Code, Codex, Gemini y GitHub Copilot realizan lluvias de ideas juntos y ofrecen soluciones colaborativas.
+
+## Contribuir
+
+¡Las contribuciones son bienvenidas! Lee primero las [pautas de contribución](CONTRIBUTING.md).
