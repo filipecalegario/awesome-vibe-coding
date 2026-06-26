@@ -65,6 +65,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 ## Mobile Apps
 
 - [VibeCode](https://www.vibecodeapp.com/) - The app that builds apps. Available on iOS and Android.
+- [VibeKit.bot](https://vibekit.bot/) - A persistent AI agent that builds, deploys, and maintains full-stack apps for you, driven from your phone. The agent runs on hosted containers (not your device), so each app ships to a live URL; bring-your-own-key for Claude/OpenAI. Native iOS + web.
 
 ## Plugins and Extensions
 
