@@ -50,7 +50,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Emergent](https://emergent.sh/) - Multi-agent AI app builder that plans, codes, tests, and deploys full-stack web and mobile apps autonomously.
 - [Manus](https://manus.im/) - Autonomous AI agent for end-to-end project automation, from research to deployment.
 - [Same.new](https://same.new/) - AI web builder for cloning and creating websites from descriptions.
-- [Vibes DIY](https://vibes.diy/) - Open-source AI app builder: describe an app in plain English and get a real, live, shareable web app you can remix and collaborate on.
+- [Vibes DIY](https://vibes.diy/) - [Open-source](https://github.com/VibesDIY/vibes.diy) AI app builder: describe an app in plain English and get a real, live, shareable web app you can remix and collaborate on.
 
 ## IDEs and Code Editors
 
