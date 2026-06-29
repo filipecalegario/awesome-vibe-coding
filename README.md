@@ -139,6 +139,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 
 ## Documentation for AI Coding
 
+- [AI Coding Tools Guide](https://ai-coding-tools-guide.vercel.app/cursor-alternatives/) - Workflow-based comparisons for Cursor alternatives, Claude Code, Windsurf, Cline, GitHub Copilot, Aider, Continue, and MCP-enabled AI coding.
 - [CodeGuide](https://www.codeguide.dev/) - Creates detailed Documentation for your AI Coding Projects.
 - [AGENTS.md](https://agents.md/) - A simple, open format for guiding coding agents, stewarded by the Linux Foundation.
 - [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) - A prompt template for vibe coding.
