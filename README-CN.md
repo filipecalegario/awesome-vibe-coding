@@ -127,6 +127,7 @@
 - [OpenCode](https://opencode.ai/) - 开源终端AI编程代理，支持LSP、75+个LLM提供商和多会话工作流。
 - [onWatch](https://github.com/onllm-dev/onwatch) - 开源Go CLI，跟踪7个提供商（Anthropic、OpenAI、GitHub Copilot、MiniMax等）的AI API配额使用情况。支持Claude Code、Codex CLI、Cursor、Cline等氛围编程工具。后台守护进程，<50MB内存，零遥测。
 - [pyscn](https://github.com/ludo-technologies/pyscn) - 氛围编程Python代码质量分析器。检测死代码、克隆、复杂性问题和耦合问题，具有MCP集成以支持AI助手。
+- [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) - 面向AI编程代理的框架无关Rust CLI记忆层，支持回忆、遗忘、审计和TUI工作流。
 
 ## AI编程任务管理
 
