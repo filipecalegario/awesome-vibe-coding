@@ -127,6 +127,7 @@
 - [OpenCode](https://opencode.ai/) - LSP 지원, 75개 이상의 LLM 제공업체 및 멀티세션 워크플로를 갖춘 오픈소스 터미널 AI 코딩 에이전트.
 - [onWatch](https://github.com/onllm-dev/onwatch) - 7개 제공자(Anthropic, OpenAI, GitHub Copilot, MiniMax 등)의 AI API 쿼터 사용량을 추적하는 오픈소스 Go CLI. Claude Code, Codex CLI, Cursor, Cline 등 바이브 코딩 도구와 호환. 백그라운드 데몬, <50MB RAM, 텔레메트리 없음.
 - [pyscn](https://github.com/ludo-technologies/pyscn) - 바이브 코딩된 Python 코드 품질 분석기. 데드 코드, 클론, 복잡성 문제, 결합도 문제를 감지하며 AI 어시스턴트를 위한 MCP 통합을 지원.
+- [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) - AI 코딩 에이전트를 위한 프레임워크 독립 Rust CLI 메모리 계층으로, 회상, 망각, 감사, TUI 워크플로를 지원합니다.
 
 ## AI 코딩 작업 관리
 

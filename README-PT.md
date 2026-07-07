@@ -127,6 +127,7 @@
 - [OpenCode](https://opencode.ai/) - Agente de codificação com IA de código aberto para o terminal com suporte a LSP, 75+ provedores de LLM e fluxos de trabalho multi-sessão.
 - [onWatch](https://github.com/onllm-dev/onwatch) - CLI Go de código aberto que rastreia o uso de cota de API de IA em 7 provedores (Anthropic, OpenAI, GitHub Copilot, MiniMax e mais). Funciona com Claude Code, Codex CLI, Cursor, Cline e outras ferramentas de vibe coding. Daemon em background, <50MB RAM, zero telemetria.
 - [pyscn](https://github.com/ludo-technologies/pyscn) - Analisador de qualidade de código para Python vibe-coded. Detecta código morto, clones, problemas de complexidade e acoplamento com integração MCP para assistentes de IA.
+- [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) - Camada de memória CLI em Rust, agnóstica a frameworks, para agentes de codificação com IA, com recall, esquecimento, auditoria e fluxos TUI.
 
 ## Gerenciamento de Tarefas para Codificação com IA
 

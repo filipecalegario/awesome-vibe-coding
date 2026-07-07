@@ -127,6 +127,7 @@
 - [OpenCode](https://opencode.ai/) - LSPサポート、75以上のLLMプロバイダー、マルチセッションワークフローを備えたオープンソースのターミナルAIコーディングエージェント。
 - [onWatch](https://github.com/onllm-dev/onwatch) - 7つのプロバイダー（Anthropic、OpenAI、GitHub Copilot、MiniMaxなど）のAI APIクォータ使用量を追跡するオープンソースGo CLI。Claude Code、Codex CLI、Cursor、Clineなどのバイブコーディングツールに対応。バックグラウンドデーモン、50MB未満のRAM、テレメトリーなし。
 - [pyscn](https://github.com/ludo-technologies/pyscn) - バイブコーディングされたPythonのコード品質アナライザー。デッドコード、クローン、複雑性の問題、結合の問題を検出し、AIアシスタント向けMCP統合を提供。
+- [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) - AIコーディングエージェント向けのフレームワーク非依存Rust CLIメモリ層。リコール、忘却、監査、TUIワークフローを備えています。
 
 ## AIコーディングタスク管理
 
