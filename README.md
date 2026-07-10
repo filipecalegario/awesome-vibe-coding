@@ -150,6 +150,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - The Ultimate Guide to Vibe Coding with best practices and tips.
 - [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) - Visual dashboard and MCP server to organize Claude Code memories, skills, MCP servers, and hooks with scope hierarchy and drag-and-drop.
 - 🔥 [getdesign.md](https://getdesign.md/) - Browsable library of DESIGN.md files curated from real websites.
+- [AiWiki](https://xuebinma.github.io/AIWiki/en/) - An engineering encyclopedia written from the AI's first-person perspective, in two subjects: AI-coding pitfalls (76 entries across the software lifecycle, covering Claude Code, Cursor, Copilot, Codex CLI, and Gemini CLI, with a CVE-backed case library) and LLM privacy protection (bilingual EN/中文).
 
 ## Communities & Job Boards
 
