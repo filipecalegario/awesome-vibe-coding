@@ -50,6 +50,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Emergent](https://emergent.sh/) - Multi-agent AI app builder that plans, codes, tests, and deploys full-stack web and mobile apps autonomously.
 - [Manus](https://manus.im/) - Autonomous AI agent for end-to-end project automation, from research to deployment.
 - [Same.new](https://same.new/) - AI web builder for cloning and creating websites from descriptions.
+- [host4.ai](https://host4.ai/) - Cloud hosting with AI coding agents (Claude Code, Codex) preinstalled. Describe what you want, AI builds and deploys it live. Free tier with 20 AI builder credits, SSH terminal, and .host4.ai subdomain.
 
 ## IDEs and Code Editors
 
