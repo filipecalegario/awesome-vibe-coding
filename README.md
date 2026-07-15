@@ -65,6 +65,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 ## Mobile Apps
 
 - [VibeCode](https://www.vibecodeapp.com/) - The app that builds apps. Available on iOS and Android.
+- [VibeKit.bot](https://vibekit.bot/) - Build, host, and update web apps from your phone. Each app runs a hosted AI coding agent on a live subdomain, with its code in a standard GitHub repo. BYOK Anthropic/OpenAI. Native iOS app.
 
 ## Plugins and Extensions
 
