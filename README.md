@@ -25,6 +25,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Vibe coding - Wikipedia](https://en.wikipedia.org/wiki/Vibe_coding) - Wikipedia article defining vibe coding and tracing its origin.
 - [Vibe coding is passé - The New Stack](https://thenewstack.io/vibe-coding-is-passe/) - Karpathy's evolution of the concept toward "agentic engineering".
 - [automata/aicodeguide](https://github.com/automata/aicodeguide) - A roadmap to start coding with AI.
+- [Agentic Coding Trends 2026](https://agentic-coder.de/studien/agentic-coding-trends-2026) - Daily open dataset tracking 40 active coding-agent repositories, with transparent methodology and JSON/CSV downloads.
 
 ## Browser-based Tools
 
