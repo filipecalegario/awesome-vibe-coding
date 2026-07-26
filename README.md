@@ -150,6 +150,9 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - The Ultimate Guide to Vibe Coding with best practices and tips.
 - [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) - Visual dashboard and MCP server to organize Claude Code memories, skills, MCP servers, and hooks with scope hierarchy and drag-and-drop.
 - 🔥 [getdesign.md](https://getdesign.md/) - Browsable library of DESIGN.md files curated from real websites.
+-  [Explain My Build](https://explainmybuild.com) - Reads the real code of an app you built 
+  with AI and writes a plain-English end-user guide, a founder runbook, and a code-verified fix-list — 
+  from the code, not a screen recording.
 
 ## Communities & Job Boards
 
