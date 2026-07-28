@@ -150,6 +150,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - The Ultimate Guide to Vibe Coding with best practices and tips.
 - [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) - Visual dashboard and MCP server to organize Claude Code memories, skills, MCP servers, and hooks with scope hierarchy and drag-and-drop.
 - 🔥 [getdesign.md](https://getdesign.md/) - Browsable library of DESIGN.md files curated from real websites.
+- [anti-slop-website-prompts](https://github.com/OpenSettle/anti-slop-website-prompts) - 15 free art-directed website build-prompts and an anti-slop design SKILL.md for Lovable, Bolt, v0, Cursor, and Claude Code.
 
 ## Communities & Job Boards
 
