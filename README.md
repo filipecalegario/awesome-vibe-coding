@@ -86,6 +86,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Cody](https://sourcegraph.com/cody) - Free AI code assistant by Sourcegraph with deep codebase understanding and code indexing.
 - [Qodo Gen](https://www.qodo.ai/) - AI-powered coding platform for VS Code with testing, code review, and agentic tools.
 - [Skills.sh](https://skills.sh/) - Open ecosystem by Vercel for installing reusable AI agent skills with a single command across 18+ platforms.
+- [sol-simplify](https://github.com/MongLong0214/sol-simplify) - One-markdown-file skill for Claude Code and Codex that stops agents from inventing bureaucracy (approval gates, governance docs) around their own work. Ceremony scored 0 in 10 of 11 benchmark runs on gpt-5.6-sol vs 4-6 for baselines.
 
 ## Local Apps
 
