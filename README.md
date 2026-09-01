@@ -136,6 +136,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [CCPM (Claude Code PM)](https://github.com/automazeio/ccpm) - Project management for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
 - [Archon](https://github.com/coleam00/Archon) - Knowledge and task management backbone for AI coding assistants via MCP.
 - [AI-DLC Workflows (AWS Labs)](https://github.com/awslabs/aidlc-workflows) - AI-Driven Development Life Cycle workflow rules for coding agents. Supports Kiro, Q Developer, Cursor, Cline, Claude Code.
+- [AgentBridge](https://github.com/raysonmeng/agent-bridge) - Local MIT CLI that keeps Claude Code and Codex as live peers for mid-turn review, task split, and quota-boundary handoff.
 
 ## Documentation for AI Coding
 
