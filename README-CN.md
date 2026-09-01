@@ -150,6 +150,7 @@
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - 氛围编程终极指南，包含最佳实践和技巧。
 - [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) - 可视化仪表板和MCP服务器，用于组织Claude Code的记忆、技能、MCP服务器和钩子，支持范围层次结构和拖放操作。
 - 🔥 [getdesign.md](https://getdesign.md/) - 从真实网站精选的DESIGN.md文件的可浏览库。
+- [liyupi/ai-guide](https://github.com/liyupi/ai-guide) - 免费开源的中文氛围编程教程，涵盖工具选择、对话工程、项目实战和产品上线。
 
 ## 社区和招聘平台
 
