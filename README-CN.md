@@ -64,6 +64,7 @@
 
 ## 移动应用
 
+- [Moku](https://github.com/wilsen0/moku) - 专为 AI 编程打造的跨平台终端工作区，一键续接远端 Claude Code、Codex、OpenCode 等会话，自研 Rust 终端核心与 iOS 灵动岛监控。
 - [VibeCode](https://www.vibecodeapp.com/) - 构建应用的应用。适用于iOS和Android。
 
 ## 插件和扩展

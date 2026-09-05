@@ -64,6 +64,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 
 ## Mobile Apps
 
+- [Moku](https://github.com/wilsen0/moku) - A cross-platform terminal workspace built to resume remote AI coding sessions (Claude Code, Codex, OpenCode) in 1 tap, with custom Rust terminal core, Mosh roaming, and iOS Dynamic Island status tracking.
 - [VibeCode](https://www.vibecodeapp.com/) - The app that builds apps. Available on iOS and Android.
 
 ## Plugins and Extensions
