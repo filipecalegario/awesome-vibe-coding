@@ -127,6 +127,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [OpenCode](https://opencode.ai/) - Open-source AI coding agent for the terminal with LSP support, 75+ LLM providers, and multi-session workflows.
 - [onWatch](https://github.com/onllm-dev/onwatch) - Open-source Go CLI that tracks AI API quota usage across 7 providers (Anthropic, OpenAI, GitHub Copilot, MiniMax, and more). Works with Claude Code, Codex CLI, Cursor, Cline, and other vibe coding tools. Background daemon, <50MB RAM, zero telemetry.
 - [pyscn](https://github.com/ludo-technologies/pyscn) - Code quality analyzer for vibe-coded Python. Detects dead code, clones, complexity issues, and coupling problems with MCP integration for AI assistants.
+- [BetterTyped/hype-stack](https://github.com/BetterTyped/hype-stack) - AI-native fullstack monorepo with a local MCP installer (~11 tools). Ask Cursor, Claude Code, or Codex to search packs, plan, and write features into your repo. `npx @hype-stack/cli mcp install`. [Docs](https://www.hype-stack.dev/mcp)
 
 ## Task Management for AI Coding
 
