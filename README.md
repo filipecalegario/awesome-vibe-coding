@@ -151,6 +151,8 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) - Visual dashboard and MCP server to organize Claude Code memories, skills, MCP servers, and hooks with scope hierarchy and drag-and-drop.
 - 🔥 [getdesign.md](https://getdesign.md/) - Browsable library of DESIGN.md files curated from real websites.
 
+- [CloneAny](https://cloneany.com/design-md-generator) - Extracts DESIGN.md from a public webpage for use as design context in AI coding agents.
+
 ## Communities & Job Boards
 
 - [Vibehackers](https://vibehackers.io) - Community gallery for vibe coded projects and curated job board.
