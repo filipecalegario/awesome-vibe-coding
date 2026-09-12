@@ -145,6 +145,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [awesome-ralph](https://github.com/snwfdhmp/awesome-ralph) - A curated list of resources about Ralph, the vibe coding technique that runs vibe coding agents in automated loops until specifications are fulfilled.
 - [Context7](https://github.com/upstash/context7) - Delivers up-to-date, version-specific documentation directly into LLM prompts. MCP server + CLI.
 - [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - Curated collection of `.cursorrules` configuration files for the Cursor AI editor.
+- [DeepSeek Harness plugin directory](https://dsplugin.app/) - Unofficial community DeepSeek Harness plugin directory / registry.
 - [llms.txt](https://github.com/AnswerDotAI/llms-txt) - Standardized markdown file specification for making website documentation LLM-friendly.
 - [claude-reflect](https://github.com/BayramAnnakov/claude-reflect) - Self-learning system for Claude Code that captures corrections and syncs approved learnings to CLAUDE.md files.
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - The Ultimate Guide to Vibe Coding with best practices and tips.
