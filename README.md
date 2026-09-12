@@ -127,6 +127,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [OpenCode](https://opencode.ai/) - Open-source AI coding agent for the terminal with LSP support, 75+ LLM providers, and multi-session workflows.
 - [onWatch](https://github.com/onllm-dev/onwatch) - Open-source Go CLI that tracks AI API quota usage across 7 providers (Anthropic, OpenAI, GitHub Copilot, MiniMax, and more). Works with Claude Code, Codex CLI, Cursor, Cline, and other vibe coding tools. Background daemon, <50MB RAM, zero telemetry.
 - [pyscn](https://github.com/ludo-technologies/pyscn) - Code quality analyzer for vibe-coded Python. Detects dead code, clones, complexity issues, and coupling problems with MCP integration for AI assistants.
+- [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records an agent session and replays it offline, so the run happens again with no model called — `orca record claude -- …` then `orca replay last`.
 
 ## Task Management for AI Coding
 
