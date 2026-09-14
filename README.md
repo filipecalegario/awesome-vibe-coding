@@ -189,3 +189,5 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+
+- **[Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril)** - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops
