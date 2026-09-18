@@ -158,6 +158,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [/r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/)
 - [Vibe Coding Forem](https://vibe.forem.com/) - Community forum for AI-assisted development discussions.
 - [Vibe Coding Community](https://github.com/Vibe-Coding-Community) - A space for sharing tools, best practices, and projects created with vibe coding.
+- [Hackyard](https://hackyard.tech) - Community-driven AI hackathons for solo builders; small weekly events where everyone ships something built with AI and the community votes on the results.
 
 ## News and Social Media
 
