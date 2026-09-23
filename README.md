@@ -25,6 +25,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Vibe coding - Wikipedia](https://en.wikipedia.org/wiki/Vibe_coding) - Wikipedia article defining vibe coding and tracing its origin.
 - [Vibe coding is passé - The New Stack](https://thenewstack.io/vibe-coding-is-passe/) - Karpathy's evolution of the concept toward "agentic engineering".
 - [automata/aicodeguide](https://github.com/automata/aicodeguide) - A roadmap to start coding with AI.
+- [Get-Prbl/ai-built-app-security-study](https://github.com/Get-Prbl/ai-built-app-security-study) - Open dataset (CC BY) from probing 4,740 live vibe-coded apps and scanning 2,148 AI-built repos: 1 in 18 live apps served private data to a logged-out visitor; hardcoded credentials were the top flaw in every group.
 
 ## Browser-based Tools
 
