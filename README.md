@@ -65,6 +65,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 ## Mobile Apps
 
 - [VibeCode](https://www.vibecodeapp.com/) - The app that builds apps. Available on iOS and Android.
+- [TermFold](https://github.com/Bibarud/TermFold) - A full Debian Linux terminal and AI coding agents (Claude Code, Codex, Gemini CLI, OpenCode) on Android tablets and phones, no root needed. Free and open source.
 
 ## Plugins and Extensions
 
