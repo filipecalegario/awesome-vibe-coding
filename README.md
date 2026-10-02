@@ -158,6 +158,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [/r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/)
 - [Vibe Coding Forem](https://vibe.forem.com/) - Community forum for AI-assisted development discussions.
 - [Vibe Coding Community](https://github.com/Vibe-Coding-Community) - A space for sharing tools, best practices, and projects created with vibe coding.
+- [BuiltByVibe](https://builtbyvibe.dev) - Community showcase and discovery directory for software built with AI coding tools.
 
 ## News and Social Media
 
