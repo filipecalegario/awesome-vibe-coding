@@ -15,6 +15,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Command Line Tools](#command-line-tools)
 - [Task Management for AI Coding](#task-management-for-ai-coding)
 - [Documentation for AI Coding](#documentation-for-ai-coding)
+- [Practice and Skill Assessment](#practice-and-skill-assessment)
 - [Communities \& Job Boards](#communities--job-boards)
 - [News and Social Media](#news-and-social-media)
 - [Contribute](#contribute)
@@ -150,6 +151,10 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - The Ultimate Guide to Vibe Coding with best practices and tips.
 - [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) - Visual dashboard and MCP server to organize Claude Code memories, skills, MCP servers, and hooks with scope hierarchy and drag-and-drop.
 - 🔥 [getdesign.md](https://getdesign.md/) - Browsable library of DESIGN.md files curated from real websites.
+
+## Practice and Skill Assessment
+
+- [kodwai](https://www.kodwai.com) - Platform where developers solve real coding challenges on their own machine with their own AI coding agent (Claude Code, Cursor, or Codex) and get scored on how well they direct the agent, across three axes: Direction, Outcome, and Lift. Built for practicing agentic coding and vibe coding, with a public leaderboard. Free for developers.
 
 ## Communities & Job Boards
 
