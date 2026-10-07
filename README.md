@@ -65,6 +65,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 ## Mobile Apps
 
 - [VibeCode](https://www.vibecodeapp.com/) - The app that builds apps. Available on iOS and Android.
+- [Peekumi](https://github.com/tee-jagz/peekumi) - Mobile-first interface for reviewing agent implementations from repository level down to code, with support for Codex and Claude Code.
 
 ## Plugins and Extensions
 
