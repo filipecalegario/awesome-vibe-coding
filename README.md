@@ -127,6 +127,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [OpenCode](https://opencode.ai/) - Open-source AI coding agent for the terminal with LSP support, 75+ LLM providers, and multi-session workflows.
 - [onWatch](https://github.com/onllm-dev/onwatch) - Open-source Go CLI that tracks AI API quota usage across 7 providers (Anthropic, OpenAI, GitHub Copilot, MiniMax, and more). Works with Claude Code, Codex CLI, Cursor, Cline, and other vibe coding tools. Background daemon, <50MB RAM, zero telemetry.
 - [pyscn](https://github.com/ludo-technologies/pyscn) - Code quality analyzer for vibe-coded Python. Detects dead code, clones, complexity issues, and coupling problems with MCP integration for AI assistants.
+- [aisw](https://github.com/burakdede/aisw) - Switch Claude Code, Codex CLI, Gemini CLI and Antigravity CLI accounts with named profiles in one command. Docs: [aiswitcher.dev](https://aiswitcher.dev).
 
 ## Task Management for AI Coding
 
