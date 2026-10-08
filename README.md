@@ -95,6 +95,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Open-source version of Bolt.new with Electron desktop apps, 19+ AI providers, and local model support via Ollama.
 - [Superset](https://github.com/superset-sh/superset) - Desktop app to orchestrate multiple AI coding agents in parallel (Claude Code, Codex, etc.) with Git worktree isolation.
 - [Parallel Code](https://github.com/johannesjo/parallel-code) - Desktop app for running multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) simultaneously in isolated git worktrees.
+- [VibeiDE](https://vibeide.dev/?utm_source=awesome-vibe-coding&utm_medium=referral&utm_campaign=outreach) - Desktop app that coordinates the Claude Code, Codex and OpenCode CLIs you already installed, with a task queue per project and a Git worktree per task.
 
 ## Command Line Tools
 
