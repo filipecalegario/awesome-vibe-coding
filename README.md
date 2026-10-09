@@ -50,6 +50,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Emergent](https://emergent.sh/) - Multi-agent AI app builder that plans, codes, tests, and deploys full-stack web and mobile apps autonomously.
 - [Manus](https://manus.im/) - Autonomous AI agent for end-to-end project automation, from research to deployment.
 - [Same.new](https://same.new/) - AI web builder for cloning and creating websites from descriptions.
+- [Massvai](https://massvai.com) - AI agent that builds full-stack Next.js apps from a prompt, with live preview, Supabase setup, GitHub sync and one-click Vercel deploy.
 
 ## IDEs and Code Editors
 
