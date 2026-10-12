@@ -95,6 +95,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Open-source version of Bolt.new with Electron desktop apps, 19+ AI providers, and local model support via Ollama.
 - [Superset](https://github.com/superset-sh/superset) - Desktop app to orchestrate multiple AI coding agents in parallel (Claude Code, Codex, etc.) with Git worktree isolation.
 - [Parallel Code](https://github.com/johannesjo/parallel-code) - Desktop app for running multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) simultaneously in isolated git worktrees.
+- [Shrike](https://github.com/SumantxD/shrike) - Open source desktop debugger for people who build web apps with AI. Records a broken click from the button to the database so your coding agent fixes the real line, then clicks again to prove it.
 
 ## Command Line Tools
 
