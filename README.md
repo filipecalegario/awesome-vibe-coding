@@ -29,6 +29,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 ## Browser-based Tools
 
 - [Bolt.new](https://bolt.new/) - Prompt, run, edit, and deploy full-stack web and mobile apps.
+- [FixIt](https://fixitbot.pythonanywhere.com/) - Paste an error from a Lovable, Bolt, Cursor, Replit, v0 or Supabase app and get a plain-English root cause, step-by-step fix and a ready-to-paste prompt for your AI builder. 3 free fixes/month.
 - 🔥 [Lovable](https://lovable.dev/) - "Idea to app in seconds. Lovable is your superhuman full stack engineer".
 - [v0 by Vercel](https://v0.dev/chat) - Vibe coding platform for building production apps and agents with Next.js.
 - [Capacity](https://capacity.so/) - Turn your ideas into fully functional web apps in minutes using AI.
