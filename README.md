@@ -150,6 +150,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - The Ultimate Guide to Vibe Coding with best practices and tips.
 - [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) - Visual dashboard and MCP server to organize Claude Code memories, skills, MCP servers, and hooks with scope hierarchy and drag-and-drop.
 - 🔥 [getdesign.md](https://getdesign.md/) - Browsable library of DESIGN.md files curated from real websites.
+- [ai-coding-rules-sampler](https://github.com/elirankotzero/ai-coding-rules-sampler) - Free MIT rules and skills (core, security, plan-first workflow) generated for Cursor `.mdc`, Claude Code, Codex `AGENTS.md`, Windsurf and Copilot from one source.
 
 ## Communities & Job Boards
 
