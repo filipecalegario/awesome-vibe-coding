@@ -15,6 +15,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Command Line Tools](#command-line-tools)
 - [Task Management for AI Coding](#task-management-for-ai-coding)
 - [Documentation for AI Coding](#documentation-for-ai-coding)
+- [Hosting and Deployment](#hosting-and-deployment)
 - [Communities \& Job Boards](#communities--job-boards)
 - [News and Social Media](#news-and-social-media)
 - [Contribute](#contribute)
@@ -150,6 +151,10 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - The Ultimate Guide to Vibe Coding with best practices and tips.
 - [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) - Visual dashboard and MCP server to organize Claude Code memories, skills, MCP servers, and hooks with scope hierarchy and drag-and-drop.
 - 🔥 [getdesign.md](https://getdesign.md/) - Browsable library of DESIGN.md files curated from real websites.
+
+## Hosting and Deployment
+
+- [The Vibe Hosting](https://thevibehosting.com) - Free hosting your coding agent sets up by itself: one prompt in Claude Code, Cursor or Codex puts the app on a root Linux server with an HTTPS subdomain (or your own domain), no signup or credit card.
 
 ## Communities & Job Boards
 
