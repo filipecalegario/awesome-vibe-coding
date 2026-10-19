@@ -16,6 +16,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Task Management for AI Coding](#task-management-for-ai-coding)
 - [Documentation for AI Coding](#documentation-for-ai-coding)
 - [Communities \& Job Boards](#communities--job-boards)
+- [Directories](#directories)
 - [News and Social Media](#news-and-social-media)
 - [Contribute](#contribute)
 
@@ -158,6 +159,10 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [/r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/)
 - [Vibe Coding Forem](https://vibe.forem.com/) - Community forum for AI-assisted development discussions.
 - [Vibe Coding Community](https://github.com/Vibe-Coding-Community) - A space for sharing tools, best practices, and projects created with vibe coding.
+
+## Directories
+
+- [Stackdrop (getstackdrop.com)](https://getstackdrop.com/) - AI tools directory for vibe coders with 125+ tools, recommended stacks by goal and side-by-side comparisons.
 
 ## News and Social Media
 
