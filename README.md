@@ -25,6 +25,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Vibe coding - Wikipedia](https://en.wikipedia.org/wiki/Vibe_coding) - Wikipedia article defining vibe coding and tracing its origin.
 - [Vibe coding is passé - The New Stack](https://thenewstack.io/vibe-coding-is-passe/) - Karpathy's evolution of the concept toward "agentic engineering".
 - [automata/aicodeguide](https://github.com/automata/aicodeguide) - A roadmap to start coding with AI.
+- [What is hive coding?](https://thehivecode.ai/learn/what-is-hive-coding) - Plain-English definition of hive coding (many people and many AIs), how it differs from vibe and swarm coding, and where the term came from.
 
 ## Browser-based Tools
 
