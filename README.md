@@ -150,6 +150,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - The Ultimate Guide to Vibe Coding with best practices and tips.
 - [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) - Visual dashboard and MCP server to organize Claude Code memories, skills, MCP servers, and hooks with scope hierarchy and drag-and-drop.
 - 🔥 [getdesign.md](https://getdesign.md/) - Browsable library of DESIGN.md files curated from real websites.
+- [travail-avec-ia](https://github.com/On-100K-Lisse/travail-avec-ia) - Open documentation (in French, with an English summary) of projects built by collaborating with several AI assistants (ChatGPT, Claude, Gemini, Kai), including a documented multi-AI work method: one branch per AI, shared written rules, and cross-reviewing between AIs.
 
 ## Communities & Job Boards
 
