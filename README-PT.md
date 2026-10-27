@@ -86,6 +86,7 @@
 - [Cody](https://sourcegraph.com/cody) - Assistente de código com IA gratuito da Sourcegraph com compreensão profunda da base de código e indexação de código.
 - [Qodo Gen](https://www.qodo.ai/) - Plataforma de codificação com IA para VS Code com testes, revisão de código e ferramentas agênticas.
 - [Skills.sh](https://skills.sh/) - Ecossistema aberto da Vercel para instalar habilidades reutilizáveis de agentes de IA com um único comando em 18+ plataformas.
+- [Agent Standup](https://github.com/Atoll92/agent-standup) - Extensão de VS Code, CLI e app para macOS de código aberto que mostra suas sessões do Claude Code, Codex e Mistral Vibe como uma videochamada animada ao vivo: quem está trabalhando, quem travou e quem está esperando por você.
 
 ## Aplicativos Locais
 

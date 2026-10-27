@@ -86,6 +86,7 @@
 - [Cody](https://sourcegraph.com/cody) - Sourcegraph製の深いコードベース理解とコードインデックス機能を備えた無料AIコードアシスタント。
 - [Qodo Gen](https://www.qodo.ai/) - テスト、コードレビュー、エージェンティックツールを備えたVS Code用AI搭載コーディングプラットフォーム。
 - [Skills.sh](https://skills.sh/) - 18以上のプラットフォームで単一コマンドで再利用可能なAIエージェントスキルをインストールできるVercelのオープンエコシステム。
+- [Agent Standup](https://github.com/Atoll92/agent-standup) - Claude Code、Codex、Mistral Vibe のセッションをアニメーション付きのライブチーム通話として表示するオープンソースの VS Code 拡張機能・CLI・macOS アプリ。誰が作業中で、誰が止まっていて、誰があなたを待っているかがわかる。
 
 ## ローカルアプリ
 

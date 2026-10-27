@@ -86,6 +86,7 @@
 - [Cody](https://sourcegraph.com/cody) - Sourcegraph推出的免费AI代码助手，具有深度代码库理解和代码索引功能。
 - [Qodo Gen](https://www.qodo.ai/) - AI驱动的VS Code编程平台，具有测试、代码审查和代理工具。
 - [Skills.sh](https://skills.sh/) - Vercel推出的开放生态系统，可通过单条命令在18+个平台上安装可复用的AI代理技能。
+- [Agent Standup](https://github.com/Atoll92/agent-standup) - 开源的 VS Code 扩展、命令行工具和 macOS 应用，把 Claude Code、Codex 和 Mistral Vibe 会话变成一场实时动画团队会议：谁在工作、谁卡住了、谁在等你。
 
 ## 本地应用
 

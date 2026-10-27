@@ -86,6 +86,7 @@
 - [Cody](https://sourcegraph.com/cody) - Sourcegraph의 무료 AI 코드 어시스턴트로, 깊은 코드베이스 이해 및 코드 인덱싱을 지원.
 - [Qodo Gen](https://www.qodo.ai/) - 테스트, 코드 리뷰, 에이전트 도구를 갖춘 VS Code용 AI 기반 코딩 플랫폼.
 - [Skills.sh](https://skills.sh/) - 18개 이상의 플랫폼에서 단일 명령으로 재사용 가능한 AI 에이전트 스킬을 설치할 수 있는 Vercel의 오픈 에코시스템.
+- [Agent Standup](https://github.com/Atoll92/agent-standup) - Claude Code, Codex, Mistral Vibe 세션을 애니메이션 라이브 팀 통화로 보여 주는 오픈 소스 VS Code 확장, CLI, macOS 앱. 누가 작업 중인지, 막혔는지, 나를 기다리는지 알 수 있다.
 
 ## 로컬 앱
 
