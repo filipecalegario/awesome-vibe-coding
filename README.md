@@ -150,6 +150,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - The Ultimate Guide to Vibe Coding with best practices and tips.
 - [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) - Visual dashboard and MCP server to organize Claude Code memories, skills, MCP servers, and hooks with scope hierarchy and drag-and-drop.
 - 🔥 [getdesign.md](https://getdesign.md/) - Browsable library of DESIGN.md files curated from real websites.
+- [Mycel](https://github.com/mathew5612/mycel) - Local, live mind map of your project that your coding agent builds and keeps up to date, from plain-language concepts down to code. Claude Code plugin and MCP server; works with Codex, Cursor and local models.
 
 ## Communities & Job Boards
 
