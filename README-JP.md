@@ -61,6 +61,7 @@
 - [Orchids](https://www.orchids.app/) - 人間の開発者と同等に構築、監視、リッスンできるバイブコーディングIDE。
 - [Trae IDE](https://www.trae.ai/) - ByteDance製の無料AI IDE。ビルダーモード、GPT-4o、Claude Sonnet、DeepSeek R1への無料アクセス。
 - [Devin](https://devin.ai/) - Cognition製の自律型AIソフトウェアエンジニア。独自のIDE、シェル、ブラウザ、クラウドサンドボックスを搭載。
+- [Singularity](https://singularity.meteorfactory.dev/) - macOS・Windows・Linux対応のエージェント開発環境（ADE）。アトミックなチケットのカンバンボードからClaude CodeとCodexのエージェントを並列実行し、ターミナル、コードエディタ、Git連携を内蔵。
 
 ## モバイルアプリ
 

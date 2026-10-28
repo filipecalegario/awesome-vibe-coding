@@ -61,6 +61,7 @@
 - [Orchids](https://www.orchids.app/) - O IDE de Vibe Coding que pode construir, observar e ouvir no mesmo nível de um desenvolvedor humano.
 - [Trae IDE](https://www.trae.ai/) - IDE de IA gratuito da ByteDance com Builder Mode, acesso gratuito a GPT-4o, Claude Sonnet e DeepSeek R1.
 - [Devin](https://devin.ai/) - Engenheiro de software autônomo com IA da Cognition com seu próprio IDE, shell, navegador e sandbox na nuvem.
+- [Singularity](https://singularity.meteorfactory.dev/) - Ambiente de Desenvolvimento Agêntico (ADE) para macOS, Windows e Linux que executa agentes Claude Code e Codex em paralelo a partir de um quadro Kanban de tickets atômicos, com terminal, editor de código e integração com Git.
 
 ## Aplicativos Mobile
 

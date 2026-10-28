@@ -61,6 +61,7 @@
 - [Orchids](https://www.orchids.app/) - 인간 개발자 수준으로 빌드, 관찰, 청취할 수 있는 바이브 코딩 IDE.
 - [Trae IDE](https://www.trae.ai/) - ByteDance의 무료 AI IDE로, Builder Mode와 GPT-4o, Claude Sonnet, DeepSeek R1 무료 접근 제공.
 - [Devin](https://devin.ai/) - Cognition이 만든 자율 AI 소프트웨어 엔지니어로, 자체 IDE, 셸, 브라우저 및 클라우드 샌드박스를 보유.
+- [Singularity](https://singularity.meteorfactory.dev/) - macOS, Windows, Linux용 에이전틱 개발 환경(ADE)으로, 원자적 티켓 칸반 보드에서 Claude Code와 Codex 에이전트를 병렬로 실행하며 터미널, 코드 에디터, Git 통합을 내장.
 
 ## 모바일 앱
 

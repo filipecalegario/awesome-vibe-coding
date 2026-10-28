@@ -61,6 +61,7 @@
 - [Orchids](https://www.orchids.app/) - 氛围编程IDE，能够像人类开发者一样构建、观察和聆听。
 - [Trae IDE](https://www.trae.ai/) - 字节跳动推出的免费AI IDE，具有Builder模式，免费使用GPT-4o、Claude Sonnet和DeepSeek R1。
 - [Devin](https://devin.ai/) - Cognition推出的自主AI软件工程师，拥有自己的IDE、Shell、浏览器和云沙箱。
+- [Singularity](https://singularity.meteorfactory.dev/) - 面向 macOS、Windows 和 Linux 的智能体开发环境（ADE），通过原子化工单看板并行运行 Claude Code 和 Codex 智能体，内置终端、代码编辑器和 Git 集成。
 
 ## 移动应用
 
