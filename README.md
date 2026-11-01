@@ -186,6 +186,8 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Vibe Engineering](https://www.manning.com/books/vibe-engineering)
 - [Mysti](https://github.com/DeepMyst/Mysti) - Multi-agent AI coding assistant for VS Code. Claude Code, Codex, Gemini, and GitHub Copilot brainstorm together and deliver collaborative solutions.
 
+- [How to Make a Browser Game With AI - OttersPlay](https://ottersplay.com/how-to-make-a-browser-game-with-ai/) - Step-by-step guide to choosing a game loop, prompting a coding assistant, testing mechanics, and publishing a browser game.
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
