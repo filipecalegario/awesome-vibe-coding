@@ -86,7 +86,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Cody](https://sourcegraph.com/cody) - Free AI code assistant by Sourcegraph with deep codebase understanding and code indexing.
 - [Qodo Gen](https://www.qodo.ai/) - AI-powered coding platform for VS Code with testing, code review, and agentic tools.
 - [Skills.sh](https://skills.sh/) - Open ecosystem by Vercel for installing reusable AI agent skills with a single command across 18+ platforms.
-
+- - [Darnly](https://darnly.dev) - Chrome extension that turns a bug you click on screen into a report (screenshot with the element boxed, selector, recent console errors) that Claude Code, Codex or Cursor can read from the project.
 ## Local Apps
 
 - [CCHub](https://github.com/Moresl/cchub) - Desktop app for managing the Claude Code ecosystem — MCP server marketplace, config profile switching, workflow templates, security audit, and autopilot. Built with Tauri + React + Rust.
