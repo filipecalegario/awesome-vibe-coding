@@ -1,3 +1,4 @@
+
 # Awesome Vibe Coding [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit in toc -->
 
 > A curated list of vibe coding references, collaborating with AI to write code.
@@ -150,7 +151,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - The Ultimate Guide to Vibe Coding with best practices and tips.
 - [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) - Visual dashboard and MCP server to organize Claude Code memories, skills, MCP servers, and hooks with scope hierarchy and drag-and-drop.
 - 🔥 [getdesign.md](https://getdesign.md/) - Browsable library of DESIGN.md files curated from real websites.
-
+- [paywall-check](https://github.com/PayWallKit/paywall-check) - 60-second smoke test for the Stripe paywall bugs AI coding agents write most often (unsigned webhooks, unlocking on the success page, leaked secret keys).
 ## Communities & Job Boards
 
 - [Vibehackers](https://vibehackers.io) - Community gallery for vibe coded projects and curated job board.
