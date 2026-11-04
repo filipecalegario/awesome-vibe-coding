@@ -93,7 +93,7 @@
 
 - 🔥 [Dyad](https://www.dyad.sh/) - 무료, 로컬, 오픈소스 AI 앱 빌더. 모델 독립적으로 클라우드 모델 및 Ollama를 통한 로컬 모델을 지원.
 - [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Electron 데스크톱 앱, 19개 이상의 AI 제공자, Ollama를 통한 로컬 모델 지원을 갖춘 Bolt.new의 오픈소스 버전.
-- [Superset](https://github.com/superset-sh/superset) - Git worktree 격리를 통해 여러 AI 코딩 에이전트(Claude Code, Codex 등)를 병렬로 오케스트레이션하는 데스크톱 앱.
+- [Paradev](https://github.com/ParadevAI/Paradev) - Git worktree 격리를 통해 여러 AI 코딩 에이전트(Claude Code, Codex 등)를 병렬로 오케스트레이션하는 데스크톱 앱.
 - [Parallel Code](https://github.com/johannesjo/parallel-code) - 격리된 git worktree에서 여러 AI 코딩 에이전트(Claude Code, Codex CLI, Gemini CLI)를 동시에 실행하는 데스크톱 앱.
 
 ## 명령행 도구

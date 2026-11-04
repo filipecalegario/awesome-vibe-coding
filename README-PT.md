@@ -93,7 +93,7 @@
 
 - 🔥 [Dyad](https://www.dyad.sh/) - Construtor de aplicações de IA gratuito, local e de código aberto. Agnóstico de modelo, suporta modelos na nuvem e local via Ollama.
 - [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Versão de código aberto do Bolt.new com apps desktop Electron, mais de 19 provedores de IA e suporte a modelos locais via Ollama.
-- [Superset](https://github.com/superset-sh/superset) - App desktop para orquestrar múltiplos agentes de codificação com IA em paralelo (Claude Code, Codex, etc.) com isolamento via Git worktree.
+- [Paradev](https://github.com/ParadevAI/Paradev) - App desktop para orquestrar múltiplos agentes de codificação com IA em paralelo (Claude Code, Codex, etc.) com isolamento via Git worktree.
 - [Parallel Code](https://github.com/johannesjo/parallel-code) - App desktop para executar múltiplos agentes de codificação com IA (Claude Code, Codex CLI, Gemini CLI) simultaneamente em git worktrees isolados.
 
 ## Ferramentas de Linha de Comando
