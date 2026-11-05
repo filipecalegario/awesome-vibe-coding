@@ -16,9 +16,6 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Task Management for AI Coding](#task-management-for-ai-coding)
 - [Documentation for AI Coding](#documentation-for-ai-coding)
 - [Pre-Deploy Checks](#pre-deploy-checks)
-
-- [Pre-Deploy Checks](#pre-deploy-checks)
-
 - [Communities \& Job Boards](#communities--job-boards)
 - [News and Social Media](#news-and-social-media)
 - [Contribute](#contribute)
