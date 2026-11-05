@@ -154,6 +154,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 ## Communities & Job Boards
 
 - [Vibehackers](https://vibehackers.io) - Community gallery for vibe coded projects and curated job board.
+- [PromptShipped](https://www.promptshipped.com/) - Directory of real apps people shipped with Lovable, Bolt, Cursor and other AI coding tools, browsable by tool and topic.
 - [/r/vibecoding](https://www.reddit.com/r/vibecoding/)
 - [/r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/)
 - [Vibe Coding Forem](https://vibe.forem.com/) - Community forum for AI-assisted development discussions.
