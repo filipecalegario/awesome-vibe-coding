@@ -10,6 +10,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Browser-based Tools](#browser-based-tools)
 - [IDEs and Code Editors](#ides-and-code-editors)
 - [Mobile Apps](#mobile-apps)
+- [Mobile UI Libraries](#mobile-ui-libraries)
 - [Plugins and Extensions](#plugins-and-extensions)
 - [Local Apps](#local-apps)
 - [Command Line Tools](#command-line-tools)
@@ -65,6 +66,10 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 ## Mobile Apps
 
 - [VibeCode](https://www.vibecodeapp.com/) - The app that builds apps. Available on iOS and Android.
+
+## Mobile UI Libraries
+
+- [OTF UI](https://github.com/otf-kit/sdk?utm_source=directory&utm_medium=organic&utm_campaign=first-sale-14d-20261016&utm_content=2026-11-05-filipecalegario-otf-ui-sdk) - MIT UI component library for React Native and web, with shared component names and design tokens across iOS, Android, and web.
 
 ## Plugins and Extensions
 
