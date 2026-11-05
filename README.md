@@ -15,6 +15,10 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Command Line Tools](#command-line-tools)
 - [Task Management for AI Coding](#task-management-for-ai-coding)
 - [Documentation for AI Coding](#documentation-for-ai-coding)
+- [Pre-Deploy Checks](#pre-deploy-checks)
+
+- [Pre-Deploy Checks](#pre-deploy-checks)
+
 - [Communities \& Job Boards](#communities--job-boards)
 - [News and Social Media](#news-and-social-media)
 - [Contribute](#contribute)
@@ -150,6 +154,10 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - The Ultimate Guide to Vibe Coding with best practices and tips.
 - [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) - Visual dashboard and MCP server to organize Claude Code memories, skills, MCP servers, and hooks with scope hierarchy and drag-and-drop.
 - 🔥 [getdesign.md](https://getdesign.md/) - Browsable library of DESIGN.md files curated from real websites.
+
+## Pre-Deploy Checks
+
+- [PatchAndShip Check](https://patchandship.com/check.html?utm_source=awesome-vibe-coding&utm_medium=referral&utm_campaign=seo-links) - Free passive check for common Supabase and deploy problems in Lovable, Bolt, Replit and Cursor apps. Not affiliated with Lovable, Bolt, Replit or Cursor.
 
 ## Communities & Job Boards
 
