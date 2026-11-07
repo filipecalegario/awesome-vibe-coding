@@ -95,6 +95,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Open-source version of Bolt.new with Electron desktop apps, 19+ AI providers, and local model support via Ollama.
 - [Superset](https://github.com/superset-sh/superset) - Desktop app to orchestrate multiple AI coding agents in parallel (Claude Code, Codex, etc.) with Git worktree isolation.
 - [Parallel Code](https://github.com/johannesjo/parallel-code) - Desktop app for running multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) simultaneously in isolated git worktrees.
+- [Orchestrator.inc](https://github.com/OrchestratorInc/agent-orchestrator) - Open-source desktop app (macOS, Windows, Linux) where an orchestrator agent splits work across Claude Code, Codex, Cursor and 35+ other coding agents, each in its own git worktree, with a Kanban board tracking every PR through CI and review.
 
 ## Command Line Tools
 
