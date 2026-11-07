@@ -163,6 +163,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 
 > This section displays items in reverse chronological order, with the most recent entries at the top.
 
+- [PrototypeVerdict Usage Index](https://prototypeverdict.com/usage-index/) - Dated same-prompt dataset of what Lovable, Base44, Bolt and Softr used to build three apps (Oct 29, 2026), CC BY 4.0 CSV.
 - [Vibe-Coding Triggered Major Outages at Amazon](https://belitsoft.com/news/vibe-coding-amazon-outage-20261003) - How GenAI-assisted changes triggered production outages.
 - [The State of Vibe Coding: A 2026 Strategic Blueprint | Keywords Studios](https://www.keywordsstudios.com/en/about-us/news-events/news/the-state-of-vibe-coding-a-2026-strategic-blueprint/)
 - [How Vibe Coding Is Killing Open Source | Hackaday](https://hackaday.com/2026/02/02/how-vibe-coding-is-killing-open-source/)
