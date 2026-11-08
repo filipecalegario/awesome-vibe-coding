@@ -95,6 +95,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Open-source version of Bolt.new with Electron desktop apps, 19+ AI providers, and local model support via Ollama.
 - [Superset](https://github.com/superset-sh/superset) - Desktop app to orchestrate multiple AI coding agents in parallel (Claude Code, Codex, etc.) with Git worktree isolation.
 - [Parallel Code](https://github.com/johannesjo/parallel-code) - Desktop app for running multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) simultaneously in isolated git worktrees.
+- [Easy Mode for Claude Code](https://github.com/paragpandyareal/easy-mode-for-claude-code) - Free, Windows-first desktop GUI for the real Claude Code CLI, with Undo save points, plain-English permission prompts and a "Just results" view for non-technical users.
 
 ## Command Line Tools
 
