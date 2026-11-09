@@ -55,7 +55,8 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 
 - [Windsurf](https://windsurf.com/) - Agentic IDE (acquired by Cognition, makers of Devin) with Cascade for multi-step coding and Tab/Supercomplete for completions.
 - 🔥 [Cursor](https://www.cursor.com/) - AI Code Editor with Cloud Agents, JetBrains integration, and 30+ plugins from partners like Atlassian, Datadog, and GitLab.
-- [Zed](https://zed.dev/) - First "Agentic IDE" built in Rust with built-in AI agents and real-time collaboration at 120fps.
+- [Zed](https://zed.dev/)
+- [Exody](https://www.exody.ai/) - Local-first macOS autonomous AI coding workbench, canvas-first Design Studio, and BYOK Smart Model Router (Claude, GPT, Gemini, Grok, DeepSeek, Ollama) with git worktree isolation and independent diff review. - First "Agentic IDE" built in Rust with built-in AI agents and real-time collaboration at 120fps.
 - [Amazon Kiro](https://kiro.dev) - The AI IDE for prototype to production, with spec-driven development and AWS integrations.
 - [Google Antigravity](https://antigravity.google/) - Google's agentic development platform with Manager view for orchestrating multiple agents in parallel. Free, cross-platform.
 - [Orchids](https://www.orchids.app/) - The Vibe Coding IDE that can build, watch, and listen on par with a human developer.
