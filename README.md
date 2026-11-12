@@ -127,6 +127,9 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [OpenCode](https://opencode.ai/) - Open-source AI coding agent for the terminal with LSP support, 75+ LLM providers, and multi-session workflows.
 - [onWatch](https://github.com/onllm-dev/onwatch) - Open-source Go CLI that tracks AI API quota usage across 7 providers (Anthropic, OpenAI, GitHub Copilot, MiniMax, and more). Works with Claude Code, Codex CLI, Cursor, Cline, and other vibe coding tools. Background daemon, <50MB RAM, zero telemetry.
 - [pyscn](https://github.com/ludo-technologies/pyscn) - Code quality analyzer for vibe-coded Python. Detects dead code, clones, complexity issues, and coupling problems with MCP integration for AI assistants.
+- [vibe-shield](https://github.com/avivgerz-hue/vibe-shield) - 92-rule static security scanner CLI, Agent Skill, and MCP server for AI-generated Next.js, Supabase, and TypeScript apps (OWASP Top 10:2025 + MCP/Skill poisoning).
+- [ghost-qa](https://github.com/avivgerz-hue/ghost-qa) - Autonomous headless Playwright browser QA CLI, Agent Skill, and MCP server that audits localhost across Desktop, Tablet, and Mobile viewports for 8 browser traps.
+- [unslop](https://github.com/avivgerz-hue/unslop) - 72-rule static UI/UX craft analyzer CLI, Agent Skill, and MCP server with WCAG 2.1 + APCA contrast math, 10 studio design archetypes, and Tailwind v4/v3 token export.
 
 ## Task Management for AI Coding
 
