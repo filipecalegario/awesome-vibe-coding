@@ -65,6 +65,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 ## Mobile Apps
 
 - [VibeCode](https://www.vibecodeapp.com/) - The app that builds apps. Available on iOS and Android.
+- [ForgeMind](https://github.com/DIIIUA/ForgeMind) - Open-source native Android AI coding workspace with Sora code editor, rollback diffs, dual-pane SFTP, Termux and Cloudflare Zero-Trust SSH, 8-tab agent browser, MCP, and cloud or local LAN model support.
 
 ## Plugins and Extensions
 
