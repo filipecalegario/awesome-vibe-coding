@@ -96,6 +96,8 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Superset](https://github.com/superset-sh/superset) - Desktop app to orchestrate multiple AI coding agents in parallel (Claude Code, Codex, etc.) with Git worktree isolation.
 - [Parallel Code](https://github.com/johannesjo/parallel-code) - Desktop app for running multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) simultaneously in isolated git worktrees.
 
+- [VibeSitter](https://vibesitter.app) - Read-only security scanner for Lovable, Bolt, v0, and Supabase apps; free surface scan with copy-paste fixes.
+
 ## Command Line Tools
 
 - 🔥 [anthropics/claude-code](https://github.com/anthropics/claude-code) - Coding agent that understands your codebase, automates tasks, explains code, and manages Git, all via natural language.
