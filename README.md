@@ -28,6 +28,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 
 ## Browser-based Tools
 
+- [VEX](https://github.com/umairkhan2582/vex) - Open-source autonomous AI application framework for deterministic full-stack code synthesis with instant browser preview.
 - [Bolt.new](https://bolt.new/) - Prompt, run, edit, and deploy full-stack web and mobile apps.
 - 🔥 [Lovable](https://lovable.dev/) - "Idea to app in seconds. Lovable is your superhuman full stack engineer".
 - [v0 by Vercel](https://v0.dev/chat) - Vibe coding platform for building production apps and agents with Next.js.
