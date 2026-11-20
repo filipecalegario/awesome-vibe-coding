@@ -150,6 +150,8 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - The Ultimate Guide to Vibe Coding with best practices and tips.
 - [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) - Visual dashboard and MCP server to organize Claude Code memories, skills, MCP servers, and hooks with scope hierarchy and drag-and-drop.
 - 🔥 [getdesign.md](https://getdesign.md/) - Browsable library of DESIGN.md files curated from real websites.
+- [BrowserMoon](https://www.browsermoon.com/) - 600+ website templates and 120 mobile app screens with matching CLAUDE.md, Cursor rules and DESIGN.md files for Claude Code, Cursor, Lovable, Bolt and v0.
+- [TopFreePrompts](https://topfreeprompts.com/) - Prompt library with 1M+ structured prompts and dedicated libraries for 15 AI tools; publishes an annual State of AI Prompting report based on platform search data.
 
 ## Communities & Job Boards
 
