@@ -136,6 +136,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [CCPM (Claude Code PM)](https://github.com/automazeio/ccpm) - Project management for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
 - [Archon](https://github.com/coleam00/Archon) - Knowledge and task management backbone for AI coding assistants via MCP.
 - [AI-DLC Workflows (AWS Labs)](https://github.com/awslabs/aidlc-workflows) - AI-Driven Development Life Cycle workflow rules for coding agents. Supports Kiro, Q Developer, Cursor, Cline, Claude Code.
+- [Canban](https://github.com/jjyr/canban) - Run 10+ coding agents (Claude Code, Codex, Cursor CLI, OpenCode) without drowning in terminal tabs - a native Rust + `libghostty` Kanban workbench where every card gets a persistent PTY terminal, isolated Git worktree, inline diff review, global attention inbox (`⌘I`), and GitHub Actions-like `plan -> develop -> merge` workflows across local and SSH/Tailscale hosts.
 
 ## Documentation for AI Coding
 
