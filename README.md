@@ -95,6 +95,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Open-source version of Bolt.new with Electron desktop apps, 19+ AI providers, and local model support via Ollama.
 - [Superset](https://github.com/superset-sh/superset) - Desktop app to orchestrate multiple AI coding agents in parallel (Claude Code, Codex, etc.) with Git worktree isolation.
 - [Parallel Code](https://github.com/johannesjo/parallel-code) - Desktop app for running multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) simultaneously in isolated git worktrees.
+- [Olympus Coder](https://github.com/martianacademy/olympus-coder) - Free, open-source (Apache-2.0) desktop workbench and zero-Electron headless VPS server for Claude Code, Codex, Antigravity, Ollama, and 18+ ACP coding agents with shared project memory, parallel sub-sessions, isolated Git worktrees, per-hunk diff review, and phone/browser access over local LAN (HTTP) or an E2E-encrypted relay.
 
 ## Command Line Tools
 
