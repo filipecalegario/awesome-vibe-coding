@@ -154,7 +154,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 
 ## Launch and Growth
 
-- [LaunchPal](https://launchpal.app) - A 30-day launch plan for apps built with AI app builders, from fixing what stops strangers to finding first users.
+- [LaunchPal](https://launchpal.app) - Every next step for apps built with AI app builders after they publish, from fixing what stops strangers to where their users ask for help.
 
 ## Communities & Job Boards
 
