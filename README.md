@@ -17,6 +17,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Documentation for AI Coding](#documentation-for-ai-coding)
 - [Communities \& Job Boards](#communities--job-boards)
 - [News and Social Media](#news-and-social-media)
+- [Cost \& Pricing](#cost--pricing)
 - [Contribute](#contribute)
 
 ## About the concept
@@ -185,6 +186,10 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [A.I. and Vibecoding Helped Me to Create My Own Software - The New York Times](https://www.nytimes.com/2025/02/27/technology/personaltech/vibecoding-ai-software-programming.html)
 - [Vibe Engineering](https://www.manning.com/books/vibe-engineering)
 - [Mysti](https://github.com/DeepMyst/Mysti) - Multi-agent AI coding assistant for VS Code. Claude Code, Codex, Gemini, and GitHub Copilot brainstorm together and deliver collaborative solutions.
+
+## Cost & Pricing
+
+- [Real cost of vibe coding](https://realvibecost.dev) - Sourced database of self-reported app build costs on Lovable, Bolt, Replit, v0, Base44 and Cursor, plus each tool's official plan-price history.
 
 ## Contribute
 
