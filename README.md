@@ -150,6 +150,8 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - The Ultimate Guide to Vibe Coding with best practices and tips.
 - [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) - Visual dashboard and MCP server to organize Claude Code memories, skills, MCP servers, and hooks with scope hierarchy and drag-and-drop.
 - 🔥 [getdesign.md](https://getdesign.md/) - Browsable library of DESIGN.md files curated from real websites.
+- [Apple RAG](https://github.com/BingoWon/apple-rag-mcp) - Grounded Apple Developer documentation (376k+ pages) and WWDC video transcripts for AI coding agents. Remote MCP server + CLI + live Docs Pulse radar.
+
 
 ## Communities & Job Boards
 
