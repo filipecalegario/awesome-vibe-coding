@@ -65,6 +65,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 ## Mobile Apps
 
 - [VibeCode](https://www.vibecodeapp.com/) - The app that builds apps. Available on iOS and Android.
+- [Cawide](https://cawide.dev) - Native iPhone app and open source CLI to run Claude Code, Codex, OMP and OpenCode on your computer and control them from your phone.
 
 ## Plugins and Extensions
 
